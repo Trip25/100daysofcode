@@ -10,7 +10,7 @@ Monday 6th March 2023
 - Sorting out my GitHub repos ready for the bootcamp.
 - I used markdown to create README docs for this diary.
 - On Codecademy learning links and buttons.
-- On FreeCodeCamp, did a few tasks for the "Learn More About CSS Pseudo Selectors By Building A Balance Sheet"
+- On FreeCodeCamp, did a few tasks for the <italics>"Learn More About CSS Pseudo Selectors By Building A Balance Sheet"</italics>
 
 ### Thoughts:
 
@@ -19,9 +19,10 @@ I'm feeling really excited to have started 100 Days Of Code and already feel mor
 ### Links to work / resources:
 
 Shortcuts for VSCode: 
-Mac: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf]
+Mac: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf] <br>
 Windows: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf]
 
+----------------------------------------------------------------------------------------------------
 ## Day 2
 
 Tuesday 7th March 2023
