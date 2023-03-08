@@ -48,13 +48,15 @@ Wednesday 8th March 2023
 
 ### **Today's progress**:
 
-- 
+- On FreeCodeCamp, did a couple more tasks for the <italics>"Learn More About CSS Pseudo Selectors By Building A Balance Sheet"</italics>
+- On Codecademy learning links and buttons. Looking at the Button designs for example Skeuomorphism and Flat Designs.
+- Pre-course social 18:30 pub quiz- talk with other bootcampers
 
 ### Thoughts:
-
+Continued freecodecamp and codecademy, typing with frozen fingers as it snowed in March! Met the other bootcampers in the SOC pre-course social event wehere we had multiple rounds on films, science, geography and diltoids. Everyone seems lovely and will need to get enough rest for Monday! Also going through the Git learning website linked below, shared by another bootcamper, just to jog my memory.
 
 ### Links to work / resources:
-- 
+- https://learngitbranching.js.org/
 
 ----------------------------------------------------------------------------------------------------
 ## Day 4
