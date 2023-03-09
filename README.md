@@ -64,13 +64,15 @@ Continued freecodecamp and codecademy, typing with frozen fingers as it snowed i
 Thursday 9th March 2023
 
 ### **Today's progress**:
+- Watched a video explaining the Internet of Things (IoT)
+-Codecademy: read article on Affordances, Signifiers, and Clickability
 
-- 
 ### Thoughts:
-
+Not much coding/learning for today as I spent time with my mum with personal chores and very tired from driving around all day. I did watch a video on the Internet of Things and read an article on Codecademy. 
 
 ### Links to work / resources:
-
+[https://www.youtube.com/watch?v=LlhmzVL5bm8&ab_channel=edureka%21]
+[https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-learn-links-and-buttons-7c515143-5864-4beb-9b48-5c1d1528124e/articles/ui-design-affordances-signifiers-clickability]
 ----------------------------------------------------------------------------------------------------
 ## Day 5
 
