@@ -85,7 +85,7 @@ Friday 10th March 2023
 -Completed links and buttons on Codecademy and a project called Summit. Now moving onto "Learn Secondary Navigation" 
 
 ### Thoughts:
-
+-Learning more about UI is quite interesting and will consider a deeper understanding of it once I'm more familiar with CSS.
 
 ### Links to work / resources:
 https://jnd.org/signifiers_not_affordances/
@@ -97,11 +97,12 @@ https://ui-patterns.com/
 Saturday 11th March 2023
 
 ### **Today's progress**:
-
-- 
+- Carried on working with freecodecamp <italics>"Learn More About CSS Pseudo Selectors By Building A Balance Sheet"</italics>
+  
 ### Thoughts:
-
-
+- Not too much coding today, just carrying on with freecodecamp and getting more familiar with CSS selectors. 
+  <br>Also got a back ache so can't sit for long periods of time.
+  
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
