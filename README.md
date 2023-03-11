@@ -79,14 +79,19 @@ Not much coding/learning for today as I spent time with my mum with personal cho
 Friday 10th March 2023
 
 ### **Today's progress**:
+- Further reading on :
+  - Signifiers, Not Affordances by Don Norman. This article discusses a bit of the history of thought around affordances and signifiers, and their importance in design.
+  - UI Patterns.com has many examples of solutions to common design patterns in web design.
+-Completed links and buttons on Codecademy and a project called Summit. Now moving onto "Learn Secondary Navigation"
 
-- 
 ### Thoughts:
 
 
 ### Links to work / resources:
+https://jnd.org/signifiers_not_affordances/
+https://ui-patterns.com/ 
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 ## Day 6
 
 Saturday 11th March 2023
