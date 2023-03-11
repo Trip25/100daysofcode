@@ -97,7 +97,7 @@ https://ui-patterns.com/
 Saturday 11th March 2023
 
 ### **Today's progress**:
-- Carried on working with freecodecamp <italics>"Learn More About CSS Pseudo Selectors By Building A Balance Sheet"</italics>
+- Carried on working with freecodecamp and finally finished all 65 tasks of <italics>"Learn More About CSS Pseudo Selectors By Building A Balance Sheet"</italics>
   
 ### Thoughts:
 - Not too much coding today, just carrying on with freecodecamp and getting more familiar with CSS selectors. 
@@ -111,8 +111,8 @@ Saturday 11th March 2023
 Sunday 12th March 2023
 
 ### **Today's progress**:
-
-- 
+-  Starting on the Freecodecamp <italics>"Learn Intermediate CSS by Building Picasso Painting"</italics>, has a total of 89 tasks. 
+-  
 ### Thoughts:
 
 
