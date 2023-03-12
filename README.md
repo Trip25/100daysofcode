@@ -111,10 +111,11 @@ Saturday 11th March 2023
 Sunday 12th March 2023
 
 ### **Today's progress**:
--  Starting on the Freecodecamp <italics>"Learn Intermediate CSS by Building Picasso Painting"</italics>, has a total of 89 tasks. 
--  
-### Thoughts:
+-  Starting on the Freecodecamp <italics>"Learn Intermediate CSS by Building Picasso Painting"</italics>, has a total of 89 tasks.  Completed 12 tasks so far.
+- Prepped for School of Code, checking zoom and other applications are up to date.
 
+### Thoughts:
+Quite nervous and excited to be starting School of Code tomorrow and getting back into the 9-5 routine. My back is still aching but hopefully by stretching it regularing I should be ok for the course.
 
 ### Links to work / resources:
 
