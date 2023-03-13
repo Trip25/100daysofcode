@@ -125,11 +125,124 @@ Quite nervous and excited to be starting School of Code tomorrow and getting bac
 Monday 13th March 2023
 
 ### **Today's progress**:
-- First day of School of Code
--
+- First day of the School of Code programme, we had an intro to the programme by the founder and also had some ice breaker sessions in between. We went through Computational Thinking and also a guide to Thinking.
+- Pair programming practice with CSS Diner and getting used to sharing our screen. Ironed out any technical issues.
+- Discussed how to solve problems in our breakout rooms.
+    1. Understand the problem
+    2. Break down the problem
+    3. Look for patterns
+    4. Model the real world
+    5. Write an algorithm
 
 ### Thoughts:
-- Prediction: I will be very tired by the end of the day xD 
+- Prediction: I will be very tired by the end of the day xD This was true, very interesting and learning to get into the mindset of being comfortable of being comfortable and not to be afraid to ask questions as everyone is in the same boat, with the same goal! 
+- I enjoyed the CSS diner as it was a nice visual way to see the question and hoe to figure out the answer. Whilst also getting to grips with pair programming, one person being the driver while the other is the navigator.
+
+### Links to work / resources:
+- CSS Diner https://flukeout.github.io/ <br>
+- Video about Learning: https://www.youtube.com/watch?v=i8oDLO7GPsk   <br>
+- NSDR: https://www.youtube.com/watch?v=AKGrmY8OSHM  
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 8
+
+Tuesday 14th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+- 
+----------------------------------------------------------------------------------------------------
+ ## Day 9
+
+Wednesday 15th March 2023
+
+### **Today's progress**:
+Should be learning Javascript
+
+### Thoughts:
 
 ### Links to work / resources:
 
+
+----------------------------------------------------------------------------------------------------
+ ## Day 10
+
+Thursday 16th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 11
+
+Friday 17th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 12
+
+ th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 13
+
+ th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 14
+
+ th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 15
+
+ th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+- 
