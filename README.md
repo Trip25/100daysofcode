@@ -150,12 +150,17 @@ Monday 13th March 2023
 Tuesday 14th March 2023
 
 ### **Today's progress**:
-
+-Collaborative puzzles
+-Flowchart to plan our graduation 4 months away!
+-Login and higher/lower quiz made in Scratch
+-Using Git commands in the terminal for the Romeo and Juli-git, adding lines, git pushing/pulling.
 
 ### Thoughts:
+Got put in our first SOC coding pair with Tristan and Umamah, so spent the day in and out of breakrooms with them, working on some space puzzles. It was a fun and interesting learning to communicate and collaborate on tasks, specifically the space puzzles where we were initially stumped but somehow kept going to find the answer!
 
 ### Links to work / resources:
-- 
+- Hack the Galaxy: Puzzle 35 Space Pack
+- https://github.com/SchoolOfCode/bc14_w1d2_workshop_git-in-teams-room-62-tripti-umamah-tristan
 ----------------------------------------------------------------------------------------------------
  ## Day 9
 
