@@ -172,7 +172,7 @@ Wednesday 15th March 2023
 ### Thoughts:
 
 ### Links to work / resources:
--
+-https://learn.microsoft.com/en-gb/training/modules/web-development-101-variables/1-introduction
 
 ----------------------------------------------------------------------------------------------------
  ## Day 10
