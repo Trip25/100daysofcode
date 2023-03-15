@@ -167,12 +167,12 @@ Got put in our first SOC coding pair with Tristan and Umamah, so spent the day i
 Wednesday 15th March 2023
 
 ### **Today's progress**:
-Should be learning Javascript
+-Introduction to JavaScript
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+-
 
 ----------------------------------------------------------------------------------------------------
  ## Day 10
@@ -193,7 +193,7 @@ Thursday 16th March 2023
 Friday 17th March 2023
 
 ### **Today's progress**:
-
+-Hackathon!
 
 ### Thoughts:
 
