@@ -167,13 +167,15 @@ Got put in our first SOC coding pair with Tristan and Umamah, so spent the day i
 Wednesday 15th March 2023
 
 ### **Today's progress**:
--Introduction to JavaScript
+-Introduction to JavaScript- Workshop 101 and 102
 
 ### Thoughts:
+Found JavaScript to be quite interesting but when it came to doing the tasks, our team would get muddled a bit. So I think I will look over some resources from freecodecamp and Microsoft to see if I can get to better grips of it. Also had to work on pushing to github after class as it wasn't working well on my pc, but managed to fix it using my mac instead.
 
 ### Links to work / resources:
 -https://learn.microsoft.com/en-gb/training/modules/web-development-101-variables/1-introduction
-
+- https://github.com/SchoolOfCode/bc14_w1d3_workshop_js-101-room-62-tripti-umamah-tristan
+- https://github.com/SchoolOfCode/bc14_w1d3_workshop_js-102-room-62-tripti-umamah-tristan
 ----------------------------------------------------------------------------------------------------
  ## Day 10
 
