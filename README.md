@@ -133,6 +133,7 @@ Monday 13th March 2023
     3. Look for patterns
     4. Model the real world
     5. Write an algorithm
+- Waterfall vs Agile
 
 ### Thoughts:
 - Prediction: I will be very tired by the end of the day xD This was true, very interesting and learning to get into the mindset of being comfortable of being comfortable and not to be afraid to ask questions as everyone is in the same boat, with the same goal! 
@@ -182,12 +183,16 @@ Found JavaScript to be quite interesting but when it came to doing the tasks, ou
 Thursday 16th March 2023
 
 ### **Today's progress**:
-
+- Morning Mindful sessions: Feedback
+- JavaScript: Objects, Lists, Arrays, If/Else, While loops
 
 ### Thoughts:
+From yesterdays fiasco with trying to push back into the exercise from the gtihub classrooms, today seemed to go a lot more smoother. I've grasped the JavaScript Objects and Arrays. Hopefully it goes even smoother tomorrow for our first hack-a-thon! 
 
 ### Links to work / resources:
-
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment 
+- https://github.com/SchoolOfCode/bc14_w1d4_workshop_objects-room-62-tripti-umamah-tristan 
+- https://github.com/SchoolOfCode/bc14_w1d4_workshop_arrays-room-62-tripti-umamah-tristan
 
 ----------------------------------------------------------------------------------------------------
  ## Day 11
