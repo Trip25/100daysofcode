@@ -200,10 +200,13 @@ From yesterdays fiasco with trying to push back into the exercise from the gtihu
 Friday 17th March 2023
 
 ### **Today's progress**:
--Hackathon!
+-Hackathon: Making a game of Rock, Paper & Scissors using JavScript!
 
 ### Thoughts:
-I am exhausted brb
+I am exhausted brb <br>
+Ok I put some eyedrops in and had a nap, started off in the morning with a re-cap of the weeks topics.
+Then from just before lunch to around quarter past four we worked on the tasks of the below github class. It was quite challenging and at parts we were quite mystified on why it didn't work and did work! <br> 
+I found it very interesting seeing how other people tackled the code and learnt not to be afraid of messing around and trying different things to see if it works. It was also nice feeding back to other groups in a small setting to see how others found it! All in all a challenging and exciting day! That's the first week done.
 
 ### Links to work / resources:
 - https://github.com/SchoolOfCode/bc14_w1d5_hackathon_rps-room-62-tripti-umamah-tristan
