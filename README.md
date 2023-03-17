@@ -203,9 +203,10 @@ Friday 17th March 2023
 -Hackathon!
 
 ### Thoughts:
+I am exhausted brb
 
 ### Links to work / resources:
-
+- https://github.com/SchoolOfCode/bc14_w1d5_hackathon_rps-room-62-tripti-umamah-tristan
 
 ----------------------------------------------------------------------------------------------------
  ## Day 12
