@@ -214,10 +214,26 @@ I found it very interesting seeing how other people tackled the code and learnt 
 ----------------------------------------------------------------------------------------------------
  ## Day 12
 
- th March 2023
+ Saturday 18th March 2023
 
 ### **Today's progress**:
-
+Spent most of the day catching up with long distance friends so I guess today has been quite low on coding. Will be going over what I learnt over the week in SOC;
+•	Computational thinking
+•	Declaring and assigning variables
+•	Using variables
+•	Types
+o	  Primitive types (strings, numbers, booleans)
+o	  Arrays and objects
+•	Functions
+o	  How to declare a function (with parameters)
+o	  How to call a function (with arguments)
+o	  How to use a function’s return value (if there is one)
+•	Loops
+o	While
+o	For
+•	If statements
+•	Operators (+, -, *, /, =, %, etc.)
+-Also worked on a couple more tasks in Codecademy and Freecodecamp.
 
 ### Thoughts:
 
