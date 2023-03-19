@@ -243,12 +243,14 @@ o	For
 ----------------------------------------------------------------------------------------------------
  ## Day 13
 
- th March 2023
+Sunday 19th March 2023
 
 ### **Today's progress**:
 
+-Attempted the w3Schools JavaScript test to see how much I know [22/25 = 88% TimeSpent 4:09]
 
 ### Thoughts:
+I feel better having looked back at the topics I have learnt over the week. But definitely feel I still need to practice practice practice writing the code. And to understand what the questions are asking of me,because I know I try to over complicate things by over thinking!
 
 ### Links to work / resources:
 
