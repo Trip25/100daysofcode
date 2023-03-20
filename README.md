@@ -261,12 +261,14 @@ I feel better having looked back at the topics I have learnt over the week. But 
  Monday 20th March 2023
 
 ### **Today's progress**:
-
+-
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+- https://github.com/SchoolOfCode/workshop_intro-to-codewars
+- https://github.com/SchoolOfCode/workshop_DOM-101-in-console
+- https://github.com/SchoolOfCode/bc14_w2d1_workshop_dom-102-Trip25
 
 ----------------------------------------------------------------------------------------------------
  ## Day 15
