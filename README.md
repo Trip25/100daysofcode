@@ -258,7 +258,7 @@ I feel better having looked back at the topics I have learnt over the week. But 
 ----------------------------------------------------------------------------------------------------
  ## Day 14
 
- th March 2023
+ Monday 20th March 2023
 
 ### **Today's progress**:
 
@@ -271,7 +271,128 @@ I feel better having looked back at the topics I have learnt over the week. But 
 ----------------------------------------------------------------------------------------------------
  ## Day 15
 
- th March 2023
+ Tuesday 21st March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 16
+
+ Wednesday 22nd March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 17
+
+ Thursday 23rd March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 18
+
+ Friday 24th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 19
+
+ Saturday 25th March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+My BIRTHDAY!! Off to London for a day out and catch up with my friends
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 20
+
+ t March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 21
+
+ t March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 22
+
+ t March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 23
+
+ t March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 24
+
+ t March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 25
+
+ t March 2023
 
 ### **Today's progress**:
 
