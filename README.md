@@ -261,9 +261,14 @@ I feel better having looked back at the topics I have learnt over the week. But 
  Monday 20th March 2023
 
 ### **Today's progress**:
--
+-Recap Quiz [ 19/20 ]
+-Giving feedback
+-Code Wars with new pairs
+-HTML Document Object Model Workshops
 
 ### Thoughts:
+It was nice to give feedback to the pair I was working with last week and nice to meet the new pair this week! 
+I think using pair programming has definitely helped break down the problems and also to see how others tackle/ interpret the task question. Definitely feel like last week's lessons have cemented more in my brain and very excited to finally use JavaScript change the webpage slowly!
 
 ### Links to work / resources:
 - https://github.com/SchoolOfCode/workshop_intro-to-codewars
