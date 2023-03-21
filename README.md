@@ -19,8 +19,8 @@ I'm feeling really excited to have started 100 Days Of Code and already feel mor
 ### Links to work / resources:
 
 Shortcuts for VSCode: 
-Mac: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf] <br>
-Windows: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf]
+- Mac: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf] <br>
+- Windows: [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf]
 
 ----------------------------------------------------------------------------------------------------
 ## Day 2
@@ -71,8 +71,8 @@ Thursday 9th March 2023
 Not much coding/learning for today as I spent time with my mum with personal chores and very tired from driving around all day. I did watch a video on the Internet of Things and read an article on Codecademy. 
 
 ### Links to work / resources:
-https://www.youtube.com/watch?v=LlhmzVL5bm8&ab_channel=edureka%21<br>
-https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-learn-links-and-buttons-7c515143-5864-4beb-9b48-5c1d1528124e/articles/ui-design-affordances-signifiers-clickability
+- https://www.youtube.com/watch?v=LlhmzVL5bm8&ab_channel=edureka%21<br>
+- https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-learn-links-and-buttons-7c515143-5864-4beb-9b48-5c1d1528124e/articles/ui-design-affordances-signifiers-clickability
 ----------------------------------------------------------------------------------------------------
 ## Day 5
 
@@ -88,8 +88,8 @@ Friday 10th March 2023
 -Learning more about UI is quite interesting and will consider a deeper understanding of it once I'm more familiar with CSS.
 
 ### Links to work / resources:
-https://jnd.org/signifiers_not_affordances/
-https://ui-patterns.com/ 
+- https://jnd.org/signifiers_not_affordances/
+- https://ui-patterns.com/ 
 
 ---------------------------------------------------------------------------
 ## Day 6
@@ -288,8 +288,8 @@ Felt half like I knew DOM elements and Events and how to link them but also felt
 I did have a go after class (after a much needed dinner!) to look through the RPS files and see why the events were not working properly and managed to work it how somehow. Also added a box shadow and some colour but kept it pretty simple for now. I do plan on re-visiting another time to add images.
 
 ### Links to work / resources:
--https://github.com/SchoolOfCode/bc14_w2d2_workshop_events-101-team-room-41-naomi-shervin-tripti
--https://github.com/SchoolOfCode/bc14_w2d2_workshop_rps-in-dom-Trip25 
+- https://github.com/SchoolOfCode/bc14_w2d2_workshop_events-101-team-room-41-naomi-shervin-tripti
+- https://github.com/SchoolOfCode/bc14_w2d2_workshop_rps-in-dom-Trip25 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 16
