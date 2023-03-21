@@ -276,13 +276,13 @@ I think using pair programming has definitely helped break down the problems and
  Tuesday 21st March 2023
 
 ### **Today's progress**:
--Started off with CodeWars exercises
--Talk from Alumni 
+- Recap Quiz (Full marks!!)
+- Started off with CodeWars exercises
+- Talk from Alumni 
 - Learnt about Events
 - Worked on the Events workshop
 - Worked on a individual workshop RPS DOM
 
->>>>>>> 0e11f446b1bce4a71ea58294bdd0dcb157bf2b57
 ### Thoughts:
 Felt half like I knew DOM elements and Events and how to link them but also felt lost at times when trying to actually execute the task. I will need to revise more on this topic and maybe also watch tutorials as well as asking ChatGPT and using Github copilot for explanations and planning properly!
 I did have a go after class (after a much needed dinner!) to look through the RPS files and see why the events were not working properly and managed to work it how somehow. Also added a box shadow and some colour but kept it pretty simple for now. I do plan on re-visiting another time to add images.
