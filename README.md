@@ -71,8 +71,8 @@ Thursday 9th March 2023
 Not much coding/learning for today as I spent time with my mum with personal chores and very tired from driving around all day. I did watch a video on the Internet of Things and read an article on Codecademy. 
 
 ### Links to work / resources:
-[https://www.youtube.com/watch?v=LlhmzVL5bm8&ab_channel=edureka%21]
-[https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-learn-links-and-buttons-7c515143-5864-4beb-9b48-5c1d1528124e/articles/ui-design-affordances-signifiers-clickability]
+https://www.youtube.com/watch?v=LlhmzVL5bm8&ab_channel=edureka%21<br>
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-learn-links-and-buttons-7c515143-5864-4beb-9b48-5c1d1528124e/articles/ui-design-affordances-signifiers-clickability
 ----------------------------------------------------------------------------------------------------
 ## Day 5
 
@@ -174,7 +174,7 @@ Wednesday 15th March 2023
 Found JavaScript to be quite interesting but when it came to doing the tasks, our team would get muddled a bit. So I think I will look over some resources from freecodecamp and Microsoft to see if I can get to better grips of it. Also had to work on pushing to github after class as it wasn't working well on my pc, but managed to fix it using my mac instead.
 
 ### Links to work / resources:
--https://learn.microsoft.com/en-gb/training/modules/web-development-101-variables/1-introduction
+- https://learn.microsoft.com/en-gb/training/modules/web-development-101-variables/1-introduction
 - https://github.com/SchoolOfCode/bc14_w1d3_workshop_js-101-room-62-tripti-umamah-tristan
 - https://github.com/SchoolOfCode/bc14_w1d3_workshop_js-102-room-62-tripti-umamah-tristan
 ----------------------------------------------------------------------------------------------------
@@ -215,30 +215,28 @@ I found it very interesting seeing how other people tackled the code and learnt 
  ## Day 12
 
  Saturday 18th March 2023
-
 ### **Today's progress**:
-Spent most of the day catching up with long distance friends so I guess today has been quite low on coding. Will be going over what I learnt over the week in SOC;
-•	Computational thinking
-•	Declaring and assigning variables
-•	Using variables
-•	Types
-o	  Primitive types (strings, numbers, booleans)
-o	  Arrays and objects
-•	Functions
-o	  How to declare a function (with parameters)
-o	  How to call a function (with arguments)
-o	  How to use a function’s return value (if there is one)
-•	Loops
-o	While
-o	For
-•	If statements
-•	Operators (+, -, *, /, =, %, etc.)
--Also worked on a couple more tasks in Codecademy and Freecodecamp.
+Spent most of the day catching up with long distance friends so I guess today has been quite low on coding. Will be going over what I learnt over the week in SOC;<br>
+•	Computational thinking<br>
+•	Declaring and assigning variables<br>
+•	Using variables<br>
+•	Types<br>
+o	  Primitive types (strings, numbers, booleans)<br>
+o	  Arrays and objects<br>
+•	Functions<br>
+o	  How to declare a function (with parameters)<br>
+o	  How to call a function (with arguments)<br>
+o	  How to use a function’s return value (if there is one)<br>
+•	Loops<br>
+o	While<br>
+o	For<br>
+•	If statements<br>
+•	Operators (+, -, *, /, =, %, etc.)<br>
+-Also worked on a couple more tasks in Codecademy and Freecodecamp.<br>
 
 ### Thoughts:
 
 ### Links to work / resources:
-
 
 ----------------------------------------------------------------------------------------------------
  ## Day 13
@@ -254,28 +252,15 @@ I feel better having looked back at the topics I have learnt over the week. But 
 
 ### Links to work / resources:
 
-
 ----------------------------------------------------------------------------------------------------
  ## Day 14
-
-<<<<<<< HEAD
 Monday 20th March 2023
-=======
- Monday 20th March 2023
->>>>>>> 0e11f446b1bce4a71ea58294bdd0dcb157bf2b57
-
 ### **Today's progress**:
-<<<<<<< HEAD
 - Met up with my industry mentor
-=======
 -Recap Quiz [ 19/20 ]
 -Giving feedback
 -Code Wars with new pairs
 -HTML Document Object Model Workshops
->>>>>>> 0e11f446b1bce4a71ea58294bdd0dcb157bf2b57
-
-<<<<<<< HEAD
-=======
 ### Thoughts:
 It was nice to give feedback to the pair I was working with last week and nice to meet the new pair this week! 
 I think using pair programming has definitely helped break down the problems and also to see how others tackle/ interpret the task question. Definitely feel like last week's lessons have cemented more in my brain and very excited to finally use JavaScript change the webpage slowly!
