@@ -297,11 +297,17 @@ I did have a go after class (after a much needed dinner!) to look through the RP
  Wednesday 22nd March 2023
 
 ### **Today's progress**:
-
+- Recap Quiz
+- CodeWars
+- Asynchronous JavaScript
+- API (Application Programming Interface)
 
 ### Thoughts:
+So today we learnt about Asynchronous Javascript and had to work on getting the clock hands to move, which was a struggle ngl. Afterwards we learnt about API and made a webpage which uses a cat fact API, very interesting and I will definitely have a go with other public APIs.
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w2d3_workshop_async-clock-naomi-shervin-tripti-room-41
+- https://github.com/SchoolOfCode/bc14_w2d3_workshop_fetch-Trip25
 
 ----------------------------------------------------------------------------------------------------
  ## Day 17
