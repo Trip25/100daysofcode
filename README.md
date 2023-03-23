@@ -318,12 +318,16 @@ So today we learnt about Asynchronous Javascript and had to work on getting the 
 - CodeWars Challenges
 - Mindset Sessions: Working with different personalities
 - UI Guest Talk: Paavan Buddhder
-- 
+- Team Research: Deeper dive into obscure html tags
+- Kumospace- Talk on how to use notion for studying/progress
 
 ### Thoughts:
+A nice change of pace today as I had time to slow down and calm down(although probably eye of the storm for tomorrow's hackathon!)Learn about cognitive diversity, we tookt he Myers Briggs Test before to find out all our different personality types and how to work effectviely as a team adn also if we were managers. Very interested in learning more about the UI/UX side, which we are apparently going to be learning next week, which is exciting. Ended of the afternoon with a group research task where we were all given different topics to research and later present. We recorded via zoom and uploaded to YT(unlisted), so the class will be able to access it later and hopefully learn. Was also nice to talk to more people outside of our pairs and how they found the course. Also got introduced to Exercism which is similar to Codewars and hopefulyl another resource to practice and improve my technical skills.
+
 
 ### Links to work / resources:
 - https://eloquentjavascript.net/00_intro.html 
+- https://exercism.org/tracks/javascript/
 
 ----------------------------------------------------------------------------------------------------
  ## Day 18
