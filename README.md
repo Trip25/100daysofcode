@@ -315,11 +315,15 @@ So today we learnt about Asynchronous Javascript and had to work on getting the 
  Thursday 23rd March 2023
 
 ### **Today's progress**:
-
+- CodeWars Challenges
+- Mindset Sessions: Working with different personalities
+- UI Guest Talk: Paavan Buddhder
+- 
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://eloquentjavascript.net/00_intro.html 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 18
