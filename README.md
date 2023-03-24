@@ -335,9 +335,10 @@ A nice change of pace today as I had time to slow down and calm down(although pr
  Friday 24th March 2023
 
 ### **Today's progress**:
-
+Hackathon- Feth API
 
 ### Thoughts:
+This time round the hackathon was very enjoyable, it was great to discuss and be creative with our ideas. We chose the Pokemon API which seemed fun at first but there was a vast amount of data which we had to work out how to manipulate to reflect well on our website. It was also nice to be able to see other peoples projects and present our own in a smaller group.
 
 ### Links to work / resources:
 
@@ -350,7 +351,7 @@ A nice change of pace today as I had time to slow down and calm down(although pr
 
 
 ### Thoughts:
-My BIRTHDAY!! Off to London for a day out and catch up with my friends
+My BIRTHDAY!! Off to London for a day out and catch up with my friends. TBC
 
 ### Links to work / resources:
 
