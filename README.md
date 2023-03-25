@@ -352,13 +352,15 @@ This time round the hackathon was very enjoyable, it was great to discuss and be
 
 ### Thoughts:
 My BIRTHDAY!! Off to London for a day out and catch up with my friends. TBC
+Doing some reading on JavaScript and watching CS50 video lectures.
 
 ### Links to work / resources:
+- https://www.youtube.com/watch?v=x5trGVMKTdY&ab_channel=CS50
 
 ----------------------------------------------------------------------------------------------------
  ## Day 20
 
- t March 2023
+ Sunday 26th March 2023
 
 ### **Today's progress**:
 
@@ -370,7 +372,7 @@ My BIRTHDAY!! Off to London for a day out and catch up with my friends. TBC
 ----------------------------------------------------------------------------------------------------
  ## Day 21
 
- t March 2023
+ Monday 27th March 2023
 
 ### **Today's progress**:
 
