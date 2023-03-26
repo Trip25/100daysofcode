@@ -363,8 +363,8 @@ Doing some reading on JavaScript and watching CS50 video lectures.
  Sunday 26th March 2023
 
 ### **Today's progress**:
-
-
+Worked on the recap tasks today, went over the JavaScript fundamentals, for loops. And also started learning UI/UX so I can learn a bit before we start learning it this weeek! 
+Also tried some exercism tasks which is helping me understand and separate the problems a bit better! 
 ### Thoughts:
 
 ### Links to work / resources:
