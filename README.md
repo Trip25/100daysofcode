@@ -375,16 +375,21 @@ Also tried some exercism tasks which is helping me understand and separate the p
  Monday 27th March 2023
 
 ### **Today's progress**:
-
+- Started off with a guest speaker who was a School of Code Cohort 2 Alumni and told us about his career and is now in SRE which is Site Reliability Engineer which was a very interesting insight as he did hop into a lot of varied positions. 
+We also started UI/UX design and focused on CSS Flex Design and CSS Grid.
 
 ### Thoughts:
+We tried to re-create the Google website, with just the HTML file and I can see I still have a lot of work to do! 
 
 ### Links to work / resources:
-
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://flexboxfroggy.com/
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://cssgridgarden.com/
 ----------------------------------------------------------------------------------------------------
  ## Day 22
 
- t March 2023
+ Tuesday 28th March 2023
 
 ### **Today's progress**:
 
@@ -396,7 +401,7 @@ Also tried some exercism tasks which is helping me understand and separate the p
 ----------------------------------------------------------------------------------------------------
  ## Day 23
 
- t March 2023
+ Wednesday 29th March 2023
 
 ### **Today's progress**:
 
@@ -408,7 +413,7 @@ Also tried some exercism tasks which is helping me understand and separate the p
 ----------------------------------------------------------------------------------------------------
  ## Day 24
 
- t March 2023
+ Thursday 30th March 2023
 
 ### **Today's progress**:
 
@@ -420,7 +425,72 @@ Also tried some exercism tasks which is helping me understand and separate the p
 ----------------------------------------------------------------------------------------------------
  ## Day 25
 
- t March 2023
+ Friday 31st March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 26
+
+ Saturday 1st April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 26
+
+ Friday 31st March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 26
+
+ Friday 31st March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 26
+
+ Friday 31st March 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 26
+
+ Friday 31st March 2023
 
 ### **Today's progress**:
 
