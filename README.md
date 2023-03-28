@@ -392,11 +392,18 @@ We tried to re-create the Google website, with just the HTML file and I can see 
  Tuesday 28th March 2023
 
 ### **Today's progress**:
-
+Recap Quix on Agile methodology and CSS Design.Today learnt about Design Thinking and designing user profiles, user flowcharts and the five stages of Design: Empathise, Define, Ideate, Prototype, Test. It's very interesting and I'm considering this as one of the pathways to get a job in. Also tried (paper)prototyping without the paper.
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://userguiding.com/blog/user-persona-examples/#:~:text=Frequently%20Asked%20Questions-,What%20is%20an%20example%20of%20a%20user%20persona%3F,a%20real%20human%20being%20accurate
+- https://medium.com/@george_wilde/a-guide-to-writing-effective-user-stories-658823dec2e0
+- https://www.hubspot.com/make-my-persona
+- https://design-kit-production.s3.us-west-1.amazonaws.com/Field_Guides/Field+Guide+to+Human-Centered+Design_IDEOorg_English.pdf?utf8=%E2%9C%93&_method=patch&authenticity_token=QZRbnzBBPY3M%2FCd3xeDx424iAXgVkgcTAi74f6cW4pU%3D&resource%5Btitle%5D=&resource%5Bsubtitle%5D=&resource%5Bauthor%5D=&resource%5Babout%5D=
+- https://creately.com/guides/user-flow-diagram/
+- https://www.interaction-design.org/literature/topics/paper-prototyping
+- https://cantunsee.space/
 
 ----------------------------------------------------------------------------------------------------
  ## Day 23
