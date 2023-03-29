@@ -412,9 +412,12 @@ Recap Quix on Agile methodology and CSS Design.Today learnt about Design Thinkin
 
 ### **Today's progress**:
 - Recap Quiz W3D3 - Design Thinking Process and UX [7/7]
+- User Interface Design
+- CSS Variables
+- Attempting to clone a website: UberEats
 
 ### Thoughts:
-User Interface Design
+
 
 
 ### Links to work / resources:
