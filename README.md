@@ -411,11 +411,19 @@ Recap Quix on Agile methodology and CSS Design.Today learnt about Design Thinkin
  Wednesday 29th March 2023
 
 ### **Today's progress**:
-
+- Recap Quiz W3D3 - Design Thinking Process and UX [7/7]
 
 ### Thoughts:
+User Interface Design
+
 
 ### Links to work / resources:
+
+- https://color.adobe.com/create/color-wheel
+- https://www.canva.com/colors/color-palette-generator/
+- https://coolors.co/
+- https://www.w3schools.com/css/css_specificity.asp 
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 24
