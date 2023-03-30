@@ -431,10 +431,14 @@ Recap Quix on Agile methodology and CSS Design.Today learnt about Design Thinkin
 ----------------------------------------------------------------------------------------------------
  ## Day 24
 
- Thursday 30th March 2023
+Thursday 30th March 2023
 
 ### **Today's progress**:
-
+- CodeWars
+- Mindset: 
+- Guest Talk: Nester[Start Up] Javaid Karim- CTO and Alex Fairholm - UI/UX Designer
+- Research Tasks: Digital Prototype + 5 min Video
+- Finish workshop, study, carry on with cloning website.
 
 ### Thoughts:
 
