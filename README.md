@@ -435,7 +435,7 @@ Thursday 30th March 2023
 
 ### **Today's progress**:
 - CodeWars
-- Mindset: 
+- Mindset: Deep Listening
 - Guest Talk: Nester[Start Up] Javaid Karim- CTO and Alex Fairholm - UI/UX Designer
 - Research Tasks: Digital Prototype + 5 min Video
 - Finish workshop, study, carry on with cloning website.
