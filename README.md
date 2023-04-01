@@ -460,7 +460,24 @@ OFF ILL
 ----------------------------------------------------------------------------------------------------
  ## Day 26
 
- Saturday 1st April 2023
+Saturday 1st April 2023
+
+### **Today's progress**:
+Catching up with what I missed on yesterday's hackathon and slowly going through the recap task which is to start making a website about ME.
+Git cloned the recap task and used Figma to map out the user profiles of who would be accessing my website and also to make a near high fidelity prototype. Next I started on making my website although I was a bit back and forth on choosing which colour themes to use! So I added the colours I liked into comments so I could experiment! Very fun once I got going but as I'm still recovering from a super bad flu (luckily tested negative for Covid), I need to carry on resting. 
+<br>
+Also downloaded Node.js to ready for next week, let's go week 4.
+### Thoughts:
+
+### Links to work / resources:
+- https://www.figma.com/file/ogWCMKI2yEloGRSMxMmEsh/my-website?node-id=0-1&t=CYJRiIMFFjewVp4B-0
+- https://nodejs.org/en
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 27
+
+ Sunday 2nd April 2023
 
 ### **Today's progress**:
 
@@ -471,22 +488,9 @@ OFF ILL
 
 
 ----------------------------------------------------------------------------------------------------
- ## Day 26
+ ## Day 28
 
- Friday 31st March 2023
-
-### **Today's progress**:
-
-
-### Thoughts:
-
-### Links to work / resources:
-
-
-----------------------------------------------------------------------------------------------------
- ## Day 26
-
- Friday 31st March 2023
+ Monday 3rd April 2023
 
 ### **Today's progress**:
 
@@ -497,9 +501,9 @@ OFF ILL
 
 
 ----------------------------------------------------------------------------------------------------
- ## Day 26
+ ## Day 29
 
- Friday 31st March 2023
+Tuesday 4th April 2023
 
 ### **Today's progress**:
 
@@ -510,9 +514,156 @@ OFF ILL
 
 
 ----------------------------------------------------------------------------------------------------
- ## Day 26
+ ## Day 30
 
- Friday 31st March 2023
+ Wednesday 5th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 31
+
+Thursday 6th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 32
+
+Friday 7th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 33
+
+Saturday 8th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 34
+
+Sunday 9th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 35
+
+Monday 10th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 36
+
+Tuesday 11th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 37
+
+Wednesday 12th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 38
+
+Thursday 13th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 39
+
+Friday 14th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 40
+
+Saturday 15th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 41
+
+Sunday 16th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 42
+
+Monday 17th April 2023
 
 ### **Today's progress**:
 
