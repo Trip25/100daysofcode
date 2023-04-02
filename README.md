@@ -480,7 +480,9 @@ Also downloaded Node.js to ready for next week, let's go week 4.
  Sunday 2nd April 2023
 
 ### **Today's progress**:
-
+  -Felt a bit nauseous today so spent most of the day resting. 
+  -Towards the evening I managed to do some more tasks on Codecademy and FreeCodecamp
+  -Also continued working on my Tesla Clone and did some initial research on Node.js
 
 ### Thoughts:
 
