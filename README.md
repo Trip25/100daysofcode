@@ -495,7 +495,9 @@ Also downloaded Node.js to ready for next week, let's go week 4.
  Monday 3rd April 2023
 
 ### **Today's progress**:
-
+- Guest speakers Nadeem Shabir and Elly Durrant from Talis, spoke about the importance of Software Testing
+- Node.js
+- node modules
 
 ### Thoughts:
 
