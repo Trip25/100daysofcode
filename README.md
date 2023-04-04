@@ -514,6 +514,8 @@ Tuesday 4th April 2023
 - Unit Testing using Jest
 
 ### Thoughts:
+Seems to be a bit tempermental getting things to work at times? If in doubt `npm install --save-dev jest`.
+Oh also not heard from my mentor in a while so may have to flag that.. And we will be having our progress interviewsss in week 5!(Next week) Should get an email or so soon!
 
 ### Links to work / resources:
 
