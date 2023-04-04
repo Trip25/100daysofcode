@@ -510,7 +510,8 @@ Also downloaded Node.js to ready for next week, let's go week 4.
 Tuesday 4th April 2023
 
 ### **Today's progress**:
-
+- CodeWars
+- Unit Testing using Jest
 
 ### Thoughts:
 
