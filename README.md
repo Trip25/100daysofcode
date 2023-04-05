@@ -529,10 +529,12 @@ Oh also not heard from my mentor in a while so may have to flag that.. And we wi
 - CodeWars challenges
 - Recap Quiz: BC14 - W4D3- Intro to testing [7/8]
 - Recap over unit tests with Jest
-- New content: Testing with Playwright
+- New content: End to End Testing with Playwright
 - Workshop
 
 ### Thoughts:
+Unit testing seemed simple but when we had to start writing more tests using Playwright for a To Do application, it began to get a lot more difficult. Especially when you have to target the right DOM elements.. 
+Definitely need a lot more practice to get my head around it.
 
 ### Links to work / resources:
 - https://github.com/SchoolOfCode/bc14_w4d3_workshop_e2e-testing-with-playwright-rm37-harsham-tripti
@@ -543,7 +545,11 @@ Oh also not heard from my mentor in a while so may have to flag that.. And we wi
 Thursday 6th April 2023
 
 ### **Today's progress**:
-
+- Codewars
+- Recap Quiz 
+- Mindset session:
+- Guest speaker: 
+- Hackathon for the rest of the afternoon
 
 ### Thoughts:
 
