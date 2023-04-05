@@ -518,7 +518,7 @@ Seems to be a bit tempermental getting things to work at times? If in doubt `npm
 Oh also not heard from my mentor in a while so may have to flag that.. And we will be having our progress interviewsss in week 5!(Next week) Should get an email or so soon!
 
 ### Links to work / resources:
-
+- https://github.com/SchoolOfCode/bc14_w4d2_workshop_unit-testing-with-jest-rm37-harsham-tripti
 
 ----------------------------------------------------------------------------------------------------
  ## Day 30
@@ -526,12 +526,16 @@ Oh also not heard from my mentor in a while so may have to flag that.. And we wi
  Wednesday 5th April 2023
 
 ### **Today's progress**:
-
+- CodeWars challenges
+- Recap Quiz: BC14 - W4D3- Intro to testing [7/8]
+- Recap over unit tests with Jest
+- New content: Testing with Playwright
+- Workshop
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+- https://github.com/SchoolOfCode/bc14_w4d3_workshop_e2e-testing-with-playwright-rm37-harsham-tripti
 
 ----------------------------------------------------------------------------------------------------
  ## Day 31
