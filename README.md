@@ -546,15 +546,16 @@ Thursday 6th April 2023
 
 ### **Today's progress**:
 - Codewars
-- Recap Quiz 
-- Mindset session:
-- Guest speaker: 
+- Mindset session:Self Awareness
+- Guest speakers from LinkedIn: Dani Markovits and Patrick Shea-Stamford
+
 - Hackathon for the rest of the afternoon
 
 ### Thoughts:
 
-### Links to work / resources:
 
+### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w4_hackathon_testathon-rm37-harsham-tripti
 
 ----------------------------------------------------------------------------------------------------
  ## Day 32
@@ -562,11 +563,16 @@ Thursday 6th April 2023
 Friday 7th April 2023
 
 ### **Today's progress**:
-
+- Bank Holiday today so was able to sleep in and recover from my cold a bit more!
+- Once I've had my coffee and went for a walk to wake up, I was able to start on my recap task. The first being "make your own CodeWars kata". This took me a couple hours, initally planning a question and then setting the test up, which did take a couple attempts.. 
+- But once I got my first green tick from the test, it went quite smooth for the rest of the tests and I forkered it to my personal github account.
+- After that had to go pick up mum from work so stopped before I installed the Playwright testing which I will have  ago at tomorrow!
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w4d3_workshop_make-your-own-codewars-Trip25 
+- https://github.com/SchoolOfCode/bc14_w4_recap-task-Trip25
 
 ----------------------------------------------------------------------------------------------------
  ## Day 33
@@ -579,7 +585,12 @@ Saturday 8th April 2023
 ### Thoughts:
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w4_recap-task-Trip25
 
+- [FreeCodeCamp: Why you should use React.js for web development](https://www.freecodecamp.org/news/why-use-react-for-web-development/)
+- [SurviveJS: Introduction to React](https://survivejs.com/react/getting-started/introduction-to-react/)
+- [FreeCodeCamp: JSX in React](https://www.freecodecamp.org/news/jsx-in-react-introduction/)
+- [Blog: The role of Babel in React](https://medium.com/swlh/the-role-of-babel-in-react-dbcf78c69125)
 
 ----------------------------------------------------------------------------------------------------
  ## Day 34
@@ -592,7 +603,9 @@ Sunday 9th April 2023
 ### Thoughts:
 
 ### Links to work / resources:
-
+- [Fireship: React in 100 seconds (2min)](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+- [Mosh: What is React, and why is it so popular? (5min)](https://www.youtube.com/watch?v=N3AkSS5hXMA)
+- [Aaron Jack: React in five minutes (5min)](https://www.youtube.com/watch?v=MRIMT0xPXFI)
 ----------------------------------------------------------------------------------------------------
  ## Day 35
 
