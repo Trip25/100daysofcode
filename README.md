@@ -580,7 +580,7 @@ Friday 7th April 2023
 Saturday 8th April 2023
 
 ### **Today's progress**:
-
+No coding today, spent the morning and day doing chores and went to the Garden Centre with mum. Then in the evening got a bombshell of bad news so went to visit the family in mourning. Will attempt to do rest of homework today.
 
 ### Thoughts:
 
@@ -588,9 +588,7 @@ Saturday 8th April 2023
 - https://github.com/SchoolOfCode/bc14_w4_recap-task-Trip25
 
 - [FreeCodeCamp: Why you should use React.js for web development](https://www.freecodecamp.org/news/why-use-react-for-web-development/)
-- [SurviveJS: Introduction to React](https://survivejs.com/react/getting-started/introduction-to-react/)
-- [FreeCodeCamp: JSX in React](https://www.freecodecamp.org/news/jsx-in-react-introduction/)
-- [Blog: The role of Babel in React](https://medium.com/swlh/the-role-of-babel-in-react-dbcf78c69125)
+
 
 ----------------------------------------------------------------------------------------------------
  ## Day 34
@@ -598,11 +596,17 @@ Saturday 8th April 2023
 Sunday 9th April 2023
 
 ### **Today's progress**:
-
+Shoulders in pain. Went to Merton with sis to pick up her bday cake. Finished the recap task- testing with Playwright.
+Starting to read up on React now!
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w4_recap-task-Trip25
+- [SurviveJS: Introduction to React](https://survivejs.com/react/getting-started/introduction-to-react/)
+- [FreeCodeCamp: JSX in React](https://www.freecodecamp.org/news/jsx-in-react-introduction/)
+- [Blog: The role of Babel in React](https://medium.com/swlh/the-role-of-babel-in-react-dbcf78c69125)
+  
 - [Fireship: React in 100 seconds (2min)](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [Mosh: What is React, and why is it so popular? (5min)](https://www.youtube.com/watch?v=N3AkSS5hXMA)
 - [Aaron Jack: React in five minutes (5min)](https://www.youtube.com/watch?v=MRIMT0xPXFI)
