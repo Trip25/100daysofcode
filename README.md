@@ -553,7 +553,6 @@ Thursday 6th April 2023
 
 ### Thoughts:
 
-
 ### Links to work / resources:
 - https://github.com/SchoolOfCode/bc14_w4_hackathon_testathon-rm37-harsham-tripti
 
@@ -616,12 +615,12 @@ Starting to read up on React now!
 Monday 10th April 2023
 
 ### **Today's progress**:
-
+Catching up on React
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+[links from above]
 ----------------------------------------------------------------------------------------------------
  ## Day 36
 
