@@ -627,11 +627,27 @@ Catching up on React
 Tuesday 11th April 2023
 
 ### **Today's progress**:
-
+- React Fundamentals
+- React App
+- Component Tree
+- Using Props
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w5d1_workshop_react-101-room_42
+- https://github.com/SchoolOfCode/bc14_w5d1_workshop_react-components-Trip25
+
+- https://specificity.keegan.st/ 
+Destructuring is a way to access properties of an object (or array) quickly and easily, and it's often used when accessing props in React.
+
+Learn more about destructuring here:
+
+- [JavaScriptTutorial.net page](https://www.javascripttutorial.net/es6/javascript-object-destructuring/)
+- [FreeCodeCamp blog page](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)
+- [MDN docs page with examples](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Fireship video (2min)](https://www.youtube.com/watch?v=UgEaJBz3bjY)
+- [WebDevSimplified video (13min)](https://www.youtube.com/watch?v=NIq3qLaHCIs)
 
 ----------------------------------------------------------------------------------------------------
  ## Day 37
