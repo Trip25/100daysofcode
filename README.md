@@ -655,11 +655,23 @@ Learn more about destructuring here:
 Wednesday 12th April 2023
 
 ### **Today's progress**:
-
+- CodeWars- did a 6Kyu and 7Kyu kata
+- BC14 - W5D2 - Intro to React [13/13]
+- Read article on States
+- React useState + morning workshop
+- React useState + afternoon workshop
 
 ### Thoughts:
+Definitely confusing and brain is fried today. Will need to revisit after a dinner so I can get to grips with the hooking of the different components!
 
 ### Links to work / resources:
+- https://kentcdodds.com/
+- https://github.com/SchoolOfCode/bc14_w5d2_workshop_usestate-pt1-room_42
+- https://react.dev/learn/state-a-components-memory 
+- https://github.com/SchoolOfCode/bc14_w5d2_workshop_usestate_pt2-Trip25
+<br>
+- https://www.w3schools.com/react/react_props.asp
+- https://www.tutorialbrain.com/css_tutorial/css_font_family_list/
 
 ----------------------------------------------------------------------------------------------------
  ## Day 38
@@ -667,7 +679,11 @@ Wednesday 12th April 2023
 Thursday 13th April 2023
 
 ### **Today's progress**:
+- CodeWars
+- Mindset: 
 
+- Research Task+ Presentation?
+- 14:00 Progress Check Interview with Sam
 
 ### Thoughts:
 
