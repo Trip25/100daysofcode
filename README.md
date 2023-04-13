@@ -680,14 +680,23 @@ Thursday 13th April 2023
 
 ### **Today's progress**:
 - CodeWars
-- Mindset: 
-
-- Research Task+ Presentation?
+- Mindset:
+- Recap Quiz(I did it late as I was busy in the morning) BC14 - W5D3 - useState [⅞]
+- Immutability
+- Spread and Slice (there's a SoC song on it)
 - 14:00 Progress Check Interview with Sam
+- .map(), .filter() and other methods
+- lists and keys- putting what we learned into React
+
 
 ### Thoughts:
+"Spread and Slice makes things nice and immutable"
 
 ### Links to work / resources:
+  
+- https://github.com/SchoolOfCode/bc14_w5d3_workshop_immutable-update-pattern-room_42
+- https://github.com/SchoolOfCode/bc14_w5d3_workshop_array-methods-Trip25
+- https://github.com/SchoolOfCode/bc14_w5d3_workshop_react-lists-and-keys-Trip25 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 39
