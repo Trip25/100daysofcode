@@ -704,11 +704,13 @@ Thursday 13th April 2023
 Friday 14th April 2023
 
 ### **Today's progress**:
-
+Hack-a-thon: Make a To do list with React
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w5d4_hackathon_react-athon-room_42
+- https://github.com/SchoolOfCode/bc14_w5_recap-tasks-Trip25
 
 ----------------------------------------------------------------------------------------------------
  ## Day 40
