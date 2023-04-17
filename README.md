@@ -718,7 +718,7 @@ Hack-a-thon: Make a To do list with React
 Saturday 15th April 2023
 
 ### **Today's progress**:
-
+No Coding
 
 ### Thoughts:
 
@@ -730,7 +730,7 @@ Saturday 15th April 2023
 Sunday 16th April 2023
 
 ### **Today's progress**:
-
+Worked on the Recap Task
 
 ### Thoughts:
 
@@ -742,9 +742,69 @@ Sunday 16th April 2023
 Monday 17th April 2023
 
 ### **Today's progress**:
+- Guest speaker: Rohit Shukla, Frontend Developer at Bravissimo- An introduction to UX
+- React Side Effects, useEffect()
+- Workshop1: first-useEffect( hook up a to do list)
+- Workshop 2: useEffect (Random Pokemon generator)
 
+### Thoughts:
+
+### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w6d1_workshop_first-useeffect-Trip25
+- https://github.com/SchoolOfCode/bc14_w6d1_workshop_useeffect-Trip25 
+- https://react.dev/learn/synchronizing-with-effects
+- https://react.dev/reference/react/useEffect
+- https://legacy.reactjs.org/docs/hooks-effect.html (THESE ARE OLD DOCS)
+
+----------------------------------------------------------------------------------------------------
+ ## Day 43
+
+Tuesday 18th April 2023
+
+### **Today's progress**:
+-
+
+### Thoughts:
+
+### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w6d1_workshop_first-useeffect-Trip25 
+
+----------------------------------------------------------------------------------------------------
+ ## Day 42
+
+Monday 17th April 2023
+
+### **Today's progress**:
+- Guest speaker: Rohit Shukla, Frontend Developer at Bravissimo- An introduction to UX
+- React Side Effects, useEffect()
 
 ### Thoughts:
 
 ### Links to work / resources:
 - 
+
+----------------------------------------------------------------------------------------------------
+ ## Day 42
+
+Monday 17th April 2023
+
+### **Today's progress**:
+- Guest speaker: Rohit Shukla, Frontend Developer at Bravissimo- An introduction to UX
+- React Side Effects, useEffect()
+
+### Thoughts:
+
+### Links to work / resources:
+- 
+
+----------------------------------------------------------------------------------------------------
+ ## Day 42
+
+
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
