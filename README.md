@@ -762,21 +762,30 @@ Monday 17th April 2023
 Tuesday 18th April 2023
 
 ### **Today's progress**:
--
+- Codewars
+- Recap quiz: BC14 - W6D2 - useEffect [7/8]
+- Switch Statements(instead of using if/else)
+- useReducer hook
+- Workshop(group): useReducer- <br> 
+  Task 1:converting and making a functional counter<br>
+  Task 2: converting useState to useReducer to make a bootcamper input list
+- Workshop: choose own React adventure: more research to libraries
 
 ### Thoughts:
+At 3pm Liz went over task 2 of the workshop useReducer and seeing the way she planned and broke things down really helped. Esp the reverse logic for how to link up the userInput and the dispatch. Really hope they have more workshops to solidify this and gonna miss Liz when she leaves tomorrow. Need to look into other React libraries to try it out and make an app
 
 ### Links to work / resources:
-- https://github.com/SchoolOfCode/bc14_w6d1_workshop_first-useeffect-Trip25 
+- https://react.dev/learn/extracting-state-logic-into-a-reducer 
+- https://github.com/SchoolOfCode/bc14_w6d2_workshop_usereducer-room-33-bim-tripti-tom 
+- https://github.com/SchoolOfCode/bc14_w6d2_workshop_react-extension-Trip25
 
 ----------------------------------------------------------------------------------------------------
- ## Day 42
+ ## Day 44
 
-Monday 17th April 2023
+Wednesday 19th April 2023
 
 ### **Today's progress**:
-- Guest speaker: Rohit Shukla, Frontend Developer at Bravissimo- An introduction to UX
-- React Side Effects, useEffect()
+
 
 ### Thoughts:
 
@@ -784,13 +793,12 @@ Monday 17th April 2023
 - 
 
 ----------------------------------------------------------------------------------------------------
- ## Day 42
+ ## Day 45
 
-Monday 17th April 2023
+Thursday 20th April 2023
 
 ### **Today's progress**:
-- Guest speaker: Rohit Shukla, Frontend Developer at Bravissimo- An introduction to UX
-- React Side Effects, useEffect()
+
 
 ### Thoughts:
 
@@ -798,9 +806,223 @@ Monday 17th April 2023
 - 
 
 ----------------------------------------------------------------------------------------------------
- ## Day 42
+ ## Day 46
+
+Friday 21st April 2023
+
+### **Today's progress**:
+Hackathon: 
+
+### Thoughts:
+
+### Links to work / resources:
 
 
+----------------------------------------------------------------------------------------------------
+ ## Day 47
+
+Saturday 22nd April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 48
+
+Sunday 23rd April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 49
+
+Monday 24th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 50
+
+Tuesday 25th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 51
+
+Wednesday 26th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 52
+
+Thursday 27th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 53
+
+Friday 28th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 54
+
+Saturday 29th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 55
+
+Sunday 30th April 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 56
+
+Monday 1st May 2023
+
+### **Today's progress**:
+BANK HOLIDAY
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 57
+
+Tuesday 2nd May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 58
+
+Wednesday 3rd May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 59
+
+Thursday 4th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 60
+
+Friday 5th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 61
+
+Saturday 6th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 62
+
+Sunday 7th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 63
+
+Monday 8th May 2023
+
+### **Today's progress**:
+BANK HOLIDAY
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 64
+
+Tuesday 9th May 2023
 
 ### **Today's progress**:
 
