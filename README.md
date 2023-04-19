@@ -792,6 +792,7 @@ Wednesday 19th April 2023
   - Testing in React using React Testing Library
   - Workshop- React Component Testing
 
+- After class worked on the weather app api
 
 ### Thoughts:
 
