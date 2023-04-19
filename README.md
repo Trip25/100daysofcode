@@ -548,7 +548,6 @@ Thursday 6th April 2023
 - Codewars
 - Mindset session:Self Awareness
 - Guest speakers from LinkedIn: Dani Markovits and Patrick Shea-Stamford
-
 - Hackathon for the rest of the afternoon
 
 ### Thoughts:
@@ -785,12 +784,23 @@ At 3pm Liz went over task 2 of the workshop useReducer and seeing the way she pl
 Wednesday 19th April 2023
 
 ### **Today's progress**:
+- CodeWars
+- Recap Quiz W6D3 useReducer [8/8]
+- Git Branching (since we will be doing our first week long project next week)
+  - git checkout -b
+  - Workshop- group - git branching
+  - Testing in React using React Testing Library
+  - Workshop- React Component Testing
 
 
 ### Thoughts:
 
 ### Links to work / resources:
-- 
+- https://github.com/SchoolOfCode/bc14_w6d3_workshop_git-branching-room-33-bim-tripti-tom
+- Introduction: https://testing-library.com/docs/react-testing-library/intro/
+- Code example: https://testing-library.com/docs/react-testing-library/example-intro
+- Details on render: https://testing-library.com/docs/react-testing-library/api#render
+- https://github.com/SchoolOfCode/bc14_w6d3_workshop_react-testing-library-room-33-bim-tripti-tom 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 45
@@ -800,10 +810,13 @@ Thursday 20th April 2023
 ### **Today's progress**:
 
 
+
 ### Thoughts:
 
 ### Links to work / resources:
-- 
+
+
+
 
 ----------------------------------------------------------------------------------------------------
  ## Day 46
