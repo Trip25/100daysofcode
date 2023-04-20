@@ -809,15 +809,33 @@ Wednesday 19th April 2023
 Thursday 20th April 2023
 
 ### **Today's progress**:
-
+- Codewars
+- Recap Quiz:  BC14 - W6D4 - git branching, React testing [9/9]
+- Mindset: Team Dynamics
+- Agile + Research tasks:
+Framework & tools
+  - Trello - https://trello.com/ (Explore with this tool in prep for next week)
+  - Scrum
+  - Kanban
+  - Extreme Programming
+More Agile concepts
+  - Theme/initiative/Epics/User stories
+  - Product backlog
+  - Burn down charts
+  - MVP
+  - Sprints
+  - Standups/Retrospectives
+  - Agile estimation techniques 
 
 
 ### Thoughts:
 
 ### Links to work / resources:
-
-
-
+- https://trello.com/
+- https://www.atlassian.com/agile
+- https://www.agilealliance.org/
+- What is my definition of Agile: https://www.youtube.com/watch?v=oZ6dPacn4Js
+- what is the Agile Mindset?: https://www.youtube.com/watch?v=DYNY7zCZPaU
 
 ----------------------------------------------------------------------------------------------------
  ## Day 46
@@ -838,7 +856,7 @@ Hackathon:
 Saturday 22nd April 2023
 
 ### **Today's progress**:
-
+- Funeral today, coding TBC
 
 ### Thoughts:
 
