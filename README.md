@@ -843,13 +843,14 @@ More Agile concepts
 Friday 21st April 2023
 
 ### **Today's progress**:
-Hackathon: 
+Hackathon: Research APIs and create and MVP
 
 ### Thoughts:
+Deffo felt like things had solidified in my brain but yeah I think it's best to practice more projects.
 
+We used a Random Fox API as we couldn't find a working API and just went with it. Will have to look into other projects and see if I can get something working!
 ### Links to work / resources:
-
-
+- https://github.com/SchoolOfCode/bc14_w6d5_hackathon_react-athon-room-33-bim-tripti-tom
 ----------------------------------------------------------------------------------------------------
  ## Day 47
 
@@ -861,7 +862,17 @@ Saturday 22nd April 2023
 ### Thoughts:
 
 ### Links to work / resources:
-
+Weekend Tasks
+Over the weekend, we'd like you to explore and familiarize yourselves with the following tools to benefit your upcoming project. Understanding these tools will help you work more efficiently during the project week and enhance your final product.
+Don't spend longer than 1 to 2 hours on this!
+Midjourney
+By familiarizing yourself with Midjourney, you'll be able to create user-centric and visually appealing designs more efficiently. This will help you enhance the overall user experience of your final product.
+React UI Libraries (Material UI, Chakra UI, or others)
+React UI libraries provide pre-built components and design systems to help you more efficiently develop a consistent and visually appealing user interface. A UI library will speed up the development process, giving you more time to focus on the features and functionality of your app.
+Trello
+Trello will help you prioritize tasks, keep track of progress, and ensure that your team works effectively toward the project's objectives.
+FigJam
+FigJam is a powerful real-time collaboration platform that offers several benefits for teams working on projects together.
 ----------------------------------------------------------------------------------------------------
  ## Day 48
 
