@@ -916,6 +916,20 @@ First day of the Front-end project week! Met new team and quite excited to start
 Tuesday 25th April 2023
 
 ### **Today's progress**:
+- 09:00 - 09:10 Morning Meet & Squats
+- 09:10 - 09:30 Team Standup
+- 09:30 - 10:00 Standup of Standups
+- 10:00 - 10:15 Break
+- 10:15 - 11:15 Bravissimo Talk
+- 11:15 - 12:30 Project Time
+- 12:30 - 13:30 Lunch
+- 13:30 - 14:30 Project Time
+- 14:30 - 14:45 Energiser
+- 14:45 - 15:00 Break
+- 15:00 - 16:25 Project Time
+- 16:25 - 16:45 Team Retrospectives
+- 16:45 - 17:00 Group Reflections
+
 
 
 ### Thoughts:
