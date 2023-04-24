@@ -892,12 +892,24 @@ Sunday 23rd April 2023
 Monday 24th April 2023
 
 ### **Today's progress**:
-
+- Team name: The Scriptastic 4
+- Team Manifesto
+- Briefing->
+    - User Personas
+    - Identified problems
+    - Created brainstorm [figjam]
+    - Dot voting
+- Create MVP
+- Choose main features
+- Stretch goals
+- Lo-fi fidelity prototype
 
 ### Thoughts:
+First day of the Front-end project week! Met new team and quite excited to start the process. Took the day to plan and managed to get out MVP.
 
 ### Links to work / resources:
-
+- https://github.com/SchoolOfCode/bc14_w7_project-frontend-scriptastic-4-room-24
+  
 ----------------------------------------------------------------------------------------------------
  ## Day 50
 
