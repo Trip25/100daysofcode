@@ -917,17 +917,23 @@ Tuesday 25th April 2023
 
 ### **Today's progress**:
 - 09:00 - 09:10 Morning Meet & Squats
-- 09:10 - 09:30 Team Standup
-- 09:30 - 10:00 Standup of Standups
+- 09:10 - 09:30 Group Stand Up- made spreadsheet to document
+- 09:30 - 10:00 Standup of Standups [Chris]
 - 10:00 - 10:15 Break
-- 10:15 - 11:15 Bravissimo Talk
-- 11:15 - 12:30 Project Time
+- 10:15 - 11:15 Guest Talk- Bravissimo - Stuart Roper- Mid Level Developer- “My Life as a Developer”
+- 11:15 - 12:30 Trello- delegation of tasks<br>
+  Split groups<br>
+  Chris/Gregor: Research on React UI libraries<br>
+Shervin/Tripti- Research on website designs and create high fi prototype.<br>
 - 12:30 - 13:30 Lunch
-- 13:30 - 14:30 Project Time
-- 14:30 - 14:45 Energiser
+- 13:30 - 14:30 Group discussion to not implement React UI due to skill level and timescales
+All work on high fi prototype
+- 14:30 - 14:45 Energiser [Do something nice for someone]
 - 14:45 - 15:00 Break
-- 15:00 - 16:25 Project Time
-- 16:25 - 16:45 Team Retrospectives
+- 15:00 - 16:25 Trello tasks- delegation for coding
+- Created and pushed shell of app
+- Split up to code components
+- 16:25 - 16:45 Team Retrospectives: identified when we went to code in pairs, that we had accidentally worked on the same file, so decided it was best to come together and go through the conflicts when merging. Going forward, we agreed to be explicit on stating which files we are going to be working on. Also agreed to pick a representative for the Group reflections at the end of day.
 - 16:45 - 17:00 Group Reflections
 
 
