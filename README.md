@@ -947,7 +947,25 @@ All work on high fi prototype
 Wednesday 26th April 2023
 
 ### **Today's progress**:
-
+• Group Stand Up- made spreadsheet to document
+• Stand up of Stand ups [Shervin]
+	-reported back to ensure we are taking screenshots [forward planning]
+Whilst Shervin- worked with Gregor and Chris to look into Input Component
+Tripti and Shervin to work on Quiz Component/Test Me button
+10:30 came together as title/usertitle was coming back with error messages
+12:10 made input form functional
+Greg/Shervin work on how to hide/blur the answer/fact
+Trip/Chris start working on CSS- added Images folder to public
+12:20 Re-evaluate plans using the feature
+13:35 - Chris fed back from mentor meeting
+Potentially 3 lines of code to get local storage to work.
+Push any changes and 
+14:50 Group discussion on local storage and how it works
+Work on CSS
+Regroup to show progress, fed back how local storage works
+Group working on CSS
+Retros of the day- updated the stand up log and Trello board
+Tasks for tomorrow will be testing and finishing CSS. Then move onto the presentation in the afternoon.
 
 ### Thoughts:
 
@@ -959,7 +977,13 @@ Wednesday 26th April 2023
 Thursday 27th April 2023
 
 ### **Today's progress**:
-
+Group Stand Up- made spreadsheet to document
+• Stand up of Stand ups [Gregor]
+- Worked together to attempt to get the postioning of components in the CSS.
+- Decided to fix the bugs we had with displaying the data array.
+- Worked on creating tests
+- Midday merged pull requests
+- Began working on the presentation slides
 
 ### Thoughts:
 
@@ -971,7 +995,7 @@ Thursday 27th April 2023
 Friday 28th April 2023
 
 ### **Today's progress**:
-
+PRESENTATION DAYY
 
 ### Thoughts:
 
