@@ -996,6 +996,7 @@ Friday 28th April 2023
 
 ### **Today's progress**:
 PRESENTATION DAYY
+We ended up have the last slots of the day so had a lot of waiting around to do. But it went great and the team were fantastic! Definitely hope to work with them again and ended the day with a high and go out for KBBQ dinner.
 
 ### Thoughts:
 
