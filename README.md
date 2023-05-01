@@ -1008,7 +1008,7 @@ We ended up have the last slots of the day so had a lot of waiting around to do.
 Saturday 29th April 2023
 
 ### **Today's progress**:
-
+No coding
 
 ### Thoughts:
 
@@ -1020,7 +1020,7 @@ Saturday 29th April 2023
 Sunday 30th April 2023
 
 ### **Today's progress**:
-
+Worked through some freecodecamp
 
 ### Thoughts:
 
@@ -1033,6 +1033,7 @@ Monday 1st May 2023
 
 ### **Today's progress**:
 BANK HOLIDAY
+Worked on some Codecademy to ensure I'm still up to date with coding.
 
 ### Thoughts:
 
