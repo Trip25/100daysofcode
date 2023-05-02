@@ -1045,9 +1045,12 @@ Worked on some Codecademy to ensure I'm still up to date with coding.
 Tuesday 2nd May 2023
 
 ### **Today's progress**:
-
+This week will be consolidation of learning and then learn about employment.
 
 ### Thoughts:
+Today we will learn about Retrospectives and then run a retro with the team. 
+- Individual learning audit: targeted consolidation
+- Afternoon spent on individual learning according to the learning audit.
 
 ### Links to work / resources:
 
@@ -1057,9 +1060,12 @@ Tuesday 2nd May 2023
 Wednesday 3rd May 2023
 
 ### **Today's progress**:
+- Should be put into new groups
+- Monring where we meet the employment coach
 
 
-### Thoughts:
+### Thoughts
+Side note: Jenny's lung operation is at 8am
 
 ### Links to work / resources:
 
@@ -1081,7 +1087,7 @@ Thursday 4th May 2023
 Friday 5th May 2023
 
 ### **Today's progress**:
-
+Hackathon
 
 ### Thoughts:
 
