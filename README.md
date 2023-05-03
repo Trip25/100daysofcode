@@ -1060,14 +1060,23 @@ Today we will learn about Retrospectives and then run a retro with the team.
 Wednesday 3rd May 2023
 
 ### **Today's progress**:
-- Should be put into new groups
-- Monring where we meet the employment coach
+- Introduced to new group
+  - C Rm 31: Anjali Ruth Muthusamy and Josh Bailey
+- Met the Partnership Team and learnt about our employability course and how we can improve our job prospects. 
+- Afternoon spent more time consolidating React.
 
 
 ### Thoughts
-Side note: Jenny's lung operation is at 8am
+Side note: Jenny's lung operation is at 8am, [update,apparently was a success]
 
 ### Links to work / resources:
+- JavaScript.info:https://javascript.info/array-methods
+- Array Explorer: https://sdras.github.io/array-explorer/
+- WebDev Simplified - Array Methods: **https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=462s**
+- HackerRank: https://www.hackerrank.com/
+- LeetCode: https://leetcode.com/
+- CoderByte: https://coderbyte.com/developers
+- CodeSandBox: https://codesandbox.io/
 
 ----------------------------------------------------------------------------------------------------
  ## Day 59
