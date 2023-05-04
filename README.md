@@ -1084,11 +1084,46 @@ Side note: Jenny's lung operation is at 8am, [update,apparently was a success]
 Thursday 4th May 2023
 
 ### **Today's progress**:
-
+“Codewars” until 10:20
+<br>
+Employment - Writing CV’s -**deadline to get first draft submitted 19/05**
+<br>
+tips from employers and snippets of successful bootcampers CVs
+<br>
+1. Profile
+2. Skills
+3. Work Exp
+<br>
+Add all relevant transferable skills
+<br>
+4. Link to project- link to deployed application
+<br>
+Github
+<br>
+5. Education
+<br>
+Notion page: Learning
+<br>
+Feedback from employers.
+<br>
+13:30 Self Learning
+<br>
+Links given for CSS revision (CSS Diner, Flexbox froggy etc)
+<br>
+Tried out the Frontend Mentor challenges to use my CSS skills
 
 ### Thoughts:
 
 ### Links to work / resources:
+  - https://www.notion.so/schoolofcode/Intro-to-Employability-137e81fade6644d981bc854cab005b42?p=33ee2785c9ba4673b95b5940c87318c0&pm=s
+- CSS Diner: https://flukeout.github.io/
+- Flexbox Froggy: https://flexboxfroggy.com/
+- WebDev Simplified -Learn Flexbox in 15 Minutes: https://www.youtube.com/watch?v=fYq5PXgSsbE&t=473s
+- Kevin Powell - Flexbox design patterns you can use in your projects: https://www.youtube.com/watch?v=vQAvjof1oe4
+- Flexbox CheatSheet: https://flexbox.malven.co/
+- Frontend Mentors: https://www.frontendmentor.io/challenges
+  - NFT Card Component: https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
+  - Product Preview Card: https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
 ----------------------------------------------------------------------------------------------------
  ## Day 60
