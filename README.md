@@ -1153,6 +1153,8 @@ Saturday 6th May 2023
 Sunday 7th May 2023
 
 ### **Today's progress**:
+Tried to do the country API as well but will pause for now
+Working on starting my portfolio
 
 
 ### Thoughts:
