@@ -1251,3 +1251,76 @@ Sunday 14th May 2023
 ### Thoughts:
 
 ### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 70
+
+Monday 15th May 2023
+
+### **Today's progress**:
+WEEK 10: DATABASES
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 71
+
+Tueasday 16th May 2023
+
+### **Today's progress**:
+WEEK 10: DATABASES
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 72
+
+Wednesday 17th May 2023
+
+### **Today's progress**:
+WEEK 10: DATABASES
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 73
+
+Thursday 18th May 2023
+
+### **Today's progress**:
+WEEK 10: DATABASES
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 74
+
+Friday 19th May 2023
+
+### **Today's progress**:
+<strong>deadline for first draft of CVs</strong>
+HACKATHON:
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 75
+
+Saturday 20th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
