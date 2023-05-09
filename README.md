@@ -1188,12 +1188,16 @@ Coach Loz:
 - Breakout room activity: Read Bootcampers JSON DATA and display
 - 14:30 -15: 00 Energiser: Higher or Lower with Mug prizes
 - generate unique Id's using third party API
-- CRUD
 
 
 ### Thoughts:
-
+Today seemed to go well and grateful to Loz for breaking down the jargon for us. We learnt more about Node.js and the module systems and had break out room activities where we could learn to read/write files and then used uuid to generate unique IDs!
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w9d2_workshop_working-with-files-abdi-tripti-felicity
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await#top_level_await
+- https://my-json-server.typicode.com/ 
 ----------------------------------------------------------------------------------------------------
  ## Day 65
 
