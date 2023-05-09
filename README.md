@@ -1178,6 +1178,74 @@ BANK HOLIDAY
 Tuesday 9th May 2023
 
 ### **Today's progress**:
+Coach Loz:
+- Pair feedback
+- New Team C Rm 28: Abdiraman Mohamed, Felicity Price 
+- CodeWars
+- Node.js- what is it, history, popular JavaScript engines
+- Node.js module systems
+- Breakout room activity: Save DATA to JSON file
+- Breakout room activity: Read Bootcampers JSON DATA and display
+- 14:30 -15: 00 Energiser: Higher or Lower with Mug prizes
+- generate unique Id's using third party API
+- CRUD
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 65
+
+Wednesday 10th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 66
+
+Thursday 11th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 67
+
+Friday 12th May 2023
+
+### **Today's progress**:
+HACKATHON: 
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 68
+
+Saturday 13th May 2023
+
+### **Today's progress**:
+Probably recap task?
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 69
+
+Sunday 14th May 2023
+
+### **Today's progress**:
 
 
 ### Thoughts:
