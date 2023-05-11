@@ -1436,7 +1436,14 @@ Thursday 11th May 2023
 - Express.Static 
 - 11:32 Guest talk: Talis Elly Durrant & Nadeem Shabir <strong>Intro to RESTful API’s</strong>
 - Go through express.static, make a POST request and what to do on the ThunderClient side
-- Third-party middleware
+- Third-party middleware: Morgan.js, applying to certain routes
+- Breakout room Activity:
+You'll be working with the Quotes API that we built in yesterday's workshop. Here are the tasks I'd like you to complete:
+
+1. **Implement a Custom Middleware Function:** Middleware functions are a powerful feature of Express.js. They can perform various tasks, like error handling, logging, or even modifying the request or response objects. I'd like you to implement a custom middleware function in your Quotes API. This could be anything you like. For example, you could create a middleware that logs the time of each request, or one that checks if the request has a specific header. Feel free to get creative!
+2. **Serve a Static File from a Public Folder:** As part of building a full-fledged web server, you need to be able to serve static files. For this task, please serve an image file from a public folder in your project. This image could be anything - a logo, a background image, or a placeholder image.
+3. **Use Morgan Middleware:** Morgan is a popular middleware package for logging HTTP requests. Implement Morgan in your API to gain visibility into incoming requests. This can be incredibly useful for debugging and understanding how your API is used.
+4. **Ensure Your API Follows REST Guidelines:** Building on our guest talk on REST, I'd like you to delve deeper into REST principles and ensure your API follows these guidelines. This includes using proper HTTP methods, structuring your endpoints correctly, and appropriately using status codes. Don't worry if you don't get everything right at first. The goal here is to learn and improve, so take it step by step.
   
 ### Thoughts:
 Tip: Try to console.log() everything, check what's in the request, response and have a better understanding for debugging.
