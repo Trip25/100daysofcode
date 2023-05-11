@@ -1204,7 +1204,221 @@ Today seemed to go well and grateful to Loz for breaking down the jargon for us.
 Wednesday 10th May 2023
 
 ### **Today's progress**:
+Squats
 
+CodeWars
+
+09:50 Guest Talk: Katie Hawcutt 
+
+Software Engineer- Wise 
+
+10:30 Quiz W9D1 Node.js & File System [8/8]
+
+**10:45- 11:35 Go through Workshop with Loz** 
+
+```
+//quote.js
+
+import fs from "node:fs/promises";
+import { v4 as uuidv4 } from "uuid";
+
+const fileName = "quotes.json";
+
+export async function addQuote(quoteText) {
+  // Create new quote
+  const newQuote = {
+    id: uuidv4(),
+    quoteText,
+  };
+
+  // Read JSON quote data from file
+  const quotesJSON = await fs.readFile(fileName, "utf8");
+
+  // Parse JSON data, convert to array
+  const quotes = JSON.parse(quotesJSON);
+
+  // Add the new quote to the quotes array
+  quotes.push(newQuote);
+
+  // Save the updated quotes array to file
+  await fs.writeFile(fileName, JSON.stringify(quotes), "utf8");
+
+  return newQuote;
+}
+
+export async function getQuotes() {
+  // Read the JSON data from file
+  const quotesJSON = await fs.readFile(fileName, "utf8");
+
+  // Parse JSON data
+  const quotes = JSON.parse(quotesJSON);
+
+  return quotes;
+}
+
+export async function getRandomQuote() {
+  // Read the JSON data from file
+  const quotesJSON = await fs.readFile(fileName, "utf8");
+
+  // Parse JSON data
+  const quotes = JSON.parse(quotesJSON);
+
+  // Get a random quote from the quotes array
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  const randomQuote = quotes[randomIndex];
+
+  return randomQuote;
+}
+
+export async function editQuote(id, quoteText) {
+  // Read the JSON data from file
+  const quotesJSON = await fs.readFile(fileName, "utf8");
+
+  // Parse JSON data
+  const quotes = JSON.parse(quotesJSON);
+
+  // Find the existing quote object
+  let quote = null;
+
+  for (let i = 0; i < quotes.length; i++) {
+    if (quotes[i].id === id) {
+      quote = quotes[i];
+      quotes[i].quoteText = quoteText;
+      break;
+    }
+  }
+
+  // Write updated quotes array to file
+  await fs.writeFile(fileName, JSON.stringify(quotes), "utf8");
+
+  return quote;
+}
+
+export async function deleteQuote(id) {
+  // Read the JSON data from file
+  const quotesJSON = await fs.readFile(fileName, "utf8");
+
+  // Parse JSON data
+  const quotes = JSON.parse(quotesJSON);
+
+  // Find the existing quote object
+  let quoteIndex = null;
+
+  for (let i = 0; i < quotes.length; i++) {
+    if (quotes[i].id === id) {
+      quoteIndex = i;
+      break;
+    }
+  }
+
+  if (quoteIndex !== null) {
+    const deletedQuote = quotes.splice(quoteIndex, 1);
+    await fs.writeFile(fileName, JSON.stringify(quotes), "utf8");
+    return deletedQuote[0];
+  }
+
+  return null;
+}
+
+```
+
+**-Breakout activity 1**
+
+```jsx
+// Import the express module. This module is a framework that provides a set of
+// features for web and mobile applications.
+import express from "express";
+
+// Initialize an instance of express and store it in the app variable.
+const app = express();
+
+// Define a variable to store the port number that your server will listen on.
+const port = 3000;
+
+// Define a route handler for GET requests made to the root path ("/").
+// When a client makes a GET request to the root path, this function is called.
+app.get("/", (req, res) => {
+  // The function takes two arguments: req and res.
+  // req (short for "request") is an object containing information about the
+  // client's request, such as the request path, the HTTP method, and the headers.
+  // res (short for "response") is an object used to send a response back to the client.
+
+  // Use the res.send() function to send a string as a response. This string will be
+  // displayed in the client's browser or returned to the client's HTTP client.
+  res.send("Hello Bootcampers!");
+});
+
+// Tell your express app to start listening for incoming HTTP requests on the given port.
+// The second argument is a callback function that's called when the server successfully
+// starts listening.
+app.listen(port, () => {
+  // Use console.log() to print a message to the console. This is useful for letting
+  // you know that the server has successfully started and is ready to accept requests.
+  console.log(`Server is up and running on port: ${port}`);
+});
+```
+
+[14:39](https://schoolofcode-bc14.slack.com/archives/C04QNLTM940/p1683725956836199)
+
+Example code from session exploring ways of using express to:
+
+- create route handlers
+- listen on a port
+- parse request paths
+- parse HTTP Methods
+- parse Query Strings
+- parse a JSON Body
+- Send a TEXT response
+- Send a JSON response
+
+```
+import express from "express";
+
+const app = express();
+
+const port = 3000;
+
+// Tell express to parse JSON body
+app.use(express.json());
+
+// Get methods
+// JSON response and status code example
+app.get("/", (req, res) => {
+  res.status(418).json({
+    msg:"Hello Bootcampers!"
+  });
+});
+
+// Example url parameter
+app.get("/quotes/:id", (req, res) => {
+  console.log(req.params);
+  res.send(`The quote you requested has an id of ${req.params.id}`);
+})
+
+// Query string example
+app.get("/sami", function(req, res) {
+  console.log(req.query);
+  if (req.query.dog === "true") {
+    return res.send("DOG");
+  }
+  res.send("Yo, whatups!");
+})
+
+// POST method
+// Parsing request body example
+app.post("/contact-form", (req, res) => {
+  console.log(req.body);
+  res.send("IT worked! (POST)");
+})
+
+app.listen(port, () => {
+  console.log(`Server is up and running on port: ${port}`);
+})
+```
+
+**15:07 Workshop: Building a REST API**
+
+17:30 - 19:00 Kudospace with Hamza
 
 ### Thoughts:
 
