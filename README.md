@@ -1429,7 +1429,7 @@ app.listen(port, () => {
 Thursday 11th May 2023
 
 ### **Today's progress**:
-
+- Codewars
 
 ### Thoughts:
 
