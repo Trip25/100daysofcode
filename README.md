@@ -1430,8 +1430,16 @@ Thursday 11th May 2023
 
 ### **Today's progress**:
 - Codewars
-
+- Quiz W9D3- Express and Web fundamentals [9/10]
+- 10:23 Express 
+- Custom MIDDLEWARE
+- Express.Static 
+- 11:32 Guest talk: Talis Elly Durrant & Nadeem Shabir <strong>Intro to RESTful API’s</strong>
+- Go through express.static, make a POST request and what to do on the ThunderClient side
+- Third-party middleware
+  
 ### Thoughts:
+Tip: Try to console.log() everything, check what's in the request, response and have a better understanding for debugging.
 
 ### Links to work / resources:
 ----------------------------------------------------------------------------------------------------
