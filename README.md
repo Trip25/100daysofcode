@@ -1449,6 +1449,9 @@ You'll be working with the Quotes API that we built in yesterday's workshop. Her
 Tip: Try to console.log() everything, check what's in the request, response and have a better understanding for debugging.
 
 ### Links to work / resources:
+- https://www.npmjs.com/package/morgan
+- RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express: https://www.youtube.com/watch?v=-MTSQjw5DrM&amp;ab_channel=Fireship 
+- REST API concepts and examples: https://www.youtube.com/watch?v=7YcW25PHnAA
 ----------------------------------------------------------------------------------------------------
  ## Day 67
 
