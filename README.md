@@ -1449,6 +1449,7 @@ You'll be working with the Quotes API that we built in yesterday's workshop. Her
 Tip: Try to console.log() everything, check what's in the request, response and have a better understanding for debugging.
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-abdi-tripti-felicity 
 - https://www.npmjs.com/package/morgan
 - RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express: https://www.youtube.com/watch?v=-MTSQjw5DrM&amp;ab_channel=Fireship 
 - REST API concepts and examples: https://www.youtube.com/watch?v=7YcW25PHnAA
@@ -1458,11 +1459,15 @@ Tip: Try to console.log() everything, check what's in the request, response and 
 Friday 12th May 2023
 
 ### **Today's progress**:
-HACKATHON: 
+Hackathon - Build a Back End
+- CRUD Routes
+- Test with Thunder Client or Postman (need to research into this more)
 
 ### Thoughts:
+Amazed at what we were able to achieve today, who would have thought we would have made our own REST API and also be able to get it functional and linked up to the front-end(which was given to use, but next week I'm sure we would have to make our own). We even managed to get into the bonus tasks by joining up the front end, adding some middleware and adding new features to the app.
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w9d5_hackathon_build-a-backend-abdi-tripti-felicity
 
 ----------------------------------------------------------------------------------------------------
  ## Day 68
@@ -1475,6 +1480,7 @@ Probably recap task?
 ### Thoughts:
 
 ### Links to work / resources:
+- https://github.com/SchoolOfCode/bc14_w9_recap-task_node-express-api-Trip25
 
 ----------------------------------------------------------------------------------------------------
  ## Day 69
