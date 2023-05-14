@@ -1488,7 +1488,8 @@ Probably recap task?
 Sunday 14th May 2023
 
 ### **Today's progress**:
-
+- Worked on the recap tasks, managed to finish and link to front side.
+- Forked some repos from the SOC workshops to personal, will need to double check later to see if the websites work
 
 ### Thoughts:
 
@@ -1501,6 +1502,9 @@ Monday 15th May 2023
 
 ### **Today's progress**:
 WEEK 10: DATABASES
+11am start:
+
+New pair- C 34: Danayet Gezaie and Lhizelle Tu
 
 ### Thoughts:
 
