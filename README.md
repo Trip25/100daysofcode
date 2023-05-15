@@ -1503,12 +1503,39 @@ Monday 15th May 2023
 ### **Today's progress**:
 WEEK 10: DATABASES
 11am start:
+<strong>Persistent Storage with Databases</strong>
 
 New pair- C 34: Danayet Gezaie and Lhizelle Tu
+- Work on SQLBolt
+- 14:30 Energiser: Scattergories
+- 15:00-16:45 SQL Murder Mystery
 
 ### Thoughts:
+Databases are for more robust solutions, for retrieving large amounts of data. Enable us to **CRUD**
 
+**Create**
+
+**Read**
+
+**Update**
+
+**Delete**
+
+Types of Databases
+
+Non-relational
+
+**Relational database: SQL, table based
+
+We will be learning POSTgres over the next couple of days. Columns contain attributes or types of data. Each row represents a individual record or data point with its own unique id known as a Primary Key.
+
+**SQL: Structured Query Lanaguage**
+
+***SELECT, INSERT, UPDATE or DELETE***
 ### Links to work / resources:
+- SQL Explained in 100 Seconds: [https://www.youtube.com/watch?v=zsjvFFKOm3c]
+- SQLBolt [https://sqlbolt.com/]
+- SQL Murder Mystery [https://mystery.knightlab.com/walkthrough.html]
 
 ----------------------------------------------------------------------------------------------------
  ## Day 71
