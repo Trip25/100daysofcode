@@ -1502,6 +1502,7 @@ Monday 15th May 2023
 
 ### **Today's progress**:
 WEEK 10: DATABASES
+Intro to SQL
 11am start:
 <strong>Persistent Storage with Databases</strong>
 
@@ -1544,11 +1545,75 @@ Tueasday 16th May 2023
 
 ### **Today's progress**:
 WEEK 10: DATABASES
+Advanced SQL
+- 09:53- 11:10 Guest Speaker: Stuart Langdridge from Kryogenix
+- 11:30 Quiz: W10D1 - Intro to SQL [10/10]
+- Understanding Database Relationships
+  - Primary Keys
+  - Foreign Keys
+  - Database Relationships
+    - One-one relationships
+    - One-to-Many Relationships
+    - Many-to-Many relationships
+  - Entity Relationship Diagrams(ERD)
+  - 12:00 Watch videos of SQL JOINS
+  - PostgreSQL exercises
+
+<italics>Extension tasks:</italics>
+Loz
+  15:10
+Here are the extension tasks for today. You can tackle these now or after you complete this morning's exercises. The choice is yours.
+15:11
+<strong>Task 1 - Creating an ERD using Lucidchart</strong>
+Objective: Gain hands-on experience with designing database structures using Entity Relationship Diagrams (ERDs).
+1.  Create a Lucidchart account
+  - Go to Lucidchart's website and sign up for a free account if you don't already have one.
+2.  Start a new ERD
+  - Once you're logged in, click on "+ New" and select "Blank Document" to start designing your ERD.
+3.  Design your ERD
+  - This is where your creativity comes into play. You get to decide what kind of database you want to design. It could be anything from a bookstore, a zoo, a school, or even a fictional universe!
+  - Drag and drop shapes from the toolbox to represent tables. Label them with relevant table names such as 'Customers,' 'Orders,' 'Animals,' 'Species,' 'Students,' 'Courses,' etc., based on the database you've chosen.
+  - Inside each table shape, add your fields (like 'Customer ID,' 'Order ID,' etc.). Remember to mark the primary keys.
+  - Now think about how these tables relate to each other. Is it a one-to-one, one-to-many, or many-to-many relationship? Draw lines between the tables to represent these relationships.
+4.  Review and Save
+  - Take a moment to review your ERD. Does it accurately represent the data and its relationships?
+  - Once you're happy with it, save your work.
+Useful links:
+- https://www.youtube.com/watch?v=QpdhBUYk7Kk
+15:11
+<strong>Task 2 - Creating and Interacting with a Database using DB Fiddle</strong>
+Objective: Develop practical skills in implementing a database from an ERD and performing CRUD operations.
+1.  Open DB Fiddle
+  - Go to the DB Fiddle website. Make sure you select PostgreSQL 15 as the database version.
+2.  Create your Tables
+  - Refer back to your ERD from the first task. Now you're going to create these tables in DB Fiddle. Write your SQL CREATE TABLE commands in the schema panel.
+3.  Insert Data
+  - Once your tables are set up, it's time to populate them with data. Write some SQL INSERT INTO commands to add records to your tables.
+4.  Perform CRUD operations and more
+  - Now that your database is populated, it's time to interact with it. Try out the following:
+      - Create - Add more records to your tables using the INSERT INTO command.
+      - Read - Retrieve data from your tables using the SELECT command. Try different WHERE conditions to filter your data.
+      - Update - Change some of your existing records using the UPDATE command. Don't forget to use WHERE to specify which record(s) to update.
+      - Delete - Remove some records from your tables using the DELETE command. Remember, use WHERE to specify the record(s) to delete.
+  - Additionally, consider exploring:
+      - Joining tables - Try to use different types of JOIN (INNER JOIN, LEFT JOIN, etc.) to combine rows from two or more tables based on a related column.
+      - Aggregating data - Use aggregate functions (COUNT, AVG, SUM, etc.) to compute a single output value from multiple input values.
+      - Ordering and grouping - Experiment with the ORDER BY and GROUP BY clauses to organize your data.
+5.  Reflect
+  - Reflect on the process. How did your ERD help in creating the database? How comfortable are you with performing CRUD operations and more advanced SQL commands?
+Useful links:
+- https://www.db-fiddle.com/
+- https://sqlbolt.com/lesson/creating_tables
+ <br>
+15:12 Remember, learning SQL and understanding database structures is like learning a new language. The more you practice, the more fluent you'll become!
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+- https://docs.google.com/forms/d/e/1FAIpQLSfAN_9zTRWVrUt7YAvlpn9b28qfkloaSKjnbxZftZEu53VgWg/viewscore?viewscore=AE0zAgARuHcVaqu2D4pDHNm9cSmo2ZEZYWypVI1CvNVLCK8RXEg4U0X2VR13YSk5o30Ak_8
+- SQL Joins Explained |¦| Joins in SQL |¦| SQL Tutorial [https://www.youtube.com/watch?v=9yeOJ0ZMUYw]
+- SQL Joins Examples |¦| Joins in SQL |¦| SQL Tutorial [https://www.youtube.com/watch?v=Jh_pvk48jHA]
+- https://pgexercises.com/questions/joins/
 ----------------------------------------------------------------------------------------------------
  ## Day 72
 
