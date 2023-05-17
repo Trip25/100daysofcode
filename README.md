@@ -1621,11 +1621,56 @@ Wednesday 17th May 2023
 
 ### **Today's progress**:
 WEEK 10: DATABASES
+09:10 Spencer Ley from Partnership→ looking to get first draft CV this week Fri-Sun[absolute last]
+looking to give feedback on content and layout/design → ensure it is readable by ATS
+Huntr should be live end of May/June
+09:15 SQLBolt/CodeWars 
+10:11 - **Quiz W10D2 - Advanced SQL [10/10]**
+10:55 Task 1: Getting Familiar with ElephantSQL
+1.1 Introduction to ElephantSQL
+
+- Sign up for a free ElephantSQL account.
+
+1.2 Creating PostgreSQL Instances
+
+- Create your own PostgreSQL instance on ElephantSQL.
+- Find and make a note of your database configuration details. These are the details you’ll need in order for your Node app to connect to and interact with your newly created database later. (E.g. host, user, password, database name, port)
+
+1.3 Creating Tables
+
+- Review the SQL CREATE TABLE statement.
+- Create the ‘books’ and ‘authors’ tables based on the provided JSON data.
+- Discuss the relationship between books and authors in your pairs/trios.
+
+1.4 Populating Data
+
+- Review the SQL INSERT INTO statement.
+- Populate the ‘books’ and ‘authors’ tables with data from the provided JSON data.
+
+1.5 Querying Data
+
+- Find all books written by J.K. Rowling. Hint: This will require a JOIN.
+- Find the author who wrote “1984”. Hint: Again, this will require a JOIN.
+- Find all authors who have written more than one book. Hint: This will require a GROUP BY and HAVING clause. Note: The query won't return any results, as each author has only written one book. Add more books to the data to make this query more interesting.
+- Find all books published before 1950.
+- Find all authors in alphabetical order by last name.
+- Experiment and think up your own SQL statements. You don’t have to stick with SELECT, try updating, removing and adding new books and authors too!
+
+<strong>Using dotenv from npm to manage environment variables</strong>
+- node-postgres
+- Using Clients or Pools for queries
+- Workshop- Create own database which drops tables(if any existing), create new tables, insert into tables. 
+  Use the try,catch, finally
 
 ### Thoughts:
 
 ### Links to work / resources:
 
+- https://www.npmjs.com/package/dotenv
+- https://www.npmjs.com/package/pg
+- https://node-postgres.com/features/queries#parameterized-query
+- [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
+- [https://node-postgres.com/](https://node-postgres.com/)
 ----------------------------------------------------------------------------------------------------
  ## Day 73
 
@@ -1655,6 +1700,31 @@ HACKATHON:
  ## Day 75
 
 Saturday 20th May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 76
+
+Sunday 21st May 2023
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 77
+
+Monday 22nd May 2023
+Week 11
 
 ### **Today's progress**:
 
