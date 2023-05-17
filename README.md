@@ -1657,10 +1657,66 @@ Huntr should be live end of May/June
 - Experiment and think up your own SQL statements. You don’t have to stick with SELECT, try updating, removing and adding new books and authors too!
 
 <strong>Using dotenv from npm to manage environment variables</strong>
+Task: 
+
+Instructions for the experimenting with environment variables:
+
+1. Set up your project
+2. Create a new directory named `environment-variables-practice` on your machine
+3. Within it, initialise a new Node.js project and configure it to enable ESM syntax
+4. Install necessary packages
+5. Install the dotenv package using NPM
+6. See the documentation for details: [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
+7. Set up your `.env` file
+8. Create a new file at the top/root level of your project directory named `.env`. Within this file add one or two environment variables of your choosing (give them whatever arbitrary names and values you want, it won't matter for this task). For example, `FAVOURITE_COLOUR`
+9. Create your JS file
+10. Create a new file in your project directory named `index.js` and within it, try to console.log the values of the environment variables that you've added. So, for example, depending on what you called your environment variables, you'll have a couple of lines like: `console.log(process.env.FAVOURITE_COLOUR);`.
+11. Run the script
+12. First run the file using `node index.js`. What do you notice about the values of the environment variables? Do they print to the terminal correctly?
+13. This time run the file using `node -r dotenv/config index.js`. Again, what do you notice about the values of the environment variables? Do they print to the terminal correctly?
+14. What does that suggest about the `r dotenv/config` bit? Is it necessary?
 - node-postgres
 - Using Clients or Pools for queries
 - Workshop- Create own database which drops tables(if any existing), create new tables, insert into tables. 
   Use the try,catch, finally
+  1. Setup your project
+2. Create a new directory named “db-scripts” and navigate into it.
+3. Initialize a new Node.js project and configure it to allow ESM syntax.
+4. Install necessary packages
+5. Install the “pg” and “dotenv” packages using npm.
+6. Set up your .env file
+7. Create a new file in your project directory named “.env” - This file will hold your ElephantSQL database connection string.
+8. Populate it like so: (Be sure to replace `your_connection_string` with the one from ElephantSQL.)
+
+```
+DB_CONNECTION_STRING=your_connection_string
+```
+
+4. Create your script
+
+1. Create a new file in your project directory named “reset-db.js”.
+2. Add a script to your “package.json” file named “reset-db” that runs the following command: `node -r dotenv/config reset-db.js` Now whenever you run `npm run reset-db` in the terminal, the script will run and attach the environment variables in your “.env” file to the `process.env` object.
+
+5. Write your code!
+
+1. Import the pg Client at the top of the file.
+2. Create a new client instance and pass in your configuration details.
+3. Create an async function named `resetDB`
+
+6. Inside the function, use the client to:
+
+1. Connect to the database.
+2. Drop the existing tables (If they exist)
+3. Create the `authors` table
+4. Create the `books` table
+5. Populate the `authors` table.
+6. Populate the `books` table.
+7. Log a success message to the console.
+8. End the client connection.
+9. Use “Try, catch, finally”. The `try` block will contain the code that does the actual work. The `catch` block can handle/log any errors to the console. The `finally` block can close the client connection.
+10. Finally, at then end of the file call `resetDb()` and check your ElephantSQL database to check it worked.
+
+7. Next, get creative and make other scripts that interact with your database!
 
 ### Thoughts:
 
