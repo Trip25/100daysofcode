@@ -1735,9 +1735,22 @@ Thursday 18th May 2023
 ### **Today's progress**:
 WEEK 10: DATABASES
 
+10:15 Quiz W10D3 - Connecting Node to Postgres [10/10]
+- Parameterised Queries
+- 11:30-12:30 Guest Talk: Dileep Marway his journey with various tech roles.
+- Model View Controller (MVC)
+- Workshop: rest-express-room
+- 14:30-14:45 Energiser Gartic?- drawing one
+- 14:45-15:00 break
+- 16:40 Kahoot
+
+
 ### Thoughts:
+Feeling a more confident with SQL queries and integrating them. Will need to read up on MVC and understnad what each part does more specifically. Because getting a near ready code in the workshop with premade folders made it quite confusing so will probably have to try it from scratch.
 
 ### Links to work / resources:
+- https://node-postgres.com/features/queries#parameterized-query
+- https://github.com/SchoolOfCode/bc14_w10d4_workshop_rest-express-room-34-lhizelle-tripti-danayet
 
 ----------------------------------------------------------------------------------------------------
  ## Day 74
@@ -1746,9 +1759,23 @@ Friday 19th May 2023
 
 ### **Today's progress**:
 <strong>deadline for first draft of CVs</strong>
-HACKATHON:
+Codewars
+- Couchbase Guest Takeover:
+  - Application Use Case: Couchify App
+  - Relation (SQL) Database Characteristics
+  - No SQL Databse Characteristics
+  - Vertical and Horizontal Scaling
+  - Couchbase Capella
+  - Creating Buckets, Scopes and Collections
+  - Loading Documents into the Database
+  - Key/Value Operations
+  - Connection Buckets, Scopes and Collections
+  - Handling Exceptions
+  - Lab activities 1-4
+  
 
 ### Thoughts:
+A change of scene as there was no hackathon, but Couchbase took over the whole day where we learnt about NoSQL and the Couchbase Capella database via the lab activities. Very interesting insight to a realist scenario.
 
 ### Links to work / resources:
 
