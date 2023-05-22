@@ -1773,7 +1773,7 @@ Codewars
   - Handling Exceptions
   - Lab activities 1-4
   
-
+After lesson: work on portfolio and frontend mentor challenge Space Travel.
 ### Thoughts:
 A change of scene as there was no hackathon, but Couchbase took over the whole day where we learnt about NoSQL and the Couchbase Capella database via the lab activities. Very interesting insight to a realist scenario.
 
@@ -1785,7 +1785,7 @@ A change of scene as there was no hackathon, but Couchbase took over the whole d
 Saturday 20th May 2023
 
 ### **Today's progress**:
-
+Continued:  work on portfolio and frontend mentor challenge Space Travel.
 
 ### Thoughts:
 
@@ -1797,6 +1797,7 @@ Saturday 20th May 2023
 Sunday 21st May 2023
 
 ### **Today's progress**:
+Recap task: New branch on the Thursday's workshop
 
 
 ### Thoughts:
@@ -1807,7 +1808,193 @@ Sunday 21st May 2023
  ## Day 77
 
 Monday 22nd May 2023
+
+### **Today's progress**:
+Week 11: Advanced Programming
+11am start
+Peer feedback
+11:30 Guest Talk Talis Elly Durrant & Nadeem Shabir: Developing Software at Talis
+Lunch
+- Meet new team C 36: Isaac Boxall and Madalina Orzan-Dragos
+- Authentication and Authorisation
+- Cookies, sessions and tokens(JWT)
+- Use third party service to implement authentication (Supabase)
+
+### Thoughts:
+
+### Links to work / resources:
+- https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
+- 
+- https://jwt.io/ 
+- https://supabase.com/docs/guides/auth/quickstarts/react
+- https://supabase.com/docs/learn/auth-deep-dive/auth-deep-dive-jwts
+- https://supabase.com/docs/learn/auth-deep-dive/auth-row-level-security
+- https://supabase.com/docs/learn/auth-deep-dive/auth-policies
+- https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room36_tripti_isaac_maddie
+
+----------------------------------------------------------------------------------------------------
+ ## Day 78
+
+Tuesday 23nd May 2023
 Week 11
+
+### **Today's progress**:
+Carry on with yesterday's workshop
+
+### Thoughts:
+
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 79
+
+Wednesday 24th May 2023
+Week 11
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 80
+
+Thursday 25th May 2023
+Week 11
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 81
+
+Friday 26th May 2023
+Week 11
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 82
+
+Saturday 27th May 2023
+Week 11
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 83
+
+Sunday 28th May 2023
+Week 11
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 84
+
+Monday 29th May 2023
+Week 12 THE BIG PROJECTSSS
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 85
+
+Tuesday 30th May 2023
+Week 12
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 86
+
+Wednesday 31st May 2023
+Week 12
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 87
+
+Thursday 1st June 2023
+Week 12
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 88
+
+Friday 2nd June 2023
+Week 12
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 89
+
+Saturday 3rd June 2023
+Week 12
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 90
+
+Sunday 4th June 2023
+Week 12
 
 ### **Today's progress**:
 
