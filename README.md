@@ -1839,10 +1839,14 @@ Tuesday 23nd May 2023
 Week 11
 
 ### **Today's progress**:
+- Started the day with Codewars
+- 09:53 Guest Speaker: Rik Marselis: Quality engineering and testing in today's cross-functional teams
 Carry on with yesterday's workshop
+  - working with Supabase to create a leaderboard table and integrate different authentication
+  - was also going to start on to do list app and implement authentication for the users
 
 ### Thoughts:
-
+Props to Arshi for going through the tasks with us, definitely helps when you see how to navigate through. Reading through the documentation is deffo a good skill to have.
 
 ### Links to work / resources:
 
