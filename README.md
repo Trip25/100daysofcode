@@ -1858,12 +1858,18 @@ Wednesday 24th May 2023
 Week 11
 
 ### **Today's progress**:
-
+- Codewars{we researched TypeScript instead)
+- Guest Speaker: Dr Murray Hoggett
+- Quiz: BC14 - W11D2 - Auth [8/9]
+- 11:25 Learning about TypeScript
+walking through files to spot bugs
+- 12:25 Lunch
+- After Lunch worked on Workshop: TypeScript-Cardio
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+- https://github.com/SchoolOfCode/bc14_w11d3_workshop_typescript-cardio-room36_tripti_isaac_maddie
 ----------------------------------------------------------------------------------------------------
  ## Day 80
 
