@@ -1877,11 +1877,20 @@ Thursday 25th May 2023
 Week 11
 
 ### **Today's progress**:
-
-
+- Codewars/ Research on TypeScript in React
+- Guest Speaker: Amelia Collins-Patel
+- Quiz W11D3 Typescript [7/9]
+- How to use TypeScript with React
+- Workshop- React JavaScript to TypeScript
 ### Thoughts:
-
+I lowkey get it but will need a lot of practice
 ### Links to work / resources:
+
+- https://profy.dev/article/react-typescript
+- https://www.carlrippon.com/React-event-handlers-with-typescript/ 
+- https://github.com/SchoolOfCode/bc14_w11d4_workshop_typescript-with-react-room36_tripti_isaac_maddie 
+
+-  https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example
 
 ----------------------------------------------------------------------------------------------------
  ## Day 81
