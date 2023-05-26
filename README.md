@@ -1896,14 +1896,17 @@ I lowkey get it but will need a lot of practice
  ## Day 81
 
 Friday 26th May 2023
-Week 11
+Hackathon hackathon hackathon
+Today we combined TypeScript with React to make a Weather Application!
+Safe to say we had to wrestle with the code today but we managed to make a cute MVP.
 
 ### **Today's progress**:
-
+Isaac and I managed to do well together, poor Maddie had to take the day off(well done to her for fighting through the week and hope she gets a well deserved rest!)
 
 ### Thoughts:
 
 ### Links to work / resources:
+-  https://github.com/SchoolOfCode/bc14_w11d5_hackathon_react-typescript-room36_tripti_isaac_maddie
 
 ----------------------------------------------------------------------------------------------------
  ## Day 82
