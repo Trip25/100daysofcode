@@ -1928,7 +1928,8 @@ Sunday 28th May 2023
 Week 11
 
 ### **Today's progress**:
-
+- Received a message from Callum- to look into Nextjs and how they use typescript
+- Looked into Storybook
 
 ### Thoughts:
 
@@ -1941,7 +1942,8 @@ Monday 29th May 2023
 Week 12 THE BIG PROJECTSSS
 
 ### **Today's progress**:
-
+- Worked on portfolio
+  - Deployed using vercel
 
 ### Thoughts:
 
