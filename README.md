@@ -1956,11 +1956,30 @@ Tuesday 30th May 2023
 Week 12
 
 ### **Today's progress**:
+- 09:00 Start
+- Squats
+- Feedback Forms for previous teams
+- Breakout Rooms
+- Bye to Partner
+- The importance of team work, having a team manifesto. Tip: Have a really good manifesto.
+- Team for project: Rm11 System32: Tripti Gurung, Jay Kirtlan, Anjum Iqbal, Qasim Mohammed, Abdiraman Mohamed & Akiel Chaudry 
+- Introductions and Getting to Know Eachother
+- Reflect on Challenges
+- Energizer
+- Team Name
+- Team Manifesto: The team manifesto is a super important document that will guide how you work together. It helps prevent conflicts, promotes good professional habits, and ensures everyone is aligned with the team's objectives and working styles. Consider the following elements when creating your manifesto:
+  - How will you communicate with each other?
+  - How will you handle disagreements or conflicts?
+  - How will you ensure everyone's ideas are heard and valued?
+  - How will you support each other and ensure everyone's wellbeing?
+  - What are your shared goals and how will you achieve them?
 
 
 ### Thoughts:
+Feeling excited and nervous bout the new projects, team members seem nice and chill so I'm sure we will be able to handle it!
 
 ### Links to work / resources:
+- Project Brief: https://docs.google.com/document/d/1lNENSfdKMB6XvwqIBPGc-XTNG0Qjf-2xjrwQOKc1iAI/edit 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 86
