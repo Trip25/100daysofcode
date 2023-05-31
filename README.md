@@ -1988,9 +1988,31 @@ Wednesday 31st May 2023
 Week 12
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Team Stand-up, discuss what we did, what we will do today
+- Wellbeing Quiz- to ensure we are okay in team and on a personal level.
+- 09:40 Representative to the standup room- Today was Anjum. 
+- Created a plan for today
+  - Problem Statement
+  - Roles
+    - Leader: Abdi
+    - Scribe: Akiel
+    - Mediator: Quasim
+  - Skill audit
+  - Market research
+  - Lunch- Loz: tip- ensure you have a robust plan to set us up for success.
+  - Don't be afraid of coming back to manifesto and adjusting!
+  - Split into 2 group of 3
+    - User Stories: Quasim, Abdi and Anjum
+    - Market Research: Tripti, Akiel and Jay
+  - Came together to make Google Form to send questionnaire in slack channels
+  - Retros of the day
 
 ### Thoughts:
+A very productive day!
+
+
+Afterclass: Work on portfolio, will need to start working on some own projects too
 
 ### Links to work / resources:
 
