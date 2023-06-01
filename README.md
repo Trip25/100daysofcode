@@ -2023,7 +2023,34 @@ Thursday 1st June 2023
 Week 12
 
 ### **Today's progress**:
+- Squats
+- Sarah Salmean’s birthday
+- Wellbeing check-in
+- 09:35 Jay at the Stand up of stand ups
+- 09:55 Guest Speaker: Kim Leary and Bryce Hardie from Scribble
+- 11:03-11:10 Tom Pauley
+  - how to conduct the sprint demos
 
+- User Research Comments
+- Define Stories
+- Describe our app in more concise way
+- Our target audience
+- App summary
+
+- Nadeem came in our room with tips
+- Nice unique ideas
+- Record reflections
+- Demonstrate reflectives
+- Don’t build from scratch, there’s tons of libraries 
+- how to layer
+**Define What is a Story- image or words(any max?)**
+- Dionne- reflect on when to split group
+- Make sure same person isn’t the same each time ie same person planning
+
+Split groups: 
+- Abdi, Anjum, Jay- work on Sprint demo slides
+- Me, Akiel and Quasim- work on prototyping
+- Retros -> rest of SOC : Jay and Anjum
 
 ### Thoughts:
 
@@ -2036,7 +2063,8 @@ Friday 2nd June 2023
 Week 12
 
 ### **Today's progress**:
-
+- Squats
+- Wellbeing quiz
 
 ### Thoughts:
 
