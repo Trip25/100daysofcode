@@ -2065,10 +2065,59 @@ Week 12
 ### **Today's progress**:
 - Squats
 - Wellbeing quiz
+- Squats
+- Stand up
+- S~~tand up of stand-ups~~
+- Dionne- Check in, are we alright, keep the vibe going!
+- 09:49 Check out Bootstrap
+- 10:32-10:47 BREAK
+- work on 10 sec intros
+- Me, Akiel and Quasim will try working on the prototyping until lunch so we can show them in the sprint demo
+- Mentor Meeting 12:30: 
+<p>Leafletjs has a big community so there are plugins and reskins available if you look hard enough.
+Logic was separated
+tomtom have more internal maps(bulky)
+Try using Bootstrap UI library instead of the class system as it’s out of fashion- restrictive
+Extra points if you make the UI library from scratch</p>
+<ul>Look into these premade libraries
+<li>Ant Design</li>
+<li>Next UI</li>
+</ul>
+<br>
+Recommend doing separate front end and back end repos
+<ul>Could look into:
+<li>mono repo</li>
+<li>turbo repo</li>
+<li>pnpm (npm package)</li>
+</ul>
+<br>If you can make a simple portfolio now- use Next TypeScript
+- 15:50-16:05 Sprint Demo [delayed 10-15mins]
+- Tom, Arshi and Dionnne
+- Feedback:
+- Advice and feedback:
+- How do we get older users to use our app
+- What accessibility can we put in place
+- Settle on core of idea and then bin everything that isn’t core to the idea.
+- Dummy login and register - make a form - even a screenshot will do
+- As little time doing login etc - Then focus on the app - Modern applications burn your time and take your life, its endless doom scrolling, use that magic to pass on stories about people.
+- Keep it simple and punchy - login - limit choices keep it simple
+- Can I know your location - finds people near you and shows their details which allow you to click into the user and begin to view their stories.
+- Upload an event or a memory - put in a date and a location and upload either a video or an audio file.
+- When you click into a user it takes you to the users first menu. it allows users to go to the places where they had a key memory and recall it .
+- As you swipe you see the person talking through their memories, showing their location, talking about that location and their memories their,
+- One or two minute glimpses into a memory will be perfect
+- The app can be very simple, it can just show the video or audio and show where it is.
+- Get to know your neighbours or the people around you
+- Stretch goal to upvote or follower users
+- Retros and sign off
+<strong>Well doneeee on your first week!</strong>
+<br>
+<strong>HW: reading task</strong>
 
 ### Thoughts:
 
 ### Links to work / resources:
+- https://basecamp.com/gettingreal
 
 ----------------------------------------------------------------------------------------------------
  ## Day 89
@@ -2077,12 +2126,13 @@ Saturday 3rd June 2023
 Week 12
 
 ### **Today's progress**:
-
+Keep on reading Basecamp
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+- https://basecamp.com/gettingreal
+- https://www.tutorialspoint.com/file-uploading-in-react-js#:~:text=The%20first%20approach%20to%20file,handle%20the%20file%20upload%20process.
 ----------------------------------------------------------------------------------------------------
  ## Day 90
 
