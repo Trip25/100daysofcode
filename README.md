@@ -2127,6 +2127,8 @@ Week 12
 
 ### **Today's progress**:
 Keep on reading Basecamp
+Watching videos on Storybook, Next js
+Looking at how to implement the map feature as my mentor and the coaches have made it sound simple!
 
 ### Thoughts:
 
