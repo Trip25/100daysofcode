@@ -2142,6 +2142,350 @@ Sunday 4th June 2023
 Week 12
 
 ### **Today's progress**:
+Working on my portfolio- did not use NextJs for this but will definitely try using it in next project, if I can work out the best configurations!
+Also need to keep reading!
+
+### Thoughts:
+Just want to get a basic website/portfolio so employers are able to see what I am able to do. Will add more projects in time, just difficult trying to get them to be more original and unique
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 91
+
+Monday 5th June 2023
+Week 13
+
+### **Today's progress**:
+- 09:00
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 92
+
+Tuesday 6th June 2023
+Week 13
+
+### **Today's progress**:
+- 09:00
+
+- 11-12 CV Session with Accountability Group(Coach George Marsh)
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 93
+
+Wednesday 7th June 2023
+Week 13
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 94
+
+Thursday 8th June 2023
+Week 13
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 95
+
+Friday 9th June 2023
+Week 13
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 96
+
+Saturday 10th June 2023
+Week 13
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 97
+
+Sunday 11th June 2023
+Week 13
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 98
+
+Monday 12th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 99
+
+Tuesday 13th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 100
+
+Wednesday 14th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 101
+
+Thursday 15th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 102
+
+Friday 16th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 103
+
+Saturday 17th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 104
+
+Sunday 18th June 2023
+Week 14
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 105
+
+Monday 19th June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 106
+
+Tuesday 20th June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 107
+
+Wednesday 21st June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 108
+
+Thursday 22nd June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 109
+
+Friday 23rd June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 110
+
+Saturday 24th June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 111
+
+Sunday 25th June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 112
+
+Monday 26th June 2023
+Week 15
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 113
+
+Tuesday 27th June 2023
+Week 16
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 114
+
+Wednesday 28th June 2023
+Week 16
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 112
+
+Thursday 29th June 2023
+Week 16
+
+### **Today's progress**:
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 112
+
+Friday 30th June 2023
+Week 16
+
+### **Today's progress**:
+LAST DAY OF SOC!!
 
 
 ### Thoughts:
