@@ -2157,7 +2157,19 @@ Monday 5th June 2023
 Week 13
 
 ### **Today's progress**:
-- 09:00
+- 09:00 Squats
+- Wellbeing Quiz
+- Discussed sprint demo feedback
+- Made plans for the day
+- Revisited the MVP and locked down our core
+    - Who will be using our app?
+- Role Rotation - wheel spin of truth
+- Decide our tech stack
+- Choose porject structure
+- Project Management- migrated from Trello to JIRA
+- Split the group
+  - Worked on user stories
+  - Reworked the low fidelity wireframes according to sprint demo feedback
 
 ### Thoughts:
 
