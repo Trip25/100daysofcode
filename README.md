@@ -2182,13 +2182,28 @@ Tuesday 6th June 2023
 Week 13
 
 ### **Today's progress**:
-- 09:00
+- 09:00 Squats
+- Wellbeing Quiz
+- Worked on making low-fi wireframe interactive
+- Reworked slogan
+- Thought about code hygiene rules
+- What we need to research for our tech stack(anything to familiarise with, other considerations)
+- Git hub strategy
+- Backlog on Jira
 
 - 11-12 CV Session with Accountability Group(Coach George Marsh)
+- Research on how uploading media looks on other websites
+- Loz announcement- ensuring we are following plans
+- 
 
 ### Thoughts:
 
 ### Links to work / resources:
+https://free-for.dev/#/  <- A massive list of services offering free tiers.
+
+https://roadmap.sh/  <- Great roadmaps for making learning plans and knowing what you don't know.
+
+https://react-dropzone.js.org/
 
 
 ----------------------------------------------------------------------------------------------------
