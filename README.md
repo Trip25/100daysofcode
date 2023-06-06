@@ -2194,7 +2194,9 @@ Week 13
 - 11-12 CV Session with Accountability Group(Coach George Marsh)
 - Research on how uploading media looks on other websites
 - Loz announcement- ensuring we are following plans
-- 
+- Retros
+- Retros to the group
+  
 
 ### Thoughts:
 
