@@ -2184,6 +2184,8 @@ Week 13
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
+- Stand Up
+- Stand Up of Stand Ups (Qasim)
 - Worked on making low-fi wireframe interactive
 - Reworked slogan
 - Thought about code hygiene rules
@@ -2215,9 +2217,23 @@ Wednesday 7th June 2023
 Week 13
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- Stand Up
+- Stand Up of Stand Ups (Akiel)
+- Plan for the day
+- Want to start practicing coding
+- Make git repos- decided on having front and back, asked mentors on how to deploy
+- 11:15-12:15 Guest Talk: Rik is back Q&A
+- Voted on using React vs React Vite
+- App Component Tree, thought about the states
+- Github Strategy
+- Sorted Github, pushed boilet plate
+- Reworked logos as old logos had the old slogan
+- Retrospective
 
 ### Thoughts:
+Definitely a bit rusty with writing code after a week or so of planning, hopefully will get back into the groove
 
 ### Links to work / resources:
 
@@ -2228,7 +2244,12 @@ Thursday 8th June 2023
 Week 13
 
 ### **Today's progress**:
+- 09:00 Squats
+- Wellbeing Quiz
+- Stand Up
+- Stand Up of Stand Ups (Tripti)
 
+- 11:15-12:00 Guest Talk: BAE
 
 ### Thoughts:
 
@@ -2241,7 +2262,9 @@ Friday 9th June 2023
 Week 13
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- 
 
 ### Thoughts:
 
