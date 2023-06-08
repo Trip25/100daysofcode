@@ -2248,8 +2248,16 @@ Week 13
 - Wellbeing Quiz
 - Stand Up
 - Stand Up of Stand Ups (Tripti)
-
-- 11:15-12:00 Guest Talk: BAE
+- Plan for the day
+- Nadeem dropped in and said it would be advisable in long run to do a high fidelity wireframe so there is something to work from visually
+- 11:15-12:00 Guest Talk: BAE Systems with Jem Brown (NS Engineering Lead) and Ex-bootcamper Chirag Mehra, Anthony Brown(Head of Future Talent) & Matt Tomlinson(Recruiter).
+- Picked new role rotation- Leader: Qasim, Scribe: Abdi & Mediator: Jay
+- After lunch plan to split 2:2:2
+- Research deployment platforms: Anjum, Jay
+- Wireframe: Tripti, Akiel
+- Slides: Qasim, Abdi
+- Retros of the day
+- Retro to the rest of the group(Picked by the wheel)
 
 ### Thoughts:
 
