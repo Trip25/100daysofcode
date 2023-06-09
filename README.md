@@ -2272,7 +2272,17 @@ Week 13
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
-- 
+- Split in to teams from yesterday 
+- Finished off the high fi wireframes (Me, Akiel and Jay)
+- Finished off sprint demo slides and script (Abdi, Anjum, Qasim)
+- Rehearsed the Sprint Demo and timed
+- Mentor Meeting 12:30
+- Sprint Demo 13:50-14:05
+- Sprint Demo Feedback
+- Thought about next steps
+- Created the two project repos
+- Deployed the front end on Netlify
+- Made a plan for Monday
 
 ### Thoughts:
 
