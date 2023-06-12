@@ -2324,7 +2324,12 @@ Week 14
 - 09:00 Squats
 - Wellbeing Quiz
 - Made a plan on what to do
-- Reflected on previous weeks work, what did we do well, what can we improve?
+- Reflected on previous weeks work,
+- 1.What have we accomplished so far?
+- 2. What have we learned?
+- 3. What can we improve?
+- 4. What can we do differently in the next sprint?
+- (Message from Charlotte) Redid missing Quiz BC14 - W1D5 - JS Objects/Arrays
 - Split to start coding
   - Akiel, Tripti: Work on the user upload page (we discovered there are many components within)
   - Lefty, Qasim: StoryCard Collection
