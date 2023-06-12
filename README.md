@@ -2295,7 +2295,7 @@ Saturday 10th June 2023
 Week 13
 
 ### **Today's progress**:
-
+Personal development
 
 ### Thoughts:
 
@@ -2308,7 +2308,7 @@ Sunday 11th June 2023
 Week 13
 
 ### **Today's progress**:
-
+- Looked at Github Actions
 
 ### Thoughts:
 
