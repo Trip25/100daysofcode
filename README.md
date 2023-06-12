@@ -2321,7 +2321,17 @@ Monday 12th June 2023
 Week 14
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- Made a plan on what to do
+- Reflected on previous weeks work, what did we do well, what can we improve?
+- Split to start coding
+  - Akiel, Tripti: Work on the user upload page (we discovered there are many components within)
+  - Lefty, Qasim: StoryCard Collection
+  - Jay, Anjum: Search
+  - Jay on Nav bar
+  - Anjum looking at backend
+- 
 
 ### Thoughts:
 
