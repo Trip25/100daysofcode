@@ -2349,7 +2349,22 @@ Tuesday 13th June 2023
 Week 14
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Squats
+- Wellbeing Quiz
+- Repick Roles
+- Leader: Akiel
+- Scribe: Tripti
+- Mediator: Anjum
+- 09:40 Stand Up of Stand Ups (Anjum)
+  - Dionne: Define Problem Statement and what is our app
+- Decided to do React Routing together so we understand how to link things
+- Anjum, Qasim, Abdi worked on Backend
+- Tripti, Akiel and Jay worked on the Input Form Components
+- We got a lot of errors this time with installing Bootstap and it somehow affecting compatibility.
+- Managed to fix it and add more components within the User Input Form, had to hard code the location but hopefully can get it working next time. Might have a go on Thursday.
+- Made a plan for tomorrow
+- Retros
 
 ### Thoughts:
 
