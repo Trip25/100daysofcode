@@ -2377,9 +2377,22 @@ Wednesday 14th June 2023
 Week 14
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Squats
+- Wellbeing Quiz
+- Loz: Reminding us on representatives coming in later
+- Stand Up of Stand Ups(Qasim)
+- Started merging our pull requests
+- Resolved conflicts
+- Fought errors and bugs 
+- Fixed the nav bar css/positioning
+- Fixed buttons
+- Guest Talk 11:30-12:30 Liz Kaufman 
+- 14:40-15:00 Iceland Food- Neil Lambert and Steph Slater(Partnerships Team)
+- Made a plan for tomorrow as half the team will be at Tech Mids
 
 ### Thoughts:
+Phew had a non stop barrage of coding errors, sucked when it was only my machine throwing up the error. Hopefully it won't happen again!
 
 ### Links to work / resources:
 
