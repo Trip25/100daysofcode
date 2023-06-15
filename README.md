@@ -2403,9 +2403,23 @@ Thursday 15th June 2023
 Week 14
 
 ### **Today's progress**:
-
-
+- 09:00 Squats
+- Squats
+- Wellbeing Quiz
+- Hiring Partner Feedback form
+- Stand Up
+- Stand Up of Stand Ups(Tripti)
+- Made a Plan
+- Decided on which component to do and who to do what
+- Guest talk: 11:18- 12:18 Mohamed Mohamud
+- Carried on working with components
+- Discussed/troubleshooting together
+- Worked on the Sprint Demo Slide and Scripts according to what we did this week
+- Retros
+- Retro of Retros
+  
 ### Thoughts:
+Half the team(Anjum, Akiel and Qasim) at Tech Mid Conference in Birmingham.
 
 ### Links to work / resources:
 
@@ -2416,9 +2430,17 @@ Friday 16th June 2023
 Week 14
 
 ### **Today's progress**:
+- 09:00 Squats
+- Squats
+- Wellbeing Quiz
 
+- Mentor Meeting 12:30
+- LUNCH
+
+- Sprint Demo 13:45-14:00
 
 ### Thoughts:
+Abdi at Tech Mid Conference in Birmingham.
 
 ### Links to work / resources:
 
