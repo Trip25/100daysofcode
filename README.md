@@ -2433,14 +2433,22 @@ Week 14
 - 09:00 Squats
 - Squats
 - Wellbeing Quiz
-
+- Merged our components together
+- Focused on finishing the sprint demo slides and script
+- Rehearse
 - Mentor Meeting 12:30
 - LUNCH
-
-- Sprint Demo 13:45-14:00
+- Sprint Demo 13:45-14:00 (Amina and Dionne)
+- Sprint Demo Feedback- work on the CSS and responsiveness
+- Group Energiser 14:30-14:45 Dance our worries away
+- Tired but looked through form feedback
+- Decided to look for more colour schemes/palettes(trying to stay accessible)
+- Looked for fonts too
+- Retros/make plan for Monday
 
 ### Thoughts:
-Abdi at Tech Mid Conference in Birmingham.
+Anjum at Tech Mid Conference in Birmingham.
+Mentor meeting helped a lot as he was able to pick at our website
 
 ### Links to work / resources:
 
