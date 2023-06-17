@@ -2459,7 +2459,7 @@ Saturday 17th June 2023
 Week 14
 
 ### **Today's progress**:
-
+Spent the day fixing a lot of things outside of code, such as toilet lids and rear wipers. Did some research in the evening on how to improve our CSS and what Bootstrap provides. Also looked into how to link up Google Maps API to our search input!
 
 ### Thoughts:
 
