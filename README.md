@@ -2485,11 +2485,24 @@ Monday 19th June 2023
 Week 15
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- Made a plan on what to do
+- 09:55- 10:40 Ira Rainey(Microsoft)
+- Started planning the backend (ERD)
+- Made tables on Supabase
+- Linked our backend repo to Supabase
+- Also merged individual work on components on front-end
+- Sorted any conflict merges and errors
+- Researched and made a plan for tomorrow
+- Retros
 
 ### Thoughts:
 
 ### Links to work / resources:
+- How To Upload Files To Supabase Storage Buckets and Write Data To Supabase Using Remix [https://www.youtube.com/watch?v=ySQcGc9NICo]
+- https://supabase.com/docs/guides/getting-started/quickstarts/reactjs
+
 
 ----------------------------------------------------------------------------------------------------
  ## Day 106
@@ -2498,8 +2511,10 @@ Tuesday 20th June 2023
 Week 15
 
 ### **Today's progress**:
-
-
+- 09:00 Squats
+- Wellbeing Quiz
+- 
+- 11 Guest Talk: 
 ### Thoughts:
 
 ### Links to work / resources:
