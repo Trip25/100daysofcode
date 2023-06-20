@@ -2513,8 +2513,20 @@ Week 15
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
-- 
-- 11 Guest Talk: 
+- StandUp
+- StandUp of Standups(Abdi)
+- Feedback from Dionne:
+- Look at NetNinja to remind yourself of supabase
+- This week is make or break so try to do as much as possible!
+- 11:15-33 Guest Talk: Luke Chaplin(ex-bootcamper)
+- Attempted to deploy the backend repo on Railway, we also are using Supabase as a database so this ended up getting confusing
+- 12:15-12:30 Asked for help in the helpdev and Arshi came in with a lot ot takeaway and discuss as a group after lunch
+- Tried the Port suggestion that Arshi said. Deployment server providers seem to need to dictate which port to use in a specific way, which meant we shouldnt assign the port ourselves in our code i.e PORT = 3001 and would need to be from the PORT environment variable like '0.0.0.0:$PORT' instead.
+- We pivoted and ditched Railway and then moved to get the connection to Supabase working on our front end repo
+- A bit late in the day we realised maybe it would've been best to branch off to work on the front instead of all being bunged down in the backend.
+- Split the groups 
+- Retros(Survived the wheel)
+  
 ### Thoughts:
 
 ### Links to work / resources:
