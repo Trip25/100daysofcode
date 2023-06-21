@@ -2538,6 +2538,21 @@ Wednesday 21st June 2023
 Week 15
 
 ### **Today's progress**:
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups(Jay)
+- Feedback from Dionne: Don’t stress, keep that work life balance.Its okay to work in evenings but don’t burn self out. Take time in the day to get through it.Projects are important but manage your self too
+- Made a plan
+- Upload Form: Anj & Jay
+- Search dropdown and display: Tripti and Abdi
+- Displaying stories on random stories(home cards): Akiel & Qasim
+- After Lunch Hiring Partners to drop in rooms
+- 15:56- 16:30 Hiring Partner: Iceland Foods Rick Martin. E-commerce Development Manager
+- Work on components
+- Retros
+- Merge pull request EOD
+
 
 
 ### Thoughts:
@@ -2551,7 +2566,10 @@ Thursday 22nd June 2023
 Week 15
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 ### Thoughts:
 
@@ -2564,7 +2582,10 @@ Friday 23rd June 2023
 Week 15
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 ### Thoughts:
 
@@ -2603,7 +2624,10 @@ Monday 26th June 2023
 Week 15
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 ### Thoughts:
 
@@ -2616,7 +2640,10 @@ Tuesday 27th June 2023
 Week 16
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 ### Thoughts:
 
@@ -2629,7 +2656,10 @@ Wednesday 28th June 2023
 Week 16
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 ### Thoughts:
 
@@ -2642,7 +2672,10 @@ Thursday 29th June 2023
 Week 16
 
 ### **Today's progress**:
-
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 ### Thoughts:
 
@@ -2656,6 +2689,10 @@ Week 16
 
 ### **Today's progress**:
 LAST DAY OF SOC!!
+- 09:00 Squats
+- Wellbeing Quiz
+- StandUp
+- StandUp of Standups()
 
 
 ### Thoughts:
