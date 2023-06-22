@@ -2569,10 +2569,26 @@ Week 15
 - 09:00 Squats
 - Wellbeing Quiz
 - StandUp
-- StandUp of Standups()
+- StandUp of Standups(Qasim)
+- Split group 2:2:2 to finish off the components we worked on the day prior
+- Me and Abdi working on the dropdown and connecting it to Supabase and displaying it to the StoryCollection.
+- One bug that we fixed:  When you click oin the dropdown values, whatever country you click on, will automatically stay stuck on Afghanistan. This was fixed by removing the toLowerCase() 
+- 11:13 Guest Speaker Sarah Herman: Hiring Manager from Amazon
+- 12:08 Back to Projects- Akiel and Qasim joined us
+- 14:00 Reeled in the A team to help us figure out the dropdown
+- 14:15 Merge what we have to show the most updated version
+- Fix any deployment errors
+- 14:45-15:00 BREAK
+- Start working on our Sprint Demo Slides and Script as we are the first group 
+- Towards the end of the day managed to get the dropdown linked!
+- After all that headache!
+- Abdi merged it all and so we have a updated functional website now 😃
 
 ### Thoughts:
-
+Amazon Interview Process
+1hr screening call (use an interview)
+tell me about a time where no one listens
+take home activity[depends on role]
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
