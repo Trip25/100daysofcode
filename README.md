@@ -2601,10 +2601,21 @@ Week 15
 - 09:00 Squats
 - Wellbeing Quiz
 - StandUp
-- StandUp of Standups()
+- Polished off our Sprint Demo slides and script
+- Picked new roles
+- Leader: Tripti
+- Mediator: Anjum
+- Rehearsals
+- 11:00- 11:17 Sprint Demo with Amina and Milly
+- Feedback and discussed as a group
+- Plan for the day to pick components to work on
+- Work on the StoryCard and how Stories will be displayed once picked
+- Work on the Error Page
+- Retrosss
+  
 
 ### Thoughts:
-
+Worked on the StoryCard button after the course a bit- managed to push at like 17:30
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
@@ -2614,7 +2625,17 @@ Saturday 24th June 2023
 Week 15
 
 ### **Today's progress**:
-
+Will try to work on some of these things:
+- Story search page complete
+- Page for individual story lay out
+- Once individual story page done, make random story cards clickable and have them link to the story page
+- Images being uploaded and downloaded to website and displayed correctly
+- Profile page - linked to user (or dummy) 
+- Authentication 
+- About us page 
+- Discover page
+- Working Log in 
+- Sort search bar CSS on footer and main page 
 
 ### Thoughts:
 
