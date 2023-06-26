@@ -2663,10 +2663,19 @@ Week 15
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
-- StandUp
-- StandUp of Standups()
+- StandUp/Showcased work done over weekend and merged pull requests
+- Made Plan
+- Team 2:2:2
+- Qasim and Jay: worked on getting the story page rendered, then CSS for story page
+- Tripti and Akiel: working on the Fake Sigtn in and then getting the user flow correct. Had issues trying to store the signIn state- kept going in loops/ errors.
+- Anjum and Abdi: Search populating by continents instead of countries, fix accessibility, links on footer, stories in databse and passing on logo. 
+- Came together when stuck on issues.
+- Retros
+- Retro of retros(Abdi and Anjum[sidenote Abdi does not believe Australia exists?])
+- Evening 20:00 -22:00  Akiel watching videos on routing for example /storyCollection?filter=Australia instead of just /storyCollection. I added story_url column to stories databse using the media bucket to host. Hopefully this should then effectively show the image, fingers crossed. Jay working on Story page CSS and Anjum also working on CSS.
 
 ### Thoughts:
+Also applied to BAE on Huntr and updated my profile
 
 ### Links to work / resources:
 
