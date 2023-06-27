@@ -2688,8 +2688,17 @@ Week 16
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
-- StandUp
-- StandUp of Standups()
+- StandUp/ Showcase any work done in evening and merge
+- Made plan of things left to do
+- Akiel and Anjum: URL routing(React Router) and CSS
+- Abdi and Tripti: Images from Database, get images generated in story page
+- Qasim and Jay: Story page CSS and image rendering
+- LUNCH
+- Jay and Akiel: Change homepage story component and sort fetch request on app to use storycard not homepage story.
+- Anjum: Get Story page mobile responsive.
+- Tripti: add image upload (url) to upload form, fixed images on Discover page and the 404 error page
+- Qasim and Abdi: Work on presentations
+
 
 ### Thoughts:
 
