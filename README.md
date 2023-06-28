@@ -2713,15 +2713,34 @@ Week 16
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
-- StandUp
-- StandUp of Standups()
+- 09:13 Victoria Meah: Clear things up
+Demo Day 5th July
+Employability 10th July [Attendance is not compulsory but strongly encouraged]
+after 4th August the employability will be 12:30 with Spinks (recruitment partner)- will have talks in
+- Huntr
+- with Hackathons, they will give us a weeks notice
+- Stand Up
+- 09:40 Stand Up of Stand Ups(Anjum)
+- Dionne wants a fun fact about the team?
+- Abdi absent until around 10:30 due to Eid prayers
+- Qasim, Tripti and Anjum will work on the slides and script
+- Akiel will try and fix the URL page sharing
+- Jay- testing
+After lunch all team together to work and start recording intros to input into slides
+Working on the script to provide structure
+
+
+After 17:00 
+Tripti screen recorded the app and mobile version using OBS and added to slides
+and recorded the intro on own Zoom room
+
 
 ### Thoughts:
 
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 112
+ ## Day 115
 
 Thursday 29th June 2023
 Week 16
@@ -2737,7 +2756,7 @@ Week 16
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 112
+ ## Day 116
 
 Friday 30th June 2023
 Week 16
