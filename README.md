@@ -2766,7 +2766,241 @@ LAST DAY OF SOC!!
 - 09:00 Squats
 - Wellbeing Quiz
 - StandUp
-- StandUp of Standups()
+- 15:30 Start the partyyy!!
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 117
+
+Saturday 1st July 2023
+
+
+### **Today's progress**:
+- 09:00 Squats
+- 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 118
+
+Sunday 2nd July 2023
+
+
+### **Today's progress**:
+- 09:00 Squats
+- Going to London to see 1975 at Finsbury Park
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 119
+
+Monday 3rd July 2023
+
+### **Today's progress**:
+- 09:00 Squats
+
+- 13:30
+13:15 Blood donation
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 120
+
+Tuesday 4th July 2023
+
+### **Today's progress**:
+- 09:00 BAE Systems HACKATHON
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 121
+
+Wednesday 5th July 2023
+DEMO DAY
+### **Today's progress**:
+- 09:00 Squats
+- 14:00- 16:30?
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 122
+
+Thursday 6th July 2023
+
+### **Today's progress**:
+- 09:00 Squats
+- 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 123
+
+Friday 7th July 2023
+
+
+### **Today's progress**:
+- 09:00 Squats
+- 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 124
+
+Saturday 8th July 2023
+
+### **Today's progress**:
+- 09:00 Squats
+- 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 125
+
+Sunday 9th July 2023
+
+### **Today's progress**:
+
+- 09:00 Squats
+- 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 126
+
+Monday 10th July 2023
+Start of Employability sessions
+
+### **Today's progress**:
+- 09:30 Squats
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 127
+
+Tuesday 11th July 2023
+
+### **Today's progress**:
+- 09:30 Squats
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 128
+
+Wednesday 12th July 2023
+Employability sessions
+
+### **Today's progress**:
+- 09:30 Squats
+
+
+14:30 Eye test
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 129
+
+Thursday 13th July 2023
+
+### **Today's progress**:
+- 09:30 Squats
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 130
+
+Friday 14th July 2023
+Employability sessions
+
+### **Today's progress**:
+- 09:30 Squats
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 131
+
+Saturday 15th July 2023
+
+### **Today's progress**:
+
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 132
+
+Sunday 16th July 2023
+
+
+### **Today's progress**:
+
 
 
 ### Thoughts:
