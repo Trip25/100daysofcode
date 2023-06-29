@@ -2748,12 +2748,24 @@ Week 16
 ### **Today's progress**:
 - 09:00 Squats
 - Wellbeing Quiz
-- StandUp
-- StandUp of Standups()
+- StandUp(Thinking of a fun fact about the group)
+- StandUp of Standups(Akiel)
+- Finish off adding and tidying stories to database
+- Akiel added filter
+- I fixed the date to UK for the search StoryCard (will need to fix for the rest)
+- Re-record video
+- Finish writing script
+- Finish slides
+- Lunch
+- Missed the deadline to submit to get coach feedback... 
+- Carried on editing scripts and recording
+- Arshi came in our room around 16:48 to ask for our deployment site.
 
 ### Thoughts:
+Got some more information about how demo day will go and trying to get our video ready for tomorrow at 15:30 so we can party right after
 
 ### Links to work / resources:
+https://schoolofcode.notion.site/Demo-Day-Guidance-ecbd4063f6f24173ba9a6a4e470ce2a9
 
 ----------------------------------------------------------------------------------------------------
  ## Day 116
