@@ -2777,8 +2777,20 @@ Week 16
 LAST DAY OF SOC!!
 - 09:00 Squats
 - Wellbeing Quiz
-- StandUp
-- 15:30 Start the partyyy!!
+
+Today was our final day of the program! We carried on trying to finish our presentations for our projects and recording! 
+
+-Spilled coffee all over my keyboard
+
+Lunch
+
+-MY KEYBOARD STOPPED WORKING
+
+Celebrated all of our hard work over the past few weeks. It's bittersweet to say goodbye, but I'm excited to see where everyone goes from here.
+
+15:30 PARTY TIME
+
+17:45 Submitted our demo videos(short and long) and the deployment website!
 
 
 ### Thoughts:
@@ -2792,8 +2804,9 @@ Saturday 1st July 2023
 
 
 ### **Today's progress**:
-- 09:00 Squats
-- 
+Spent yesterday evening and today trying to revive my keyboard. Because it was coffee with sugar, this meant I needed to be more thorough in cleaning!
+
+Managed to test towards the afternoon. They keys seem to be working but the light doesn't so I may need to look for a replacement once I get a job.
 
 
 ### Thoughts:
