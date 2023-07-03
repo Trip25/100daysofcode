@@ -2821,6 +2821,7 @@ Sunday 2nd July 2023
 
 ### **Today's progress**:
 - 09:00 Squats
+- 10:38 Train to waterloo 
 - Going to London to see 1975 at Finsbury Park
 
 
@@ -2834,15 +2835,83 @@ Sunday 2nd July 2023
 Monday 3rd July 2023
 
 ### **Today's progress**:
-- 09:00 Squats
+09:30 Start (Zoom technical difficulties)
 
-- 13:30
-13:15 Blood donation
+Checked Kumospace
+
+Zoom worked- Squats- given a quick brief on how rehearsals will be conducted
+
+10:30- 10:50 presentation slot
+
+presented to Dionne, Anna Marie and Rikiah
+
+**Q. How are we making it accessible to older people?**
+
+We made it generally accessible for all people through colour schemes
+
+**Q. Have you planned privacy concerns into the app?**
+
+**Q. What makes you different from Facebook/Reddit and other competitors?**
+
+**Q. What challenges did you face during the project?**
+
+Later presented around 11:40? To Chris Meah and Becks and got more feedback
+
+Chris- feedback
+
+Have backup ready for each person
+
+Intros- show control, just before starting presentation:
+
+We’re going to do a presentation for 10 mins and then give a Q&A session afterwards.
+
+App and presentation are good.
+
+Anjum- good at telling story, dealing with death- punchier slides. More impactful.
+
+“Digital repository”- better way to sell that
+
+Problem to demo is great- reprioritise things to show rather than nav bar and footer.
+
+Accessibility tools: is there a wow figure to put in there for
+
+“70% of users disabilities)
+
+Said twice , once in demo and later on too
+
+Figjam and multiple things on one slide, can be split to multiple slide- show for a couple of seconds- show screenshot of Jira, figjamArticulate what we learnt from the Supabase problem
+
+Document the pros and consQasim-comedy bit towards the end. Worldwide sensation :)Becks-
+
+Slick presentation- well paced, everyone taking a part
+
+Flows well
+
+App/slides look great
+
+Human touch- personal story (can you empathise this more?)
+
+Accessibility- highlight good
+
+User central- keep that in
+
+Thinking about next steps- good that we thought about further things
+
+Qasim sounded enthusiastic
+
+Take charge: [Jay] will initially greet hiring partners, set the scene.
+
+Slow down when reading script- watch pacing
+
+Left around 12:40 as I had my blood donation to get to
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+https://schoolofcode.notion.site/Demo-Day-Guidance-ecbd4063f6f24173ba9a6a4e470ce2a9
+https://www.kumospace.com/schoolofcode
+
 
 ----------------------------------------------------------------------------------------------------
  ## Day 120
