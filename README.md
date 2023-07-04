@@ -2936,7 +2936,7 @@ Designing a wireframe on figma
 We were around 15:15-15:20 😀
 **Close (Main Room):** 03:45pm - 04:00pm
 
-After rehearsing with System 32 for the big demo day.
+Afterwards rehearsing with System 32 for the big demo day.
 ### Thoughts:
 
 ### Links to work / resources:
