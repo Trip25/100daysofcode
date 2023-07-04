@@ -2919,9 +2919,24 @@ https://www.kumospace.com/schoolofcode
 Tuesday 4th July 2023
 
 ### **Today's progress**:
-- 09:00 BAE Systems HACKATHON
+Team 2: 
+George Ussher
+Theo Eddy
 
+**Bootcampers and Judges to Rooms:** 09:30am - 09:45am
+**Judges Briefing (Judges Room):** 09:45am - 09:55am
+**Welcome BAE (Main Room):** 09:55am - 10:00am
+**Hackathon Session One:** 10:00am - 12:00pm
+Worked on the ideation and locking down our MVP
+Gamified, where individuals and teams are able to earn points which they are then able to be awarded once they have completed the tasks.
+**Lunch:** 12:00pm - 01:00pm
+**Hackathon Session Two:** 01:00pm - 03:00pm
+Designing a wireframe on figma
+**Presentations (5min with some buffer):** 03:00pm - 03:45pm
+We were around 15:15-15:20 😀
+**Close (Main Room):** 03:45pm - 04:00pm
 
+After rehearsing with System 32 for the big demo day.
 ### Thoughts:
 
 ### Links to work / resources:
@@ -2932,8 +2947,19 @@ Tuesday 4th July 2023
 Wednesday 5th July 2023
 DEMO DAY
 ### **Today's progress**:
-- 09:00 Squats
-- 14:00- 16:30?
+- 09:30 Squats
+Morning Session:
+10:00 - 10:20,
+10:30 - 10:50,
+11:00 - 11:20,
+11:30 - 11:50,
+12:00 - 12:20
+Afternoon Session:
+13:30 - 13:50,
+14:00 - 14:20,
+14:30 - 14:50,
+15:00 - 15:20,
+15:30 - 15:50
 
 
 ### Thoughts:
