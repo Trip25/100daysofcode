@@ -2947,19 +2947,25 @@ Afterwards rehearsing with System 32 for the big demo day.
 Wednesday 5th July 2023
 DEMO DAY
 ### **Today's progress**:
-- 09:30 Squats
-Morning Session:
-10:00 - 10:20,
-10:30 - 10:50,
-11:00 - 11:20,
-11:30 - 11:50,
-12:00 - 12:20
-Afternoon Session:
-13:30 - 13:50,
-14:00 - 14:20,
-14:30 - 14:50,
-15:00 - 15:20,
-15:30 - 15:50
+
+09:00 Meetup with team to rehearse a bit.
+TEAM: System 32
+Time	        Partner
+10.00- 10.20	Talis- Andy Halis- (Lean Library)
+10.30 - 10.50	Utility Warehouse- Ionut Craciunescu -Head of Engineering
+Sascha
+11.00 - 11.20	Ethicsgrade- Not here
+Bhish came instead(used to be co-founder of School of Code)- now working on tech consultancy with his friends[NOT HIRING]
+11.30 - 11.50	Iceland- Rick Martin and Sofya Kryuchkova
+12.00 - 12.30	Percayso- Andy McCulloch
+LUNCH
+1.30 - 1.50	    MindForge- Lisa Smith[NOT HIRING]
+2.00 - 2.20	    Virgin Media O2[NO SHOW]
+2.30 - 2.50	    Kanda[NO SHOW]
+3.00 - 3.20	    Squibble- Kim Leary
+3.30 - 3.50
+Free Network
+Managed to finsh the day around 17:30 just going round the rooms and speaking with other bootcampers :)
 
 
 ### Thoughts:
