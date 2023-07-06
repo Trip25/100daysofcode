@@ -2978,8 +2978,13 @@ Managed to finsh the day around 17:30 just going round the rooms and speaking wi
 Thursday 6th July 2023
 
 ### **Today's progress**:
-- 09:00 Squats
-- 
+- First day of freedom-ish, I slept in a bit in the morning as I was feeling absolutely drained.
+- Hoovered around the house but had a bit of a sore throat.
+- Checked on the doggo
+- Went for a little walk- nice to get some fresh air
+- 16:30- 17:15ish Percayso Inform session, learnt a bit more about the company, they seem more backend.
+- Deadline to apply is Monday, Tuesday they will send our a take home task, which is to be completed within 48 hours and they will then review. Interviews to be w/c 17/07 and they should give out offers by the end of the week.
+- Tried doing some Codewars, writing my LinkedIn post for SOC and writing some reviews. 
 
 
 ### Thoughts:
