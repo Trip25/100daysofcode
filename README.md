@@ -2996,10 +2996,9 @@ Thursday 6th July 2023
 
 Friday 7th July 2023
 
-
 ### **Today's progress**:
-- 09:00 Squats
-- 
+- Researched DevOps
+- A few applications and researching companies
 
 
 ### Thoughts:
