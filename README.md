@@ -3011,8 +3011,8 @@ Friday 7th July 2023
 Saturday 8th July 2023
 
 ### **Today's progress**:
-- 09:00 Squats
-- 
+- Attempted to write a cover letter for Talis
+- Did some CodeWars
 
 
 ### Thoughts:
