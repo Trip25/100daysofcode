@@ -3049,6 +3049,7 @@ Start of Employability sessions
 ### Thoughts:
 
 ### Links to work / resources:
+https://schoolofcode.notion.site/Guide-Crafting-Compelling-Project-Descriptions-in-Your-CV-5df6e8c26d4d4f02a6b7a6e17dd6a05d
 
 ----------------------------------------------------------------------------------------------------
  ## Day 127
@@ -3071,7 +3072,9 @@ Wednesday 12th July 2023
 Employability sessions
 
 ### **Today's progress**:
-- 09:30 Squats
+9:30 - 9:45 Squats and energiser 
+9:45 - 10:30 Grey Morley 
+10:30-11:30 Power hour
 
 
 14:30 Eye test
@@ -3102,7 +3105,7 @@ Friday 14th July 2023
 Employability sessions
 
 ### **Today's progress**:
-- 09:30 Squats
+Brief- build an application to add to your portfolio, work together to build projects that solve real world problems provided by the team/employers.
 
 
 
