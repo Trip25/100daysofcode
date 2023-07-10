@@ -3041,8 +3041,9 @@ Monday 10th July 2023
 Start of Employability sessions
 
 ### **Today's progress**:
-- 09:30 Squats
-
+9:30 - 10:00 Squats and energiser 
+10:00 - 10:30 Stephanie de Jong 
+10:30-11:30 Power hour
 
 
 ### Thoughts:
