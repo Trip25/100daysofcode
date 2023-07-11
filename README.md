@@ -3057,13 +3057,16 @@ https://schoolofcode.notion.site/Guide-Crafting-Compelling-Project-Descriptions-
 Tuesday 11th July 2023
 
 ### **Today's progress**:
-- 09:30 Squats
+- 10:00 Received the take home test from Percayso 
+- Technical issues accepting assignment on github
+- Worked on the assignment alongside applications and other adhoc things for relative's
 
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+https://github.com/PercaysoRecruitment/test4-soc-cohort14-Trip25
 
 ----------------------------------------------------------------------------------------------------
  ## Day 128
