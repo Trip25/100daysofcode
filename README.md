@@ -3084,6 +3084,9 @@ Employability sessions
 14:30 Eye test
 
 
+Tried to carry on with Percayso task as much as I could, when I returned from home, but also not feeling too well.
+
+
 ### Thoughts:
 
 ### Links to work / resources:
