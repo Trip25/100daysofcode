@@ -3043,7 +3043,7 @@ Start of Employability sessions
 ### **Today's progress**:
 9:30 - 10:00 Squats and energiser 
 10:00 - 10:30 Stephanie de Jong 
-10:30-11:30 Power hour
+10:30-11:30 Power hour- CV writing
 
 
 ### Thoughts:
@@ -3064,9 +3064,10 @@ Tuesday 11th July 2023
 
 
 ### Thoughts:
-
+Applied to Iceland: General Squad Developer- 2x SOC roles
 ### Links to work / resources:
 https://github.com/PercaysoRecruitment/test4-soc-cohort14-Trip25
+https://nationalcareers.service.gov.uk/job-profiles/app-developer
 
 ----------------------------------------------------------------------------------------------------
  ## Day 128
@@ -3077,15 +3078,20 @@ Employability sessions
 ### **Today's progress**:
 9:30 - 9:45 Squats and energiser 
 9:45 - 10:30 Grey Morley 
-10:30-11:30 Power hour
+10:30-11:30 Power hour- Interview prep
 
-
+12:33 train
 14:30 Eye test
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+-
+- https://schoolofcode.notion.site/schoolofcode/Interview-questions-feedback-guide-24d0c8370b88419485d842c926b54553
+- https://patch-restaurant-926.notion.site/I-n-t-e-r-v-i-e-w-P-r-e-p-618cb54067144d6390b780720cc0c37d
+https://www.officeforstudents.org.uk/for-students/planning-to-study/study-artificial-intelligence-and-data-science-as-a-postgraduate/find-courses-in-artificial-intelligence-ai-and-data-science/
+
 
 ----------------------------------------------------------------------------------------------------
  ## Day 129
