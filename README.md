@@ -3136,6 +3136,9 @@ Brief- build an application to add to your portfolio, work together to build pro
 ### Thoughts:
 
 ### Links to work / resources:
+Project Management Mock Spec- https://docs.google.com/document/d/1wZwVKat76TwK5Ga3VEE0WPXPQsXB_1Dgmt0Te261TXA/edit
+UI/UX Mock Challenge- https://docs.google.com/document/d/1mroNXhw9hXnxBfgf2d_d85mzCpQJZbKQvjC7HOYVhBk/edit
+Project Brief: Junior Developer Portfolio Project- https://docs.google.com/document/d/1yzng6eaJBxyKrz-obqS4mi1ZwOkzyTV22qzeTZT9gso/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 131
