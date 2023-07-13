@@ -3107,6 +3107,18 @@ Thursday 13th July 2023
 
 
 ### Thoughts:
+Potential roles :) 
+We have some exciting news for you! There are open roles with the Department for Education (DfE) in Manchester and London. These positions offer a hybrid work arrangement, with 60% office and 40% remote work. If you're interested, please respond to this message with a :white_tick: emoji.
+Here are the available roles:
+Digital Associates (HEO) - 3 Roles
+Salary: £30,332
+Apply by: 11:55pm on Sunday 16 July 2023
+Content Designer (SEO) - 2 Roles
+Salary: £37,593
+Apply by: 11:55pm on Friday 14 July 2023
+Interaction Designer (SEO) - 2 Roles
+Salary: £37,593
+Apply by: 11:55pm on Sunday 16 July 2023
 
 ### Links to work / resources:
 
