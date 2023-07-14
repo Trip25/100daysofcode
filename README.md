@@ -3130,7 +3130,25 @@ Employability sessions
 
 ### **Today's progress**:
 Brief- build an application to add to your portfolio, work together to build projects that solve real world problems provided by the team/employers.
+ 
 
+BAE
+First round of interviews from the BAE hackathon booked in. There may be a possibility of a second round. Collecting feedback on why candidates were chosen.
+U-Track
+Applications sent. Initial interviews booked. Potentially more interviews coming so not ruling everyone out yet. However, as they received an overwhelming amount of applications, they prioritised people near the Midlands/Birmingham area.
+Percayso
+Interviews being booked in by Andy directly. Feedback to be collated.
+Apian
+Applications sent - currently being reviewed.
+Talis
+Applications and cover letters to go by the end of Friday 14th.
+Green Gorilla Apps
+After receiving your applications, Paul will get back to us with interview requests between 17th July - 19th July. Candidates to be interviewed 24th - 28th July.
+Iceland
+Roles on Huntr :) awaiting interview process - talks of a hackathon !
+KAIMAI
+Degree Apprentice Software Developer role on Huntr
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns
 
 
 ### Thoughts:
