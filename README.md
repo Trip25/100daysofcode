@@ -3151,7 +3151,10 @@ Degree Apprentice Software Developer role on Huntr
 We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns
 
 
+
+
 ### Thoughts:
+Applied to Dfe Technical Associate
 
 ### Links to work / resources:
 Project Management Mock Spec- https://docs.google.com/document/d/1wZwVKat76TwK5Ga3VEE0WPXPQsXB_1Dgmt0Te261TXA/edit
@@ -3164,6 +3167,7 @@ Project Brief: Junior Developer Portfolio Project- https://docs.google.com/docum
 Saturday 15th July 2023
 
 ### **Today's progress**:
+Looking at job applications: 
 
 
 
