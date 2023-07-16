@@ -3175,16 +3175,49 @@ Looking at job applications:
 ### Thoughts:
 
 ### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 132
+
+Sunday 16th July 2023
+
+
+### **Today's progress**:
+Writing the supporting questions for Tate IT Engineer
+
+
+### Thoughts:
+Other things I did were: Mow the lawn, cut my hair
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 133
+
+Monday 17th July 2023
+
+
+### **Today's progress**:
+9:30 - 9:45 Squats and energiser 
+
+9:45 - 10:15 GITHUB WORKSHOP
+
+10:15-11:15: FASEEH AHMED 
+
+
+### Thoughts:
+
+### Links to work / resources:
 - Barclays- https://search.jobs.barclays/job/london/junior-developer/13015/51492377072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 - BT- https://jobs.bt.com/BTGroup/job/1-Braham-Street-Software-Engineer-React-Lond/769486502/&src=JB-12000&src=JB-12000
 - Tottenham- https://ce0812li.webitrent.com/ce0812li_webrecruitment/wrd/run/etrec179gf.open?WVID=9447152BOp&LANG=USA
 - Ocado - https://ocadoretail.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN275
 - Guardian - https://fa-euxy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35/?utm_medium=jobshare
-
 ----------------------------------------------------------------------------------------------------
- ## Day 132
+ ## Day 134
 
-Sunday 16th July 2023
+Tuesday 18th July 2023
 
 
 ### **Today's progress**:
@@ -3196,23 +3229,9 @@ Sunday 16th July 2023
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 132
+ ## Day 135
 
-Sunday 16th July 2023
-
-
-### **Today's progress**:
-
-
-
-### Thoughts:
-
-### Links to work / resources:
-
-----------------------------------------------------------------------------------------------------
- ## Day 132
-
-Sunday 16th July 2023
+Wednesday 19th July 2023
 
 
 ### **Today's progress**:
@@ -3224,23 +3243,9 @@ Sunday 16th July 2023
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 132
+ ## Day 136
 
-Sunday 16th July 2023
-
-
-### **Today's progress**:
-
-
-
-### Thoughts:
-
-### Links to work / resources:
-
-----------------------------------------------------------------------------------------------------
- ## Day 132
-
-Sunday 16th July 2023
+Thursday 20th July 2023
 
 
 ### **Today's progress**:
@@ -3252,7 +3257,7 @@ Sunday 16th July 2023
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 132
+ ## Day 137
 
 Friday 21st July 2023
 
@@ -3266,23 +3271,9 @@ Friday 21st July 2023
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 132
+ ## Day 138
 
-Sunday 16th July 2023
-
-
-### **Today's progress**:
-
-
-
-### Thoughts:
-
-### Links to work / resources:
-
-----------------------------------------------------------------------------------------------------
- ## Day 132
-
-Sunday 16th July 2023
+Saturday 22nd July 2023
 
 
 ### **Today's progress**:
@@ -3294,7 +3285,21 @@ Sunday 16th July 2023
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
- ## Day 132
+ ## Day 139
+
+Sunday 23rd July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 140
 
 Monday 24th July 2023
 
@@ -3306,3 +3311,122 @@ Monday 24th July 2023
 ### Thoughts:
 
 ### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 141
+
+Tuesday 25th July 2023
+
+
+### **Today's progress**:
+GRADUATION
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 142
+
+Wednesday 26th July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 143
+
+Thursday 27th July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 144
+
+Friday 28th July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 145
+
+Saturday 29th July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 146
+
+Sunday 30th July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 147
+
+Monday 31st July 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 148
+
+Tuesday 1st August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
