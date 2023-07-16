@@ -3199,6 +3199,8 @@ Monday 17th July 2023
 
 
 ### **Today's progress**:
+APPLIED: BT Software Engineer- React ✅
+
 9:30 - 9:45 Squats and energiser 
 
 9:45 - 10:15 GITHUB WORKSHOP
