@@ -3219,10 +3219,9 @@ APPLIED: BT Software Engineer- React ✅
  ## Day 134
 
 Tuesday 18th July 2023
-
-
 ### **Today's progress**:
-
+- Another day of applications
+- 
 
 
 ### Thoughts:
