@@ -3202,11 +3202,10 @@ Monday 17th July 2023
 APPLIED: BT Software Engineer- React ✅
 
 9:30 - 9:45 Squats and energiser 
-
 9:45 - 10:15 GITHUB WORKSHOP
-
 10:15-11:15: FASEEH AHMED 
-
+- Working on writing supporting statements
+- Adhoc tasks- reply to messages
 
 ### Thoughts:
 
