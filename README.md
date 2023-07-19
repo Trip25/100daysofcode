@@ -3210,11 +3210,7 @@ APPLIED: BT Software Engineer- React ✅
 ### Thoughts:
 
 ### Links to work / resources:
-- Barclays- https://search.jobs.barclays/job/london/junior-developer/13015/51492377072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
-- BT- https://jobs.bt.com/BTGroup/job/1-Braham-Street-Software-Engineer-React-Lond/769486502/&src=JB-12000&src=JB-12000
-- Tottenham- https://ce0812li.webitrent.com/ce0812li_webrecruitment/wrd/run/etrec179gf.open?WVID=9447152BOp&LANG=USA
-- Ocado - https://ocadoretail.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN275
-- Guardian - https://fa-euxy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35/?utm_medium=jobshare
+
 ----------------------------------------------------------------------------------------------------
  ## Day 134
 
@@ -3227,7 +3223,7 @@ Tuesday 18th July 2023
 ### Thoughts:
 
 ### Links to work / resources:
-
+- BT- https://jobs.bt.com/BTGroup/job/1-Braham-Street-Software-Engineer-React-Lond/769486502/&src=JB-12000&src=JB-12000
 ----------------------------------------------------------------------------------------------------
  ## Day 135
 
@@ -3236,13 +3232,30 @@ Wednesday 19th July 2023
 
 ### **Today's progress**:
 - Another day of applications
+**EMPLOYABILITY AGENDA**
 
+09:30- 09:45 Squats and Mindset talk
+
+09:45 - 10:15 JULIO VELEZMORO GUEST TALK
+
+10:15 - 11:30 Power hour – legacy code challenge - collaborative time together on Kumospace for you to practice concepts that you’re struggling with, those could be technical or based around interview techniques and growing confidence in that setting. Tech tests and mock interviews will be available to review/complete in groups.
 
 ### Thoughts:
 
 ### Links to work / resources:
+-Legacy Code- https://docs.google.com/document/d/1e1PDcVz_bAzPeiBYOex0g24_r5tXF7a1h4L1T6luwSQ/edit 
 
-----------------------------------------------------------------------------------------------------
+https://github.com/kiyanwang/exercises/blob/main/simple-linked-list.zip
+
+My attempt: https://github.com/Trip25/SimpleList
+
+- https://www.codingame.com/ide/puzzle/power-of-thor-episode-1
+- 
+- Tottenham- https://ce0812li.webitrent.com/ce0812li_webrecruitment/wrd/run/etrec179gf.open?WVID=9447152BOp&LANG=USA
+- Ocado - https://ocadoretail.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN275
+
+
+---------------------------------------------------------------------
  ## Day 136
 
 Thursday 20th July 2023
@@ -3255,15 +3268,16 @@ Thursday 20th July 2023
 ### Thoughts:
 
 ### Links to work / resources:
+- Barclays- https://apply.jobs.barclays/careersection/2/jobdetail.ftl
 
 ----------------------------------------------------------------------------------------------------
  ## Day 137
 
 Friday 21st July 2023
-
-
 ### **Today's progress**:
+**DevLab'23 In partnership with Sky**
 
+**Friday, 21 July⋅10:30 – 18:00**
 
 
 ### Thoughts:
