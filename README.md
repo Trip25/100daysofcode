@@ -3259,10 +3259,12 @@ My attempt: https://github.com/Trip25/SimpleList
  ## Day 136
 
 Thursday 20th July 2023
-
-
 ### **Today's progress**:
-
+- Confirmed the interview date and time and duration with Steph
+- Lauren will come back to me by EOD Friday about Premier League role
+- Chatted with bootcampers and encouraged morale for applications
+- Received to do list from Tom T
+- Researched Linked List
 
 
 ### Thoughts:
