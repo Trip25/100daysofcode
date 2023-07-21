@@ -3763,6 +3763,9 @@ how to know id the anxiety is normal?
 
 If it’s occuring consistently, Jeniffer was misdiagnosed with anxiety before correctly getting her autism diagnosed.
 
+
+EVENING: Revise Data Structures with FreeCodeCamp and Codecademy
+
 ### Thoughts:
 
 ### Links to work / resources:
@@ -3778,9 +3781,8 @@ https://docs.google.com/document/d/1w28iCEKZJWrNndWbMCqyCyOxDfdzyjHzKZRbqe9Wmbk/
 
 Saturday 22nd July 2023
 
-
 ### **Today's progress**:
-
+BUSY DAY FAMILY GATHERING AND LOOK AFTER NEPHEW
 
 
 ### Thoughts:
