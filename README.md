@@ -3280,11 +3280,498 @@ Friday 21st July 2023
 **DevLab'23 In partnership with Sky**
 
 **Friday, 21 July⋅10:30 – 18:00**
+# **DevLab'23 In partnership with Sky**
 
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0fc8b6c8-f77a-4880-b01d-a26ada7c3951/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/012b1230-4953-4e7d-bb4a-c0c45cca3b4e/Untitled.png)
+
+11:00 - 11:15 AM
+Opening introduction from hackajob and Sky
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bdd654e2-e5e2-46c9-b979-f4448b3effa0/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/328a339f-a4a6-450e-b2bf-669423b7bcb1/Untitled.png)
+
+**11:15 AM - 12:00 PM**
+
+### **Tech Stream 1: Large Language Models: An Overview by Barbara Fusinska**
+
+Large Language Models (LLMs), such as GPT-4 and ChatGPT, have revolutionised the field of natural language processing and have become an indispensable tool for software developers.
+
+In this session, attendees will gain an understanding of LLMs, including how they work under the covers. The talk will begin with an introduction to LLMs and their importance in modern software development. Attendees will learn about the key components of LLMs and how they differ from traditional natural language processing techniques.
+
+**11:15 AM - 12:45 PM**
+
+# **Career Opportunities Stream: Talks from The Access Group, DWP Digital, PwC, AutoTrader, UK Home Office, Airbus**
+
+Agenda:
+
+**11.15 - 11.30 The Access Group** 
+
+**Benjamin Turner**
+
+Slide 3
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df07a8cb-9123-4065-ad3a-64f75749b672/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d791bb8c-53ec-4611-8b97-bb73d6640885/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a47842-c23d-49fb-8fd7-858890a06ccd/Untitled.png)
+
+hackathon was on chatgpt and ai
+
+**11.30 - 11.45 DWP Digital [Sophie Ayres(hackajob)**
+
+**Stephen Moretti**
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef936646-e029-4191-ba67-1442241c82f5/Untitled.png)
+
+DWP for 9 years in no of diff roles
+
+DWP 90k staff, 5-6k of those are digital staff
+
+Santhy Tamang 11:46 AM
+Is it possible to know which platform do you use for conducting technical interview and if there are practice questions to practice on or do you have any recommendation for which websites to use?
+Richard Hanley (DWP Digital) 11:48 AM
+https://careers.dwp.gov.uk/getting-hired-at-dwp-digital/
+
+What exectly is DWP looking out for from a Test Analyst or QA when answering interview questions
+Richard Hanley (DWP Digital) 12:05 PM
+The latest set were.
+
+Demonstrable skills in a modern programming language and software engineering practices and aptitude to learn more.
+
+Experience building and maintaining comprehensive, robust, and reliable automated tests against UI’s and API’s including contributing to improving frameworks and automation suites.
+
+Experience of the testing lifecycle from understanding business needs from delivery to production. Including test generation, reporting and defect management.
+
+Adaptable team player who understands agile ways of working and shift left principles eg CI/CD.
+
+Knowledge of non-functional testing – Performance, Security and Accessibility – including test types, test tools, and standards.
+
+**11.45 - 12.00 PwC**
+
+Simon Deller (Pwc) 
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/806f5354-6025-477a-8999-6d1aea5e13df/Untitled.png)
+
+Head of Recruitment for Tech
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d82e9406-2a5e-414e-9838-840a20fd8101/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/447f97ec-9acd-46a2-9d1f-f1c8fae767ff/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/126ff0ec-2c40-404e-9a8c-dad80f05a78c/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49f6bdd3-c4ca-40d8-8803-5ea9650ff4a8/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95a105fe-e025-4623-9363-976718267a62/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90cd973c-8620-4b2d-95a2-828052521cf9/Untitled.png)
+
+**12.00 - 12.15 AutoTrader**
+
+Emily Connor
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4ad52ac-8b23-40c7-af6f-d2d077eed851/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b453037e-0c4e-4c47-a28d-b42c2eb90baa/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b97bf20d-ff65-4170-ab89-f8732400d9e8/Untitled.png)
+
+Works primarily on backend and started of as a grad
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff064fd5-f89a-4f5f-bf01-33dfcce249bd/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf1f8546-1bb4-40ff-9f28-f38b1470bd05/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85badfee-3fc8-42e8-8ba6-cdecaa133dcd/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70507c3c-d3ec-45e5-9c48-a1ed2883bc56/Untitled.png)
+
+Uplaod CV and complete questions
+
+1st stage- find out about your interests
+
+Technical task- in person
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f37beda5-7679-418d-8033-13767451ae64/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70ec19b3-847a-4642-84a6-06d254fe5b61/Untitled.png)
+
+12.15 - 12.30 UK Home Office
+
+Alice Davis
+
+George
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7978a69-bde5-4f8a-90b9-959987a19432/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4497c517-1e43-4607-bd03-5eb8f3107a85/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a6fa434-acf6-449f-aa28-75d7217d4326/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8afe137-e476-4a7e-aa39-44e5b07a82b8/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/890968ec-f996-4282-8518-c3e329ce4c32/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cfa9d76-37c5-4356-a91f-7138b8e67b09/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddccc2b0-795c-41ab-800c-2c62a02f5019/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f49df1f-40bc-4019-bcb5-77d1bba15845/Untitled.png)
+
+Backend :Java, Scala, Python
+
+PHP, C#,
+
+Node, React, Typescript 
+
+Cloud- AWS
+
+Onboarding process: 
+
+**12.30 - 12.45 Airbus**
+
+Hannah George(Talent Acquisition) 
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/526d0b81-e8bc-4b62-87b7-ab4600129f44/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7aefa191-082e-495f-b693-142e2c71f9d1/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3077c8a2-9b64-43a6-90f1-6845b193331d/Untitled.png)
+
+Working towards hydrogen travel
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a74f3319-82e5-4fb5-a659-bcc8078a65c8/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd1e069e-bf18-48f4-a345-7fb684e50df2/Untitled.png)
+
+02:00 - 02:45 PM
+Tech Stream 1: Workforce 2030 by Doug Sykes
+
+Doug, the workforce trends expert with 20 years of experience, is coming to DevLab to discuss how the workforce is changing in 2030 and what it means for developers.
+
+In his talk, Doug will explore the latest trends in automation, artificial intelligence, and other technologies that are transforming the workplace. He'll also discuss the skills and qualities that developers will need to succeed in the future.
+
+
+**02:00 - 03:30**
+
+# **Career Opportunities Stream: Talks from Informa, Omnicom Media Group, Social Security Scotland, Marks & Spencer, Aldermore, BAE Systems**
+
+Agenda:
+
+14.00 - 14.15 Informa
+
+Adam Bettine (Talent Acquisition Partner)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bff22997-2523-4277-80ca-f9767934bdc8/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32880380-a428-497c-a81a-c7ce0f9b6bec/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a84f0c40-abcc-45c8-9c97-464835fcdbc0/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74ae49df-510a-498f-acf0-953ec4a6ef0b/Untitled.png)
+
+14.15 - 14.30 Omnicom Media Group
+
+Dajour Mckenzie-George (data and tech)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6457f12e-47a0-4927-b5b9-6d99122615a5/Untitled.png)
+
+Lauren Harris
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebca31bf-240a-44d4-ab5e-4e8582c85895/Untitled.png)
+
+Interview 2 stage
+
+Conversation- understanding of what you’re looking for, role entails, understand the impact of the role
+
+Take home technical test, presented and follow up questions
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae08d3d5-b5f7-4440-a3c5-690110cb20ad/Untitled.png)
+
+Data Engineering (python woulf be preferred)
+
+Software Dev (Javascript would be preferred)
+
+but don’t be fixed as you will be able to move around as you have skillsets
+
+Early talent/years: Entry level schemes- facilitated for grads, first jobber, caters for all talent
+
+https://hackajob.com/jobs
+
+14.30 - 14.45 Social Security Scotland
+
+14.38 -  **Marks & Spencer**
+
+Lee Wilson
+
+1 yr Staff Software Engineer
+
+How to grow in your career
+
+Engineer to senior engineer
+
+Impact with scale
+
+working this way with my codebase
+
+as you scale up, you know everything about your codebase, going beyond how does team work, beyond that multiple teams
+
+Frist thing Communication
+
+chat -? grow your influence
+
+Map- intrinsic motivations of humans
+
+Create Psychological safety
+
+Algorithms
+
+What they select for: 
+
+People who solve real life problems
+
+They want great engineers who are lovely to work for :) 
+
+https://blog.hackajob.com/tag/career-change/
+
+https://jobs.marksandspencer.com/category/technology-jobs/8944-1729/6222/1
+
+Normal path: grad, engineer, staff engineer, principle 
+
+staff = team leads or architects
+
+difference with senior anf staff
+
+senior would start looking outwards across teams
+
+best practices
+
+15.00 - 15.15 Aldermore
+
+Liz Ralphs(Recruitment Business Partner)
+
+Matt Darcy(Head of Cloud and Infrastructure)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20a03de2-3d5c-4c13-85c3-a89a000548ef/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12569ee2-2d18-4325-b0f4-516c4f21ec56/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f47f76a6-4e59-404a-bffb-997fdd279726/Untitled.png)
+
+No technical test but will be tested through Q&A
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c554596a-159f-48e0-93db-c4a32f48fc33/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01814e81-9224-426c-810c-5c901c68673c/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e919373b-81dd-44c8-8d4a-f264d87739cd/Untitled.png)
+
+https://aldermore.current-vacancies.com/Careers/Aldermore_vacancy_search_page-3181
+
+15.15 - 15.30 BAE Systems
+
+James Bairstow
+
+5/6 years
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c78837a-9d95-417e-a12b-c4350fddc965/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3611b163-b5e4-405d-843a-82c82c6c2fdc/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b710175-eec7-46c6-9a03-94c92c69e509/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/433560db-5c34-4512-a18e-3073f8e80af5/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16196188-94cd-4cf0-85c9-116241c5e529/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/391036db-9afd-47d8-9eef-fbd7dd20f4f8/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c869b5ca-3b7f-441e-91b3-7eee5b9af90f/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f45a8b5e-ad51-4c30-9593-29d7ecc8e666/Untitled.png)
+
+03:45 - 05:15 PM
+Career Opportunities Stream: Talks from Direct Line Group, The Very Group, GSK, Tunstall Healthcare, Faculty
+
+Henry Hutton
+
+Agenda:
+
+15.45 - 16.00 - Direct Line Group
+
+Neil Alexander
+
+James Denton 
+
+been with DLG for 25 years
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c68bd0d9-4836-4474-abc7-c54b23462d91/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04a8e978-1c20-4137-8d96-e4b7ad26c1b5/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf964e7a-e8d9-4a04-a358-574bb5df2dff/Untitled.png)
+
+James explains
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2ae8457-221d-4d30-9be6-c8a3c76075c9/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df2f9f85-d3ca-4b0f-895c-23ca15574b69/Untitled.png)
+
+when is your next Apprentice scheme?
+
+Schemes twice a year to give enough time to support to cohort
+
+16.00 - 16.15 - The Very Group
+
+Kim Richards
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2cf36878-8224-4f26-870e-d7e9d21f9f41/Untitled.png)
+
+In the middle of a big digital transformation scheme
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bdb7b3d2-63cd-48bf-be27-5ab6f552c4b1/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c450576e-4b2b-46b2-9479-124d83e8d951/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5ab2f01-81a4-4200-bb31-e6481f8107f1/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d7403b2-7831-4899-a311-0cdc42152f3e/Untitled.png)
+
+Do two cohorts in the year from graduate perspective
+
+small cohorts to give enough support
+
+mentors, development
+
+Tech team mainly in Liverpool
+
+16.15 - 16.30 - GSK
+
+Ben French(Director of Onyx Infra)[Leads Infra, DevOps & support] 
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4caaf21-f726-472e-b88e-b544c44488cf/Untitled.png)
+
+London(Kings Cross)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9da57aa-3f3c-457f-a389-762fdac15f65/Untitled.png)
+
+Actively recruiting for cloud engineers, data engineers
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb1d7fe3-7fb5-4556-b41a-5fca5862ebfe/Untitled.png)
+
+completely greenfield
+
+mpnth 4 inside GSK, take advantage of new technology
+
+building from the ground up
+
+CI/CD github actions
+
+Written all in React
+
+A number of cloud, google provided services
+
+Senior( would look for 5 years exp]
+
+Mid [2-3 years]
+
+Junior 
+
+16.30 - 16.45 - Tunstall Healthcare
+
+16.45 - 17.00 - Faculty
+
+Riddhi Dhall [Senior Machine Learning Engineer]
+
+bg Computer Science Uni of Southampt
+
+Harry Murdoch [Senior Engineer]
+
+Mech Engineering bg Uni of Warwick
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f46bf5c-2825-4b59-a5b3-604d3135c28a/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5a3e5a7-4363-4e2f-9674-e167cdda5e6c/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f58dcdf-0a60-40c0-ac81-d460ab460a4e/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b13c7cec-c34d-4d57-bca0-d14d030003c1/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a5b553c-3c9b-422a-b8f1-75d5779ff9a2/Untitled.png)
+
+Recruiter reached out to Harry
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1536e832-f5c8-486c-b3f7-97098f17248a/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/487a93db-f185-4c2e-8dfc-7fba14dd1691/Untitled.png)
+
+Around 2 weeks of prep time
+
+Great Social scheme- get involved
+
+London
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0eba3c7-f798-4263-96cb-4e3d4629639d/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a38d9732-207f-4fe9-a248-8ee0add4a862/Untitled.png)
+
+Bi-yearly
+
+Wouldnt have one in first 6months but would afterwards
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57b2017a-da4d-4bc0-aed6-0042f6cfd776/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04775f0a-f0a3-4372-9091-2fd9588259d0/Untitled.png)
+
+Screening process:
+
+don’t do algorithm focus
+
+more to do with pari programming
+
+how it would be like to work with you
+
+Collaborative type, work through this problem together
+
+Looking for problem solvers, potential
+
+Seniors
+
+Core tech stacks:
+
+Python
+
+JavaScript, React
+
+generalist problem solver as you can learn anything, learn on the job so wouldn't particularly say its required
+
+Cloud Engineers
+
+https://faculty.ai/join-the-team/
+
+https://faculty.ai/join-the-team/#ashby_embed
+
+**Tech Stream 1: My Neurodivergent Existence: My Late Diagnosis Discovery While Being A Software Engineer by Jeniffer Opal**
+
+04:30 PM - 05:15 PM
+
+how to know id the anxiety is normal?
+
+If it’s occuring consistently, Jeniffer was misdiagnosed with anxiety before correctly getting her autism diagnosed.
 
 ### Thoughts:
 
 ### Links to work / resources:
+**Project Brief: E-Commerce Recommendation System:** 
+https://docs.google.com/document/d/1202MtRxa43iy9LA83cPQrkpWnMx6L8hvWZZ70ShhRZM/edit
+**Challenge: Junior UI/UX Redesign - Subscription Box Product Page:**
+https://docs.google.com/document/d/1XJZ2TvrDFyWXz1EwhX5VmWJvUEeNar2lPox96sdkHQI/edit
+**Junior Project Management Challenge: Eco-Friendly Mobile App:** 
+https://docs.google.com/document/d/1w28iCEKZJWrNndWbMCqyCyOxDfdzyjHzKZRbqe9Wmbk/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 138
