@@ -3794,11 +3794,11 @@ NO CODING unfortuneately
  ## Day 139
 
 Sunday 23rd July 2023
-
-
 ### **Today's progress**:
 
+11am Coffee date
 
+2pm Badminton
 
 ### Thoughts:
 
