@@ -3808,10 +3808,10 @@ Sunday 23rd July 2023
  ## Day 140
 
 Monday 24th July 2023
-
-
 ### **Today's progress**:
-
+(GEORGE)
+**9:30 - 9:45 Squats & energiser** 
+**9:45 - 11:30 TECH TEST CHALLENGE**
 
 
 ### Thoughts:
@@ -3837,14 +3837,16 @@ GRADUATION
  ## Day 142
 
 Wednesday 26th July 2023
-
-
 ### **Today's progress**:
-
+**Wednesday 26th July (GEORGE)** 
+**9:30 - 9:45  Squats & energiser**
+**9:45 - 10:15** BBC HEAD OF ENGINEERING
+**10:15 - 11:30** Interview prep workshop
+**11:30-13:30 TALIS INTERVIEW**
 
 
 ### Thoughts:
-
+LOOKING AFTER NEPHEW
 ### Links to work / resources:
 
 
@@ -3859,7 +3861,7 @@ Thursday 27th July 2023
 
 
 ### Thoughts:
-
+LOOKING AFTER NEPHEW
 ### Links to work / resources:
 
 
