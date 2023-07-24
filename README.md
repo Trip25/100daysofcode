@@ -3817,19 +3817,75 @@ Monday 24th July 2023
 ### Thoughts:
 
 ### Links to work / resources:
+Tech Test Challenge- https://docs.google.com/document/d/1JopUoWXYTx7L8zxsTm4gUCOVw_5Rq-vJJboBsBzsQBg/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 141
 
 Tuesday 25th July 2023
-
-
 ### **Today's progress**:
-GRADUATION
+***GRADUATION***
+07:30 Will need to start heading off
+09:00 Arrival Drinks
+09:30 Introduction and overview of the day
+09:40 Beyond the Badge - Personal Journeys of Microsoft Employees
+Hear the personal journeys of seven Microsoft employees representing diverse technical roles. Gain
+valuable insights into their day-to-day responsibilities and discover the unique paths that led them
+to Microsoft, including their educational and industry backgrounds. From engineers to data
+scientists and beyond, this session offers a rich tapestry of experiences that will provide a deeper
+understanding of the individuals behind the scenes at Microsoft.
+10:15  Working on Windows - Onboarding to a Project Older Than Yourself
+Harry Gwinnell will talk about his experience joining the Windows organisation, and his encounters
+with one of the largest software projects in the world. He'll talk about the path through learning the
+organization, onboarding, writing his first pull-request, and releasing it through to the public. Legacy
+code, microservices, and replacing the engine from underneath you, there's plenty to explore.
+10:35 Breaking the Chains of Doubt - Overcoming Imposter Syndrome with Your Old Code
+Delving into the journey of confronting imposter syndrome through the context of your own previous
+code, Ira Rainey will explore how to reframe self-doubt as an opportunity for growth and selfimprovement. With practical tips, personal anecdotes, and empowering strategies, you will learn to
+embrace your past work as a stepping-stone to success rather than a source of insecurity. Discover
+how to leverage the knowledge gained from your old code, celebrate your progress, and unlock your
+true potential as a software developer where imposter syndrome does not hinder your growth.
+10:55 From A to Xbox - A Data Scientist Career in Games
+Everybody loves gaming! But not everyone knows you can have a career as a Statistician/Data
+Scientist in this industry. In this talk Emmanuelle Rodrigues Nunes will explore careers in the gaming
+industry with a focus on Data Science and give you an insight into the world behind the console
+through a data lens. The gaming industry is huge and is always looking for people with diverse
+backgrounds and experiences - and you don't need to be a game developer to join this amazing
+family; what unites all of us is a passion for games and the desire to see people having fun whilst
+exploring the different worlds that only gaming can provide.
+11:15 Refreshment break
+11:30 Lego Serious Play – Architects and Builders
+Lego is not just for kids or Christmas. In this hands-on workshop we will help participants to
+understand how to work as a team to successfully communicate complex ideas in simple Lego
+forms.
+12:30 Lunch break
+13:30 Learn It All - Habits and Techniques
+In a fast-paced world of ever-evolving technology, the quest for continuous learning can be
+overwhelming. Our industry presents an endless array of subject matter and, as technologists, we
+want to learn it all. However, it can be daunting to determine where to focus your efforts and, more
+crucially, how to optimize your limited time for effective learning. Drawing from his own personal
+learning journey, which nearly ended in defeat, Liam Moat will present a collection of habits and
+techniques to scale your learning, while protecting your time and work-life balance.
+14:00 Developer Recruitment Demystified - Insider Tips for Maximising Your Opportunities
+In this talk Lee Holbrook will provide insight and advice on technical recruitment and how to help
+your chances of being selected through an application process as well as an understanding of what
+to expect in a technical interview process, both at Microsoft and externally.
+14:30 Refreshment break
+14:45 Graduation Ceremony 
+Join us for a graduation ceremony, where you'll be honoured with a well-deserved certificate of
+graduation, presented by School of Code staff, and have the opportunity to capture the momentous
+occasion with a presentation photo.
+16:00 A session where you will have the invaluable opportunity to gain insights from a diverse group of
+Microsoft employees, spanning engineers, data scientists, managers, and even recruitment
+specialists. This is your chance to satisfy your curiosity and clarify any uncertainties you may have.
+We encourage you to ask us anything, knowing that there is no such thing as a stupid question. Our
+panel is eager to share their wealth of knowledge and experiences, offering a unique glimpse into
+their roles and backgrounds. This is your opportunity to pick the brains of our Microsoft team.
+
 
 
 ### Thoughts:
-
+Microsoft Campus Building 3, Sonning, England, RG6 1WG
 ### Links to work / resources:
 
 
