@@ -3825,7 +3825,7 @@ Tech Test Challenge- https://docs.google.com/document/d/1JopUoWXYTx7L8zxsTm4gUCO
 Tuesday 25th July 2023
 ### **Today's progress**:
 ***GRADUATION***
-07:30 Will need to start heading off
+07:30-08:00 Will need to start heading off
 09:00 Arrival Drinks
 09:30 Introduction and overview of the day
 09:40 Beyond the Badge - Personal Journeys of Microsoft Employees
@@ -3882,6 +3882,7 @@ We encourage you to ask us anything, knowing that there is no such thing as a st
 panel is eager to share their wealth of knowledge and experiences, offering a unique glimpse into
 their roles and backgrounds. This is your opportunity to pick the brains of our Microsoft team.
 
+When back home- finish off prepping for interview, revise STAR method if you can
 
 
 ### Thoughts:
