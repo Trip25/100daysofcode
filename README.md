@@ -3905,6 +3905,7 @@ Wednesday 26th July 2023
 
 ### Thoughts:
 LOOKING AFTER NEPHEW
+Heard Roberto has the interview with Talis at 2pm
 ### Links to work / resources:
 
 
