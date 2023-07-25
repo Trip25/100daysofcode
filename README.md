@@ -3825,7 +3825,7 @@ Tech Test Challenge- https://docs.google.com/document/d/1JopUoWXYTx7L8zxsTm4gUCO
 Tuesday 25th July 2023
 ### **Today's progress**:
 ***GRADUATION***
-07:30-08:00 Will need to start heading off
+08:00-08:30 Will need to start heading off
 09:00 Arrival Drinks
 09:30 Introduction and overview of the day
 09:40 Beyond the Badge - Personal Journeys of Microsoft Employees
@@ -3854,7 +3854,7 @@ backgrounds and experiences - and you don't need to be a game developer to join 
 family; what unites all of us is a passion for games and the desire to see people having fun whilst
 exploring the different worlds that only gaming can provide.
 11:15 Refreshment break
-11:30 Lego Serious Play – Architects and Builders
+11:30 Lego Serious Play – Architects and Builders [Group 9: Ely, Sami, Olga and Anastasia]
 Lego is not just for kids or Christmas. In this hands-on workshop we will help participants to
 understand how to work as a team to successfully communicate complex ideas in simple Lego
 forms.
@@ -3881,12 +3881,13 @@ specialists. This is your chance to satisfy your curiosity and clarify any uncer
 We encourage you to ask us anything, knowing that there is no such thing as a stupid question. Our
 panel is eager to share their wealth of knowledge and experiences, offering a unique glimpse into
 their roles and backgrounds. This is your opportunity to pick the brains of our Microsoft team.
-
+17:30 Start heading home!
 When back home- finish off prepping for interview, revise STAR method if you can
 
 
 ### Thoughts:
 Microsoft Campus Building 3, Sonning, England, RG6 1WG
+Chatted with Theo and George about their BAE interviews and was so great to hear some people got job offers already!
 ### Links to work / resources:
 
 
