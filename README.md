@@ -3898,16 +3898,20 @@ Wednesday 26th July 2023
 ### **Today's progress**:
 **Wednesday 26th July (GEORGE)** 
 **9:30 - 9:45  Squats & energiser**
-**9:45 - 10:15** BBC HEAD OF ENGINEERING
+**9:45 - 10:15** BBC HEAD OF ENGINEERING- Val Kelly 
 **10:15 - 11:30** Interview prep workshop
 **11:30-13:30 TALIS INTERVIEW**
+
+Evening:trying out the makecode with Microsoft, hopefulyl can make a nice game soon!
 
 
 ### Thoughts:
 LOOKING AFTER NEPHEW
-Heard Roberto has the interview with Talis at 2pm
-### Links to work / resources:
+Heard Roberto has the interview with Talis at 2pm- Good luck to alll! 
 
+
+### Links to work / resources:
+https://www.microsoft.com/en-us/makecode
 
 ----------------------------------------------------------------------------------------------------
  ## Day 143
