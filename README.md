@@ -3920,11 +3920,10 @@ Thursday 27th July 2023
 
 
 ### **Today's progress**:
-
-
-
 ### Thoughts:
 LOOKING AFTER NEPHEW
+Found out I got shortlisted for Iceland Foods and the team will be for Rick, however it will be two hackathons. 
+A lot of deliberation to do to decide and also prep for another interview! 
 ### Links to work / resources:
 
 
@@ -3935,14 +3934,16 @@ Friday 28th July 2023
 
 
 ### **Today's progress**:
-
-
-
+- Drop off mumma at work
+- Going to Jenny's for some advice on choosing jobs as she is experienced in tech! 
+- Made a timeline to help decision making
+- Need to prep for interview and presentation for Monday
+  
 ### Thoughts:
 
 ### Links to work / resources:
-
-
+Project Brief: Fitness Tracking Mobile App: https://docs.google.com/document/d/1xazM0Zk-3tjkDiba72FCQ9dyBroagHkO2xKfXXJbvbw/edit
+Challenge: Junior UI/UX Redesign - Online Learning Platform Dashboard: https://docs.google.com/document/d/1mdqC3PCS2k0IJoYQFNw0I5-OJk0EKagvJZ_68rOMK_4/edit 
 ----------------------------------------------------------------------------------------------------
  ## Day 145
 
