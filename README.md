@@ -3938,6 +3938,30 @@ Friday 28th July 2023
 - Going to Jenny's for some advice on choosing jobs as she is experienced in tech! 
 - Made a timeline to help decision making
 - Need to prep for interview and presentation for Monday
+
+SOC Updates:on the current roles we're working on and where they're currently at in the hiring process:
+**BAE:** Offers this week/Monday. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+**U-Track:** Offers out - feedback given.
+**Percayso:** Feedback posted in slack.
+**Apian:** Interviews complete. Still chasing outcomes and feedback/offers
+**Talis:** Interviews booked now - feedback as to why Talis shortlisted the people they did for interview:It was a tough call for Talis as there were a lot of applicants to go through. It boiled down to several things:
+- Nadeems own observations around each individual when he popped in each week to check on group progress on the final project. Especially attitude and ability to work and play nicely with others.
+- What picture the cover letters painted
+- The CV, especially development related things beyond just soc, i.e. meetups, side projects.
+**Green Gorilla Apps:** On hold until mid-August. Interviews will be booked then.
+**Iceland - remote role:** Messaged people who have been shortlisted - still a few more names to come out, so if you haven’t heard, don’t assume you’re ‘rejected’ yet. General feedback on CVs/things they saw when shortlisting to be posted separately.
+**Iceland - (IT side):** On huntr
+**KAIMAI:** Interviews requests on Monday 31st.
+**VANTI:** Project Management Role on Huntr. We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
+Iceland Feedback: 
+- Some of the CVs have used icons which link to GitHub etc. So far I have followed them all some are easy to miss. They should think about some of these CVs get printed out, some CV screen processes may not have developers who immediately recognize the logo. Suggest they make it clear and have the URL in text as well is probably a good idea.
+- The CVs with portfolio sites and urls I can visit to see the projects are at a real advantage. There I have been a few where I have been able to get live demos from digging around GitHub, but some of them just rely on Github and the repos. Sadly I haven't had the time to go and checkout and build projects.
+- Demo projects which aren't locked behind a sign up screen are also good. Don't always have the time to go through sign up process, or recruiters not keen to give away personal info.
+- When in competition with other School of Code candidates the ones who show case their projects, especially the final project are at an advantage. Some just put the school of code in the job history and left it at that.
+- The cohort(s) before have a slightly harder time because they have 6 months+ of additional time to account for. The ones who have kept the CV up to date, added some additional projects in the GitHub, built a portfolio and shown they are still progressing have an edge.
+- Networking is really important. Those who are a proactive and reached out to me or my team on LinkedIn (we do talk 🙂) have a real advantage.
+- Similarly the ones who stood out in the demo days etc. did make a difference.
+- The CVs which showed a little of the personality stood out, and does give a little edge.
   
 ### Thoughts:
 
@@ -3948,11 +3972,13 @@ Challenge: Junior UI/UX Redesign - Online Learning Platform Dashboard: https://d
  ## Day 145
 
 Saturday 29th July 2023
-
-
 ### **Today's progress**:
-
-
+- Slept in as I didn't use an alarm clock for the first time this week, since I woke up at 11am I think I must have been more shattered than I thought!
+- Worked on cleaning my room
+- Tried to scan my film from my Canon AV 1 but I ended up messing up so will have to go to the shop to develop lol
+- Added the image to storyscape for my portfolio
+- Tried to give some advice to fellow friends who seem interested in changing careers :) 
+- Working on script for Monday's presentation!
 
 ### Thoughts:
 
@@ -3961,7 +3987,6 @@ Saturday 29th July 2023
 
 ----------------------------------------------------------------------------------------------------
  ## Day 146
-
 Sunday 30th July 2023
 
 
