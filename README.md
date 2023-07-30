@@ -3988,10 +3988,9 @@ Saturday 29th July 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 146
 Sunday 30th July 2023
-
-
 ### **Today's progress**:
-
+- Not feeling the greatest healthwise, took some naps 
+- Carried on with presentation and script 
 
 
 ### Thoughts:
@@ -4003,10 +4002,13 @@ Sunday 30th July 2023
  ## Day 147
 
 Monday 31st July 2023
-
-
 ### **Today's progress**:
+**Monday 31st July (STEPH)** 
+**9:30 - 9:45 Squats & mindset talk**
+**9:45 - 10:15 CLAIRE DOSWELL GUEST TALK**
+**10:15 - 11:30** Linkedin & job searching strategies workshop in kumospace.
 
+**11:00 Interview with Jason Anders from Premier League**
 
 
 ### Thoughts:
