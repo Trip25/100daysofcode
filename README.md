@@ -4000,7 +4000,6 @@ Sunday 30th July 2023
 
 ----------------------------------------------------------------------------------------------------
  ## Day 147
-
 Monday 31st July 2023
 ### **Today's progress**:
 **Monday 31st July (STEPH)** 
@@ -4012,12 +4011,12 @@ Monday 31st July 2023
 
 
 ### Thoughts:
+Feeling a bit under the weather but managed to get an interview done and a lot of deliberations made during the day! Gotta get back on the job hunt grind. Learnt about startups during the talk with Claire and made a note to be more picky with jobs and to find the right recruitment staff who look for what I want in a company/role! 
 
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
  ## Day 148
-
 Tuesday 1st August 2023
 
 
