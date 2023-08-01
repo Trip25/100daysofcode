@@ -4018,6 +4018,47 @@ Feeling a bit under the weather but managed to get an interview done and a lot o
 ----------------------------------------------------------------------------------------------------
  ## Day 148
 Tuesday 1st August 2023
+### **Today's progress**:
+- Contacting recruiters 
+- A bit of applications
+- Lastly reading!
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 149
+Wednesday 2nd August 2023
+### **Today's progress**:
+- Pick up nephew 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 150
+Thursday 3rd August 2023
+- Pick up nephew 
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 151
+Friday 4th August 2023
 
 
 ### **Today's progress**:
@@ -4028,3 +4069,120 @@ Tuesday 1st August 2023
 
 ### Links to work / resources:
 
+
+----------------------------------------------------------------------------------------------------
+ ## Day 152
+Saturday 5th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 153
+Sunday 6th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 154
+Monday 7th August 2023
+### **Today's progress**:
+- Iceland Foods Hackathon
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 155
+Tuesday 8th August 2023
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 156
+Wednesday 9th August 2023
+### **Today's progress**:
+- Iceland Foods Hackathon
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 157
+Thursday 10th August 2023
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 158
+Friday 11th August 2023
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 159
+Saturday 12th August 2023
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 160
+Sunday 13th August 2023
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 158
+Monday 14th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
