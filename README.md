@@ -4035,11 +4035,14 @@ Tuesday 1st August 2023
 Wednesday 2nd August 2023
 ### **Today's progress**:
 - Pick up nephew 
+- Organising emails
+- Practice interview questions
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+https://docs.google.com/document/d/1ysAe7_MBe4YOCmnBnt31vGgCqYldOtglnoU7ccZtl9g/edit
 
 
 
@@ -4102,7 +4105,17 @@ Sunday 6th August 2023
  ## Day 154
 Monday 7th August 2023
 ### **Today's progress**:
-- Iceland Foods Hackathon
+Look forward to seeing you there - brief will be released either on the day or a day before. 
+You will be in a group of 5 people and some Iceland staff may be in the room with you whilst you're hacking! 
+Provisional Running Order	
+09:30am - 09:35am	Welcome to bootcampers & squats (MAIN ROOM)
+09:35am - 09:45am	Welcome words and intro from Iceland (MAIN ROOM)
+09:45am - 09:55am	Bootcampers and Iceland sort into rooms
+09:55am - 12:00pm	Hackathon Session One
+12:00pm - 13:00pm	Lunch
+13:00pm - 15:00pm	Hackathon Session Two
+15:00pm - 16:00pm	Presentations - 5 teams (roughly 10 mins each)
+16:00pm - 16:05pm	Close (Main Room)
 
 
 ### Thoughts:
