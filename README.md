@@ -4052,12 +4052,15 @@ Thursday 3rd August 2023
 - Pick up nephew 
 
 ### **Today's progress**:
-
+- Juggling between keeping the nephew entertained, the dog also entertaineed and both of them fed.
+- Found some more job applications to do which require more tailored questions!
+- 
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+Loupe Testware [only for West Midlands- but nice to see what they will be looking for later]https://docs.google.com/document/d/1zpIvG-IVJvJjSSN2mZZBEgDleaoXljfQX4BPEDEkBMg/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 151
