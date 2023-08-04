@@ -4065,16 +4065,38 @@ Loupe Testware [only for West Midlands- but nice to see what they will be lookin
 ----------------------------------------------------------------------------------------------------
  ## Day 151
 Friday 4th August 2023
-
-
 ### **Today's progress**:
-
-
+Victoria Meah 17:29
+@channel, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+BAE
+Final offers being gathered, should all be finalised by Monday. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+U-Track
+Offers out - feedback given. Mike made a comment that your ‘headline’ on huntr is something they do look at, and they like ones that stand out and say something about you.
+Another thing he said to note was make sure your location on huntr is specific rather than just ‘United kingdom’ it saves time when some companies are filtering by location.
+Percayso
+Feedback posted in slack.
+Apian
+Interviews complete. Still chasing outcomes and feedback/offers
+Talis
+Offer out - feedback given on unsuccessful interviewees directly by Nadeem. He made a comment that the feedback he gave was handled really well by candidates.
+Green Gorilla Apps
+On hold until mid-August. Interviews will be booked then.
+Iceland - remote role
+Hackthon invites sent now - no more names have been chosen now, but chasing clarification on the rest of the people who haven’t been shortlisted so far.
+Iceland - (IT side)
+On huntr
+KAIMAI
+First initial Interviews taking place this week. Tech tests to be given out next week after first initial interviews. Team sending feedback on CV’s and why they were chosen.
+VANTI
+George following up with Sophie at Vanti to confirm applications have been received and to see who will be progressing.
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns :slightly_smiling_face:
 
 ### Thoughts:
 
 ### Links to work / resources:
-
+- Project: Junior Developer Code Review Tool: https://docs.google.com/document/d/14_jN_1bNDdWg_PY78xJhZqSbTcpoR1zcXpoFrmIDUXA/edit
+- Challenge: Junior UI/UX Redesign - Healthy Recipe Sharing App: https://docs.google.com/document/d/18y02rgRrmj5oNyvwLR0_v9vnL9RAToo33rLuB6AzK1U/edit
+- Junior Project Management Challenge: Virtual Skill-Building Platform: https://docs.google.com/document/d/1LrGmkxwsMIRBuE3_NSzoD3oZS_IFVsPSnKOzDIxP1C8/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 152
