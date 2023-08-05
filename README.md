@@ -4101,13 +4101,21 @@ We'll post more updates on individual roles as we have them. Don't hesitate to r
 ----------------------------------------------------------------------------------------------------
  ## Day 152
 Saturday 5th August 2023
-
-
 ### **Today's progress**:
+- Dropped off mumma at party
+- Helping sis pack up and get ready for the airport
+- Got the brief for Iceland last night from Steph: 
+  Hope you're all looking forward to the hackathon on Monday!! 
+So the brief is... 
+
+Allergy-Friendly Product Finder: Build an app that helps customers find products that match their dietary preferences and allergies
+
+You'll be in teams of 4/5 people so this is a good time to organise your thoughts before you come together to give it a go! Have fun with it, and remember, it's about how you approach it and work together, what you learn and how you plan :)
 
 
 
 ### Thoughts:
+I wonder who will be in my group, I hope things will go well.
 
 ### Links to work / resources:
 
