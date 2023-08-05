@@ -4115,7 +4115,7 @@ You'll be in teams of 4/5 people so this is a good time to organise your thought
 
 
 ### Thoughts:
-I wonder who will be in my group, I hope things will go well.
+I wonder who will be in my group, I hope things will go well. Feeling a bit ill again, hope it won't stick. Going to try making a React app tomorrow!
 
 ### Links to work / resources:
 
