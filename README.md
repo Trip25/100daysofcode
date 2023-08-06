@@ -4124,9 +4124,8 @@ I wonder who will be in my group, I hope things will go well. Feeling a bit ill 
  ## Day 153
 Sunday 6th August 2023
 
-
 ### **Today's progress**:
-
+Body not feeling too well so took time off. Will see if I am able to do some coding, but will at least take some time to research allergens and make a list.
 
 
 ### Thoughts:
@@ -4138,7 +4137,13 @@ Sunday 6th August 2023
  ## Day 154
 Monday 7th August 2023
 ### **Today's progress**:
-Look forward to seeing you there - brief will be released either on the day or a day before. 
+Look forward to seeing you there - So the brief is... 
+
+Allergy-Friendly Product Finder: Build an app that helps customers find products that match their dietary preferences and allergies
+
+You'll be in teams of 4/5 people so this is a good time to organise your thoughts before you come together to give it a go! Have fun with it, and remember, it's about how you approach it and work together, what you learn and how you plan :)
+
+ 
 You will be in a group of 5 people and some Iceland staff may be in the room with you whilst you're hacking! 
 Provisional Running Order	
 09:30am - 09:35am	Welcome to bootcampers & squats (MAIN ROOM)
