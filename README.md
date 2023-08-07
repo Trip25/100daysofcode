@@ -4149,17 +4149,36 @@ Provisional Running Order
 09:30am - 09:35am	Welcome to bootcampers & squats (MAIN ROOM)
 09:35am - 09:45am	Welcome words and intro from Iceland (MAIN ROOM)
 09:45am - 09:55am	Bootcampers and Iceland sort into rooms
-MINE IS ROOM 5
+MINE IS ROOM 5: 
+- Neil Brooks
+- Bianca Buha
+- Jakir Ashraf
+- Tripti Gurung
+- Damian Janik [Iceland Foods]
 09:55am - 12:00pm	Hackathon Session One
 12:00pm - 13:00pm	Lunch
 13:00pm - 15:00pm	Hackathon Session Two
 15:00pm - 16:00pm	Presentations - 5 teams (roughly 10 mins each)
 16:00pm - 16:05pm	Close (Main Room)
 
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+
 
 ### Thoughts:
 
 ### Links to work / resources:
+- Github repo that we used for hackathon: https://github.com/NeilBr87/Allergy-Products
+- Our presentation for hackathon: https://www.canva.com/design/DAFq3WIcko8/lN8ojft1D9iLETXKF4i_1g/edit
+
+- Forked to make own repo and hopefull add to it: https://github.com/Trip25/Allergy-Products
 
 ----------------------------------------------------------------------------------------------------
  ## Day 155
