@@ -4184,6 +4184,7 @@ MINE IS ROOM 5:
  ## Day 155
 Tuesday 8th August 2023
 ### **Today's progress**:
+- Spent the day hoovering up sister's place and messaged a couple of bootcampers(good luck for tomorrow!)
 
 
 
@@ -4196,6 +4197,7 @@ Tuesday 8th August 2023
 Wednesday 9th August 2023
 ### **Today's progress**:
 - Iceland Foods Hackathon
+  Brief: 
 
 
 ### Thoughts:
