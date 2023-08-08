@@ -4197,7 +4197,7 @@ Tuesday 8th August 2023
 Wednesday 9th August 2023
 ### **Today's progress**:
 - Iceland Foods Hackathon
-  Brief: 
+  Brief: Green Product: Create a feature that is eco-friendly to help customers make sustainable choices.
 
 
 ### Thoughts:
