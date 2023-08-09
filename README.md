@@ -4148,6 +4148,13 @@ You will be in a group of 5 people and some Iceland staff may be in the room wit
 Provisional Running Order	
 09:30am - 09:35am	Welcome to bootcampers & squats (MAIN ROOM)
 09:35am - 09:45am	Welcome words and intro from Iceland (MAIN ROOM)
+- Rick Martin: Development Manager
+- Patrick Robinson: Commerce Lead
+- Will Broughton: Team Lead
+- Holly Fanthorpe: Developer - ecommerce cloud websites
+- Sofiya Kryuchkova: Developer
+- Damian Janik: Cloud Engineering - backend
+- Rachael Oldham-Knott- Tactical Change Board? 
 09:45am - 09:55am	Bootcampers and Iceland sort into rooms
 MINE IS ROOM 5: 
 - Neil Brooks
