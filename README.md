@@ -4259,7 +4259,8 @@ Got an email from Rehan(KFC) about interviewing next Monday and got more informa
  ## Day 157
 Thursday 10th August 2023
 ### **Today's progress**:
-
+MUM's BIRTHDAY
+- Look up job description and read up on AWS (Serverless)
 
 
 ### Thoughts:
