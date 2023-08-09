@@ -4186,6 +4186,30 @@ Tuesday 8th August 2023
 ### **Today's progress**:
 - Spent the day hoovering up sister's place and messaged a couple of bootcampers(good luck for tomorrow!)
 
+Victoria Meah
+  16:27
+@channel, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+BAE
+Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+U-Track
+Offers out - feedback given. Mike made a comment that your ‘headline’ on huntr is something they do look at, and they like ones that stand out and say something about you.
+Another thing he said to note was make sure your location on huntr is specific rather than just ‘United kingdom’ it saves time when some companies are filtering by location.
+Apian
+Interviews complete. Still chasing outcomes and feedback/offers
+Talis
+Offer out - feedback given on unsuccessful interviewees directly by Nadeem. He made a comment that the feedback he gave was handled really well by candidates.
+Green Gorilla Apps
+On hold until mid-August. Interviews will be booked then.
+Iceland - remote role
+General feedback posted in slack. No more names are being given now, hackathons are taking place. For those who didn’t get shortlisted, Rick said it was extremely hard to pick as there were over 100 applications! He said the main thing is to make it easy for people to look at your projects eg. no sign-ups on your projects asking for details. Some CVs were too sales-y and it didn’t always feel genuine. There were still people he would of liked to have shortlisted but because there were so many applications, sometimes small things like would be the decider eg. quirky things/hobbies on your CV, extra curricular activities. Rick is happy for people to reach out if you wanted to ask about it :)
+Iceland - (IT side)
+On huntr - annual leave for a couple of people so not all applications have been reviewed yet.
+KAIMAI
+First initial Interviews taking place this week. Tech tests to be given out next week after first initial interviews. Team sending feedback on CV’s and why they were chosen.
+VANTI
+Applications are still under review at Vanti. Applicants will be updated on progress in due course
+REAPIT
+Upcoming role on Huntr
 
 
 ### Thoughts:
@@ -4196,10 +4220,30 @@ Tuesday 8th August 2023
  ## Day 156
 Wednesday 9th August 2023
 ### **Today's progress**:
+Woke up early to put bins out
+- Hoovered sister’s place again
 - Iceland Foods Hackathon
   Brief: Green Product: Create a feature that is eco-friendly to help customers make sustainable choices.
 
+**[Wellfound](https://wellfound.com/discover/startups?location=united-kingdom)**
 
+**[Otta](https://app.otta.com/jobs/bURTS05N)**
+
+**[CW Jobs](https://www.cwjobs.co.uk/?gclid=CjwKCAjw8symBhAqEiwAaTA__D-NtkXUQ0z1yDzzT3ujWTUdYjDLyV9LD4ZQl68fp2whDdwp2PwxShoCvLkQAvD_BwE&ef_id=CjwKCAjw8symBhAqEiwAaTA__D-NtkXUQ0z1yDzzT3ujWTUdYjDLyV9LD4ZQl68fp2whDdwp2PwxShoCvLkQAvD_BwE:G:s&s_kwcid=AL!7101!3!262060426975!e!!g!!cwjobs&WT.mc_id=A_SE_Google_CW-Brand-Pure-Exact_c_Brand-Pure-Exact_cwjobs_262060426975_e)**
+
+**[Stackoverflow Jobs](https://stackoverflow.com/jobs/companies?l=United+Kingdom)**
+
+**[Techno Jobs](https://www.technojobs.co.uk/)**
+
+**[Milkround](https://www.milkround.com/jobs/technology)**
+
+**[It Jobs Watch](https://www.itjobswatch.co.uk/search?q=&l=UK)**
+
+**[Hired.com](http://hired.com/)**
+
+**[Adzuna](https://www.adzuna.co.uk/jobs/it-jobs)**
+
+Got an email from Rehan(KFC) about interviewing next Monday and got more information 🙂 fingers crossed
 ### Thoughts:
 
 ### Links to work / resources:
