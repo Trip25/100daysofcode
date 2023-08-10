@@ -4263,7 +4263,16 @@ MUM's BIRTHDAY
 - Look up job description and read up on AWS (Serverless)
 
 
+-Victoria Meah 16:42
+Hey bootcampers, @channel can you give me a :white_tick: if you'd be interested/could commit to doing a 4 year computer science degree whilst working for a company? (you'd have your degree paid for and would be paid by the company)
+:white_tick: 52
+:blob-dance: 4
+:heart: 1
+
+
+
 ### Thoughts:
+Potential to learn and get a degree with a company but I guess let's see the uni locations and companies and also salaries
 
 ### Links to work / resources:
 
