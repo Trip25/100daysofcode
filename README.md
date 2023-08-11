@@ -4280,12 +4280,17 @@ Potential to learn and get a degree with a company but I guess let's see the uni
  ## Day 158
 Friday 11th August 2023
 ### **Today's progress**:
-
+- Watched Barbie
+- 
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+
+- Project Concept: Task Management App: https://docs.google.com/document/d/1r4esU93rRHzqWbp2phuFaBDPIdtN6KoaHGAnM-3dxbY/edit
+- Junior Design Adventure: Nature Explorer App: https://docs.google.com/document/d/1ZPOTsVgyYKtftDuVKomXWZmyrPuSgdZ_cOo6HnvopNY/edit
+- Junior Entrepreneurial Venture: Eco-Friendly Lifestyle PM Challenge: https://docs.google.com/document/d/1bQRJH53jxj736Q6jYInfHjvCN92J-2XDwjZjg9Hdm0Q/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 159
@@ -4309,12 +4314,362 @@ Sunday 13th August 2023
 
 ### Links to work / resources:
 ----------------------------------------------------------------------------------------------------
- ## Day 158
+ ## Day 161
 Monday 14th August 2023
 
 
 ### **Today's progress**:
 
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 162
+Tuesday 15th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 163
+Wednesday 16th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 164
+Thursday 17th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 165
+Friday 18th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 166
+Saturday 19th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 167
+Sunday 20th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 168
+Monday 21st August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 169
+Tuesday 22nd August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 170
+Wednesday 23rd August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 171
+Thursday 24th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 172
+Friday 25th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 173
+Saturday 26th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 174
+Sunday 27th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 175
+Monday 28th August 2023
+### **Today's progress**:
+SUMMER BANK HOLIDAY
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+
+----------------------------------------------------------------------------------------------------
+ ## Day 176
+Tuesday 29th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 177
+Wednesday 30th August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 178
+Thursday 31st August 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 179
+Friday 1st September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+
+----------------------------------------------------------------------------------------------------
+ ## Day 180
+Saturday 2nd September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 181
+Sunday 3rd September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 182
+Monday 4th September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 183
+Tuesday 5th September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 184
+Wednesday 6th September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 185
+Thursday 7th September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 186
+Friday 8th September 2023
+### **Today's progress**:
+LONDON HEATHROW TO COPENHAGEN
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 187
+Saturday 9th September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 188
+Sunday 10th September 2023
+
+
+### **Today's progress**:
+
+
+
+### Thoughts:
+
+### Links to work / resources:
+----------------------------------------------------------------------------------------------------
+ ## Day 189
+Monday 11th September 2023
+### **Today's progress**:
+ARLO'S BIRTHDAY
 
 
 ### Thoughts:
