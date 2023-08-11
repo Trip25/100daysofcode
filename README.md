@@ -4281,8 +4281,34 @@ Potential to learn and get a degree with a company but I guess let's see the uni
 Friday 11th August 2023
 ### **Today's progress**:
 - Watched Barbie
-- 
+  
+**Victoria Meah** [14:06](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1691759173647699)
 
+**@channel**, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+
+**BAE:** Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+
+**U-Track:** Offers out - feedback given. Mike made a comment that your ‘headline’ on huntr is something they do look at, and they like ones that stand out and say something about you. Another thing he said to note was make sure your location on huntr is specific rather than just ‘United kingdom’ it saves time when some companies are filtering by location.
+
+**Apian:** Interviews complete. Still chasing outcomes and feedback/offers
+
+**Talis:** Offer out - feedback given on unsuccessful interviewees directly by Nadeem. He made a comment that the feedback he gave was handled really well by candidates.
+
+**Green Gorilla Apps:** On hold until mid-August. Interviews will be booked then. Next update - Tues 15th.
+
+**Iceland - remote role:** Hackathons complete. Next and final stage being shortlisted. For those who didn’t get shortlisted (for the hackathon), Rick said it was extremely hard to pick as there were over 100 applications! He said the main thing is to make it easy for people to look at your projects eg. no sign-ups on your projects asking for details. Some CVs were too sales-y and it didn’t always feel genuine. There were still people he would of liked to have shortlisted but because there were so many applications, sometimes small things like would be the decider eg. quirky things/hobbies on your CV, extra curricular activities. Rick is happy for people to reach out if you wanted to ask about it :)
+
+**Iceland - (IT side):** Shortlist created - Iceland will be reaching out directly.
+
+**KAIMAI:** First initial Interviews taking place this week. Tech tests to be given out next week after first initial interviews. Team sending feedback on CV’s and why they were chosen.
+
+**VANTI:** Applications are still under review at Vanti. Applicants will be updated on progress in due course
+
+**REAPIT:** Upcoming role on Huntr
+
+**University of Birmingham:** Upcoming role on Huntr
+
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
 
 ### Thoughts:
 
