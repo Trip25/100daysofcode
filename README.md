@@ -4322,10 +4322,12 @@ We'll post more updates on individual roles as we have them. Don't hesitate to r
  ## Day 159
 Saturday 12th August 2023
 ### **Today's progress**:
-
+Village Party and Family party gathering in Frimley
 
 
 ### Thoughts:
+Ended up having a long walk! 
+Also chismo - neighbour got arrested around 11pm 0-0
 
 ### Links to work / resources:
 
