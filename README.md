@@ -4335,7 +4335,10 @@ Also chismo - neighbour got arrested around 11pm 0-0
  ## Day 160
 Sunday 13th August 2023
 ### **Today's progress**:
-
+- Tracking sister's plane home
+- Feeling ill again
+- Quick coding refresher on codecademy
+- Prepping interview questions and answers
 
 
 ### Thoughts:
