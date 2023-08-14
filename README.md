@@ -4347,9 +4347,15 @@ Sunday 13th August 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 161
 Monday 14th August 2023
-
-
 ### **Today's progress**:
+KFC Junior Engineer interview with Jaime Hall- Head of Architecture
+
+Date: Monday 14th August
+Time: 11:30am (roughly 30 minutes)
+Interviewer: **Jaime Hall**
+
+Context: Jaime will want to get to know you and delve into your work experience and what you can bring to the team.
+
 
 
 
