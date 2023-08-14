@@ -4356,7 +4356,7 @@ Interviewer: **Jaime Hall**
 
 Context: Jaime will want to get to know you and delve into your work experience and what you can bring to the team.
 
-
+Rehan gave me a call at 16:30 to follow up on the interview, any questions and any feedback to give. Should hopefully be in contact with Jaime and follow up by Wed/Thurs/ end of the week.
 
 
 ### Thoughts:
