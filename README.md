@@ -4370,7 +4370,7 @@ Tuesday 15th August 2023
 
 
 ### **Today's progress**:
-
+Revision on Codecademy- full stack engineer, going through classes and inheritance
 
 
 ### Thoughts:
@@ -4383,6 +4383,14 @@ Wednesday 16th August 2023
 
 
 ### **Today's progress**:
+11-12 Recruitment Clinic
+
+Agenda Highlights:
+
+Application Deep Dive: Wondering what makes an application pop? We're dissecting a real external role application to reveal the secrets of catching recruiters' eyes. 🧐📝
+Application Blast: Take your job hunt to the next level by sending out 10 applications each. It's a rapid-fire round to get your name out there! 💼🎯
+Live Role Q&A: Got questions about current job openings, interviews, or career paths? We'll provide insights and advice 🗣️
+Coding Challenge Throwdown: Flex your coding muscles with SoloLearn challenges. Whether you're a coding pro or just starting, let's tackle these challenges as a team. And yes, the coding fun doesn't have to stop when the clinic does! 💻🤓
 
 
 
@@ -4474,6 +4482,14 @@ Wednesday 23rd August 2023
 
 
 ### **Today's progress**:
+11-12:Recruitment Clinic w/Richard Bray
+What's in Store: Practical learning that you can dive into right away. Here's a sneak peek:
+
+Tech Test Run-Through: Struggling to break down tech tests? We'll dive into a sample test, dissect the challenges, and conquer them together. Bring your questions and curiosity!
+
+Project Adventure: We're rolling up our sleeves and diving into a mini-project. Hands-on learning at its best. It's not about watching slides – it's about doing. Get ready to code, create, and collaborate!
+
+Q&A Extravaganza: Have burning questions about tech, career growth, or anything else 🚀 
 
 
 
