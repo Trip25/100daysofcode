@@ -4388,7 +4388,8 @@ Application Blast: Take your job hunt to the next level by sending out 10 applic
 Live Role Q&A: Got questions about current job openings, interviews, or career paths? We'll provide insights and advice 🗣️
 Coding Challenge Throwdown: Flex your coding muscles with SoloLearn challenges. Whether you're a coding pro or just starting, let's tackle these challenges as a team. And yes, the coding fun doesn't have to stop when the clinic does! 💻🤓
 
-
+Steph Slater 15:43
+@channel Hi All - there is a new role up with Reapit as a Business analyst, it will be hybrid, roughly 2/3 days a week in their Solihull office. They will be looking at your bios on Huntr as well as the CV, so make sure your Huntr profiles & bios are fleshed out if you're interested! They're looking for someone with confidence and great communication skills. There is a breakdown also of what they're looking for on the job spec !
 
 ### Thoughts:
 Did not get shortlisted to interview after the hackathon for Iceland
@@ -4399,10 +4400,9 @@ Did not get shortlisted to interview after the hackathon for Iceland
 ----------------------------------------------------------------------------------------------------
  ## Day 164
 Thursday 17th August 2023
-
-
 ### **Today's progress**:
-
+- Need to complete Factors test for Mercedes
+- Need to complete 3 questions for Playstation London Studio
 
 
 ### Thoughts:
