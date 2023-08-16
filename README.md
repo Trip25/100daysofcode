@@ -4367,8 +4367,6 @@ Rehan gave me a call at 16:30 to follow up on the interview, any questions and a
 ----------------------------------------------------------------------------------------------------
  ## Day 162
 Tuesday 15th August 2023
-
-
 ### **Today's progress**:
 Revision on Codecademy- full stack engineer, going through classes and inheritance
 
@@ -4380,8 +4378,6 @@ Revision on Codecademy- full stack engineer, going through classes and inheritan
 ----------------------------------------------------------------------------------------------------
  ## Day 163
 Wednesday 16th August 2023
-
-
 ### **Today's progress**:
 11-12 Recruitment Clinic
 
@@ -4395,8 +4391,10 @@ Coding Challenge Throwdown: Flex your coding muscles with SoloLearn challenges. 
 
 
 ### Thoughts:
+Did not get shortlisted to interview after the hackathon for Iceland
 
 ### Links to work / resources:
+- Recruitment Clinic 16/08: https://docs.google.com/document/d/1rLNNY3g5RVZVORLXqLuM0duPNrOLUfCZ47i0fPfnmdg/edit
 
 ----------------------------------------------------------------------------------------------------
  ## Day 164
@@ -4479,7 +4477,6 @@ Tuesday 22nd August 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 170
 Wednesday 23rd August 2023
-
 
 ### **Today's progress**:
 11-12:Recruitment Clinic w/Richard Bray
