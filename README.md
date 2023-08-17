@@ -4401,13 +4401,29 @@ Did not get shortlisted to interview after the hackathon for Iceland
  ## Day 164
 Thursday 17th August 2023
 ### **Today's progress**:
-- Need to complete Factors test for Mercedes
+- Completed the Factors(personality) test for Mercedes
 - Need to complete 3 questions for Playstation London Studio
+- Got a call from Rehan - progressed and booked in interview tomorrow with development team (fingers crossed)
+- Also need to follow up on Federico's linkedin message
 
 
 ### Thoughts:
+- In other news:
+- Visited Xavier and co next door, received a honeycomb cupcake
+- Took a walk and also went to the outdoor gym
+- Fixed up and supported the tomato in the garden
 
 ### Links to work / resources:
+PlayStation London Studio Development Support Intern – 12-month FTC (Paid) 3 Questions: https://docs.google.com/document/d/1d0TvB2-TyfMNBiPewMqbv3Gm7c4pSWX9vosRYI4k-NM/edit#heading=h.3qfigj5ecvdg 
+- Why we’re starting an internship programme.: https://playstationlondonstudio.com/why-we-are-starting-an-internship-programme/
+- How to enhance your job application: https://playstationlondonstudio.com/how-to-enhance-your-job-application/
+- https://playstationlondonstudio.com/internships/
+- https://playstationlondonstudio.com/join-us/job/?id=6866934002
+- https://www.gamesindustry.biz/how-unity-and-early-access-helped-make-dave-the-diver-one-of-2023s-biggest-indie-hits
+Technical Product Owner: https://www.linkedin.com/jobs/view/3652271521/ [Research this for the interview]
+- https://aws.amazon.com/blogs/architecture/the-technology-behind-kfcs-finger-lickin-good-success/
+- https://bitbucket.org/product/features/pipelines
+
 
 ----------------------------------------------------------------------------------------------------
  ## Day 165
@@ -4416,6 +4432,9 @@ Friday 18th August 2023
 
 ### **Today's progress**:
 
+**Date:** Friday 18th August
+**Time: 11:00am (roughly 30 minutes)**
+**Interviewer: Lawrence Santangeli and Peter Garside-Quin**
 
 
 ### Thoughts:
@@ -4425,8 +4444,6 @@ Friday 18th August 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 166
 Saturday 19th August 2023
-
-
 ### **Today's progress**:
 
 
