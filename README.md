@@ -4434,7 +4434,35 @@ Friday 18th August 2023
 
 **Date:** Friday 18th August
 **Time: 11:00am (roughly 30 minutes)**
-**Interviewer: Lawrence Santangeli and Peter Garside-Quin**
+**Interviewer: Lawrence Santangeli(Product Owner) and Peter Garside-Quin(Developer who started recently**
+Actually ended 12:05. Peter joined around 11:35, delayed due to technical issues on teams. 
+
+Rehan called around 12:19, followed up on interview from my side- hasn't heard anything from Lawrence/Peter just yet. Rehan has a day off on Monday so will probably aim to follw up on Tuesday. Fingers crossed :) 
+
+**Victoria Meah** [15:21](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1692368466848069)
+
+**@channel**, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+
+**BAE[**(Sam Baldwin, Theo Eddy and Jason Donoghue and Jay Kirtlan)[Start Nov 2023]**]:** Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+
+**Apian:** Offer made. Feedback/outcome given directly by Apian for other interviewees.
+
+**Green Gorilla Apps:** Final decisions on interviews to be made still from applications that were sent over, HM just got back from annual leave on 16th August. Next update 22nd August.
+
+**Iceland - remote role:** Final shortlist made from the hackathon - bootcampers have been messaged. Asked for feedback on specific people from the hackathons, but equally some people have reached out to contacts at Iceland to ask for specific feedback. Final interviews complete also. Offers being discussed.
+
+**Iceland - (IT side):** Shortlist created - Iceland will be reaching out directly.
+
+**KAIMAI:** Team sending feedback on CV’s and why they were chosen. Awaiting feedback on interviews
+
+**VANTI:** Applications are still under review at Vanti. Applicants will be updated on progress in due course
+
+**REAPIT:** Role on Huntr - check the job-announcements slack further up for little extra info.
+
+**University of Birmingham:** Upcoming role on Huntr for September
+
+**B13 Technology:** Applications sent
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
 
 
 ### Thoughts:
@@ -4445,7 +4473,7 @@ Friday 18th August 2023
  ## Day 166
 Saturday 19th August 2023
 ### **Today's progress**:
-
+Tennis/Frisbee at Cove green then meeting at Jenny's @1pm
 
 
 ### Thoughts:
