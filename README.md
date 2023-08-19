@@ -4477,6 +4477,7 @@ Tennis/Frisbee at Cove green then meeting at Jenny's @1pm
 
 
 ### Thoughts:
+Seems like decent weather, will try and do applications depending on what time I come back.
 
 ### Links to work / resources:
 
