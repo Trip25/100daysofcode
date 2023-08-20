@@ -4478,16 +4478,15 @@ Tennis/Frisbee at Cove green then meeting at Jenny's @1pm
 
 ### Thoughts:
 Seems like decent weather, will try and do applications depending on what time I come back.
+No applications were done.. arrived back home at 10:30pm with a killer headache. Straight to bed with painkillers and water.
 
 ### Links to work / resources:
 
 ----------------------------------------------------------------------------------------------------
  ## Day 167
 Sunday 20th August 2023
-
-
 ### **Today's progress**:
-
+No coding today, enjoyed a nice day out at Farnham with Sister and nephew and dog. 
 
 
 ### Thoughts:
