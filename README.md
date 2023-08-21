@@ -4496,10 +4496,12 @@ No coding today, enjoyed a nice day out at Farnham with Sister and nephew and do
 ----------------------------------------------------------------------------------------------------
  ## Day 168
 Monday 21st August 2023
-
-
 ### **Today's progress**:
-
+- Felt a bit ill again
+- Went for a walk
+- Admin, emails
+- Work on the questions for application
+- Chatted with Tom T Burns and helped him with his CV :)
 
 
 ### Thoughts:
