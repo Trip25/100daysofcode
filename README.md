@@ -4511,13 +4511,13 @@ Monday 21st August 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 169
 Tuesday 22nd August 2023
-
-
 ### **Today's progress**:
-
+Got the job offer and accepted(19:00 email)!
 
 
 ### Thoughts:
+Day out at Virginia Water, rugby practice with Xavier. Got some white chocolate chip macademia cookies from Subway.
+
 
 ### Links to work / resources:
 
