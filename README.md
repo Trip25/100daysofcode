@@ -4514,6 +4514,31 @@ Tuesday 22nd August 2023
 ### **Today's progress**:
 Got the job offer and accepted(19:00 email)!
 
+**Victoria Meah** [20:06](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1692731209428409)
+
+**@channel**, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+
+**BAE[**(Sam Baldwin, Theo Eddy and Jason Donoghue and Jay Kirtlan)**]:**Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+
+**Apian:** Offer made. Feedback/outcome given directly by Apian for other interviewees.
+
+**Green Gorilla Apps:** Interviews will be booked in w/c 29th August, initial interviewees will be contacted this week
+
+**Iceland - remote role:** Offers being discussed, to be made this week.
+
+**Iceland - (IT side):** Shortlist created - Iceland will be reaching out directly.
+
+**KAIMAI:** Team sending feedback on CV’s and why they were chosen. Awaiting feedback on interviews
+
+**VANTI:** Applications are still under review at Vanti. Applicants will be updated on progress in due course
+
+**REAPIT:** Role on Huntr - check the job-announcements slack further up for little extra info.
+
+**University of Birmingham:** Upcoming role on Huntr for September
+
+**B13 Technology:** Applications sent. 
+
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
 
 ### Thoughts:
 Day out at Virginia Water, rugby practice with Xavier. Got some white chocolate chip macademia cookies from Subway.
