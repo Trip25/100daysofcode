@@ -4560,11 +4560,13 @@ Project Adventure: We're rolling up our sleeves and diving into a mini-project. 
 
 Q&A Extravaganza: Have burning questions about tech, career growth, or anything else 🚀 
 
+Informed SOC about the job offer! 
 
 
 ### Thoughts:
 
 ### Links to work / resources:
+https://github.com/RichardBray/soc_hacker_news
 
 ----------------------------------------------------------------------------------------------------
  ## Day 171
