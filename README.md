@@ -4574,9 +4574,10 @@ Thursday 24th August 2023
 
 
 ### **Today's progress**:
-
-
-
+- Walk
+- Laundry
+- Work on Codecademy to refresh
+- Plan future holidays
 ### Thoughts:
 
 ### Links to work / resources:
