@@ -4585,11 +4585,35 @@ Thursday 24th August 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 172
 Friday 25th August 2023
-
-
 ### **Today's progress**:
 
+**Victoria Meah** [17:21](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1692980477617819)
 
+**@channel**, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+
+**BAE:** Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+
+**Apian:** Offer made. Feedback/outcome given directly by Apian for other interviewees.
+
+**Green Gorilla Apps:** Initial get to know you interviews have been booked, there may be more to come the following week. Will keep you all posted.
+
+**Iceland - remote role:** Steph will reach out on Tuesday 29th with news of offers. Will update here so you’re all informed.
+
+**Iceland - (IT side):** Shortlist created - Iceland will be reaching out directly.
+
+**KAIMAI:** Awaiting feedback on interviews.
+
+**VANTI:** Applications are still under review at Vanti. Applicants will be updated on progress in due course
+
+**REAPIT- Principle Associate Business Analyst £30k, Solihull:** Role on Huntr - check the job-announcements slack further up for little extra info.
+
+**University of Birmingham:** Upcoming role on Huntr for September
+
+**B13 Technology:** Applications sent
+
+**Experian- Junior Developer £30,000.00 - £36,000.00,** • Experian Way, Nottingham NG2 1EP, UK - Must be a commutable distance**:** New role on Huntr
+
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
 
 ### Thoughts:
 
