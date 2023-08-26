@@ -4622,10 +4622,11 @@ We'll post more updates on individual roles as we have them. Don't hesitate to r
 ----------------------------------------------------------------------------------------------------
  ## Day 173
 Saturday 26th August 2023
-
-
 ### **Today's progress**:
-
+- Gardening
+- Walking
+- Met family friends
+- Researched tasks for holiday
 
 
 ### Thoughts:
@@ -4635,8 +4636,6 @@ Saturday 26th August 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 174
 Sunday 27th August 2023
-
-
 ### **Today's progress**:
 
 
