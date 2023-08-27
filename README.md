@@ -4637,7 +4637,7 @@ Saturday 26th August 2023
  ## Day 174
 Sunday 27th August 2023
 ### **Today's progress**:
-
+- Need to exercise!
 
 
 ### Thoughts:
