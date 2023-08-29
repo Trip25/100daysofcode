@@ -4695,6 +4695,8 @@ Hi **@channel**,I hope you all had a great bank holiday weekend. We’ve had a 
 We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
 
 
+17:33 Official Offer letter and contract from KFC
+
 ### Thoughts:
 
 ### Links to work / resources:
