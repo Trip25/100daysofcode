@@ -4659,10 +4659,40 @@ SUMMER BANK HOLIDAY
 ----------------------------------------------------------------------------------------------------
  ## Day 176
 Tuesday 29th August 2023
-
-
 ### **Today's progress**:
+**Victoria Meah** [12:19](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1693307961674159)
 
+Hi **@channel**,I hope you all had a great bank holiday weekend. We’ve had a potential developer opportunity come up with a partner, this position would require the candidate to commute to their Peterborough office 10 days a month.If this is realistic for you and would be interested in having your cv sent over, please respond with a ✅Thanks all 😊
+
+✅17
+
+
+
+**Victoria Meah** [14:46](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1693316760019899)
+
+**@channel**, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+
+**BAE:** Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+
+**Green Gorilla Apps:** Initial get to know you interviews have been booked, there may be more to come the following week. Will keep you all posted.
+
+**Iceland - remote role:** A couple of offers have been made now, but awaiting sign-off on another. Annual leave has held this up a bit.
+
+**Iceland - (IT side):** Interviews in process. Feedback being gathered.
+
+**KAIMAI:** Awaiting feedback on interviews.
+
+**VANTI:** Applications are still under review at Vanti. Postponed until the end of September.
+
+**REAPIT:** Role on Huntr - check the job-announcements slack further up for little extra info. Applications to be reviewed on 4th September onwards.
+
+**University of Birmingham:** Upcoming role on Huntr for September
+
+**B13 Technology:** Applications sent, currently being reviewed by the B13 team.
+
+**Experian:** Applications sent.
+
+We'll post more updates on individual roles as we have them. Don't hesitate to reach out if you have any questions or concerns 🙂
 
 
 ### Thoughts:
