@@ -4709,6 +4709,10 @@ Wednesday 30th August 2023
 Recruitment Clinic w/Spinks @ Wed 30 Aug 2023 11:00 - 12:00 (BST)
 CV Review with Spinks: Bring your CV for a live review session. Get valuable insights and feedback to enhance your chances of making a great impression on recruiters.
 
+- Teammate flagged an error with our project app
+- Investigated and fixed
+- Worked on codecademy
+- 
 
 ### Thoughts:
 
