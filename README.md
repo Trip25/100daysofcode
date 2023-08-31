@@ -4724,12 +4724,18 @@ Thursday 31st August 2023
 
 
 ### **Today's progress**:
-
-
+- Call from recruiter, scheduled day in office next week
+- Chased up email
+- Went out shopping at M&S Meadows, bought some new slippers for dad and socks for myself. Very busy.
+- Evening checked offer documents and onboarding via docusign and completed.
+- Also signed up for C# Certification with freeCodeCamp Challenge and Microsoft.
 
 ### Thoughts:
+Saw Hung got one of the roles at Iceland Foods, very cool!
 
 ### Links to work / resources:
+- Bitbucket Tutorial | Bitbucket for Beginners: https://www.youtube.com/watch?v=i5T-DB8tb4A&ab_channel=TheChannelAboutAnything
+- C# Certification with freeCodeCamp Challenge: https://learn.microsoft.com/en-gb/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a&WT.mc_id=cloudskillschallenge_registration-email-learn 
 
 ----------------------------------------------------------------------------------------------------
  ## Day 179
@@ -4783,10 +4789,8 @@ Monday 4th September 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 183
 Tuesday 5th September 2023
-
-
 ### **Today's progress**:
-
+Office
 
 
 ### Thoughts:
