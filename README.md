@@ -4740,10 +4740,8 @@ Saw Hung got one of the roles at Iceland Foods, very cool!
 ----------------------------------------------------------------------------------------------------
  ## Day 179
 Friday 1st September 2023
-
-
 ### **Today's progress**:
-
+- Rain all day
 
 
 ### Thoughts:
