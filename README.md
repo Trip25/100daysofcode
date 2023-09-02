@@ -4785,10 +4785,12 @@ We'll post more updates on individual roles as we have them. Don't hesitate to r
 ----------------------------------------------------------------------------------------------------
  ## Day 180
 Saturday 2nd September 2023
-
-
 ### **Today's progress**:
-
+- House chores
+- Felt ill, slept for ages
+- gardening
+- evening walk 
+- exercise
 
 
 ### Thoughts:
@@ -4831,10 +4833,23 @@ Office
 ----------------------------------------------------------------------------------------------------
  ## Day 184
 Wednesday 6th September 2023
-
-
 ### **Today's progress**:
+Recruitment Clinic w/Richard Bray (Part 2) @ Wed 6 Sept 2023 11:00 - 12:00 (BST)
 
+**What's in Store:** Practical learning that you can dive into right away. Here's a sneak peek:
+
+1. **Tech Test Run-Through:** Struggling to break down tech tests? We'll dive into a sample test, dissect the challenges, and conquer them together. Bring your questions and curiosity!
+2. **Project Adventure:** We're rolling up our sleeves and diving into a mini-project. Hands-on learning at its best. It's not about watching slides – it's about doing. Get ready to code, create, and collaborate!
+3. **Q&A Extravaganza:** Have burning questions about tech, career growth, or anything else 
+    
+    See you on Wednesday!
+    
+
+## **Location**
+
+---
+
+https://schoolofcode.zoom.us/j/89332016076
 
 
 ### Thoughts:
