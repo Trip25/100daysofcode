@@ -4799,8 +4799,6 @@ Saturday 2nd September 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 181
 Sunday 3rd September 2023
-
-
 ### **Today's progress**:
 
 
@@ -4811,10 +4809,8 @@ Sunday 3rd September 2023
 ----------------------------------------------------------------------------------------------------
  ## Day 182
 Monday 4th September 2023
-
-
 ### **Today's progress**:
-
+emailed evidence@schoolofcode.co.uk with a screenshot to show evidence of offer from KFC without breaching confidentiality
 
 
 ### Thoughts:
