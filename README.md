@@ -4820,7 +4820,44 @@ emailed evidence@schoolofcode.co.uk with a screenshot to show evidence of offer 
  ## Day 183
 Tuesday 5th September 2023
 ### **Today's progress**:
-Office
+- Go to office with passport
+- Check in at reception around 10:05? - Nepali security Amrit Gurung
+- Rehan(Based Surbiton- worked there for 3 years)- Right to Work
+- Building tour
+- Chat with buddy **Lawrence Santangeli**
+- Check out - mini chat with Nepali uncle lol
+
+Finished 10:49
+
+Car park was free due to maintenance 😃
+
+**Victoria Meah** [19:51](https://schoolofcode-bc14.slack.com/archives/C05FDM2PR1V/p1693939914003189)
+
+**@channel**, here's an update on the current roles we're working on and where they're currently at in the hiring process:
+
+**BAE:** Final offers given. Collecting feedback on why candidates were chosen. In talks of a second hackathon with another unit.
+
+**Green Gorilla Apps:** Initial get to know you interviews have been booked, there may be more to come next week. Will keep you all posted.
+
+**Iceland - remote role:** Messages sent out to interviewees. Still awaiting approval for a third offer, it hasn’t been made to anyone yet. Apologies for how long this has taken. If and when a third offer has been made, feedback will be given out to unsuccessful people.
+
+**KAIMAI:** Awaiting feedback on interviews.
+
+**VANTI:** Applications are still under review at Vanti. Postponed until the end of September.
+
+**REAPIT:** Role on Huntr - check the job-announcements slack further up for little extra info. Applications initially were going to be reviewed from the 4th September - but Davids annual leave has now extended until the 11th September. Applications will be reviewed when he’s back.
+
+**University of Birmingham:** Upcoming role on Huntr for September
+
+**B13 Technology:** Applications sent, currently being reviewed by the B13 team.
+
+**Experian:** Applications sent.
+
+**Protectbox:** Applications sent. Currently being reviewed by team.
+
+We'll post more updates on individual roles as we have them. 
+
+Don't hesitate to reach out if you have any questions or concerns 🙂
 
 
 ### Thoughts:
