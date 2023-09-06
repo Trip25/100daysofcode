@@ -4877,6 +4877,7 @@ Recruitment Clinic w/Richard Bray (Part 2) @ Wed 6 Sept 2023 11:00 - 12:00 (BST)
     
     See you on Wednesday!
     
+- Bought travel insurance
 
 ## **Location**
 
