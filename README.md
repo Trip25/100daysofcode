@@ -4879,13 +4879,6 @@ Recruitment Clinic w/Richard Bray (Part 2) @ Wed 6 Sept 2023 11:00 - 12:00 (BST)
     
 - Bought travel insurance
 
-## **Location**
-
----
-
-https://schoolofcode.zoom.us/j/89332016076
-
-
 ### Thoughts:
 
 ### Links to work / resources:
