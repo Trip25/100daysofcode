@@ -4885,10 +4885,9 @@ Recruitment Clinic w/Richard Bray (Part 2) @ Wed 6 Sept 2023 11:00 - 12:00 (BST)
 ----------------------------------------------------------------------------------------------------
  ## Day 185
 Thursday 7th September 2023
-
-
 ### **Today's progress**:
-
+- Packing packing packing
+- Finishing the rest of my packing and get an early night!
 
 
 ### Thoughts:
